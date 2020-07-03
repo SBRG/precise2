@@ -145,7 +145,7 @@ def plot_samples_bar(ica_data,k,project=None,ax=None,legend_args={}):
     
     # Plot all projects not in the highlighted set
     other = ica_data.metadata[ica_data.metadata.project_id!=project].reset_index()
-    ax.bar(range(len(other)),ica_data.A.loc[k,other['sample_id']],
+    ax.bar(range(other.shape[0]),ica_data.A.loc[k,other['index']],
             width=1,linewidth=0,align='edge',label='Previous Experiments')
     
     # Draw lines to discriminate between projects
