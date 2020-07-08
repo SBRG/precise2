@@ -1,10 +1,10 @@
 ,component,name,TF,log_odds,f1score,pvalue,precision,recall,TP,n_genes,n_tf,Regulator,Function,Category,threshold,PRECISE_name,Cam_confidence,Cam_note
 0,0,Resistance,,,,,,,,6,,,Antibiotic and foreign element resistance,Stress Response,0.076642957,,medium,an interesting iModulon! Activity high only in abx_media project was key piece of info
-1,1,,,5.101574134,0.212765957,4.61E-09,0.131578947,0.555555556,5,38,1,dcuR,,,0.059499248,,low,"A lot of things going on in this one; DcuR doesn't seem right, at least not alone"
-2,2,,,inf,0.078125,1.61E-08,1,0.040650407,5,5,1,narL,,,0.132505153,,low,"Nitrate? Has two genes high-weighted, three low; probably a clean story but needs digging"
+1,1,Reduction,,,,,,,,38,,,Reductase Functionality,Energy Metabolism,0.059499248,,medium,Best I can say is that the negatively-weighted genes are mostly reductases; activity is super low in the ROS TALE
+2,2,Nitrate Reductase,,,,,,,,5,,,Accounts for genes involved in nitrate reductase,Biological Enrichment,0.132505153,,medium,"Nitrate? Has two genes high-weighted, three low; probably a clean story but needs digging"
 3,3,uncharacterized-1,,,,,,,,39,,,Unknown Function,Uncharacterized,0.050099372,uncharacterized-1,high,from PRECISE 1.0
 4,4,PaaX/FecI,paaX+fecI,inf,0.774194,4.93E-31,1,0.631579,12,12,2,paaX and fecI,Phenylacetic acid catabolism/ferric citrate uptake,Carbon Source Utilization,0.092882791,,high,Clear overlap with iModulon; but how are these functionally related?
-5,5,,,inf,0.23255814,3.75E-11,0.131578947,1,5,38,1,gatR,Various carbon source catabolism,Carbon Source Utilization,0.046974465,Crp-2,low,gatR enrichment seems worth double-checking
+5,5,GatR,,inf,0.23255814,3.75E-11,0.131578947,1,5,38,1,gatR,Various carbon source catabolism,Carbon Source Utilization,0.046974465,Crp-2,medium,gatR enrichment seems worth double-checking; a lot of noise
 6,6,uncharacterized-6,,,,,,,,110,,,Unknown Function,Uncharacterized,0.042249044,uncharacterized-6,high,from PRECISE 1.0
 7,7,sdh_KO,,,,,,,,5,,,Deletion of succinate dehydrogenase,Genomic Alterations,0.117303804,,high,just the 4 sdh operon genes; low activity in KALE
 8,8,CpxR,cpxR,3.940960255,0.285714286,2.04E-18,0.375,0.230769231,15,40,1,cpxR,Various stress responses,Stress Response,0.05450153,CpxR,high,from PRECISE 1.0
@@ -15,9 +15,9 @@
 13,13,Lipopolysaccharide,,,,,,,,119,,,Lipopolysaccharide biosynthesis,Biological Enrichment,0.035393499,lipopolysaccharide,high,from PRECISE 1.0
 14,14,Lrp,lrp,4.412480769,0.323076923,1.70E-46,0.763636364,0.204878049,42,55,1,lrp,Amino acid and peptide transport,Amino Acid and Nucleotide Biosynthesis,0.049858935,Lrp,high,from PRECISE 1.0
 15,15,NrdR,nrdR,6.548792005,0.444444444,1.03E-09,0.444444444,0.444444444,4,9,1,nrdR,Ribonucleotide reduction,Amino Acid and Nucleotide Biosynthesis,0.108337928,,high,highly-weighted operon is regulated by nrdR
-16,16,,,,,,,,,10,,,,,0.094676759,,low,"a bunch of putative proteins, not clear"
-17,17,,,,,,,,,13,,,,,0.084348647,,low,arn operon stands out
-18,18,,,,,,,,,12,,,,,0.067858777,,low,maybe noise? A lot of putative proteins
+16,16,pdhR/noise,,,,,,,,10,,,,,0.094676759,,medium,"pdhR low-weighted, plus some relatively short genes"
+17,17,Polymixin Resistance,,,,,,,,13,,,,,0.084348647,,medium,Highly-weighted operons are involved in LPS/polymixin resistance specifically
+18,18,noise-1,,,,,,,,12,,,,,0.067858777,,medium,maybe noise? A lot of putative proteins
 19,19,NagC,nagC,5.630520299,0.352941176,1.50E-16,0.642857143,0.243243243,9,14,1,nagC,N-acetylglucosamine catabolism and tyrosine biosynthesis,Carbon Source Utilization,0.078352489,NagC/TyrR,high,no TyrR in this one
 20,20,FlhDC-1,flhD;flhC,6.582031435,0.601626016,3.82E-63,0.880952381,0.456790123,37,42,1,flhD;flhC,Flagella assembly,Structural Components,0.038053583,FlhDC,high,from PRECISE 1.0
 21,21,asr,,,,,,,,2,,,Accounts for asr,Biological Enrichment,0.214713209,,medium,asr highly weighted; may be an acid/low pH response
@@ -31,7 +31,7 @@
 29,29,ArcA-1,arcA,2.956396746,0.282392027,5.44E-53,0.658914729,0.179704017,85,129,1,arcA,Anaerobic response,Energy Metabolism,0.036003393,ArcA-1,high,from PRECISE 1.0
 30,30,PhoP,phoP,5.239476867,0.314285714,3.18E-18,0.647058824,0.20754717,11,17,1,phoP,Low magnesium/acid response,Stress Response,0.084872115,,medium,a lot of false negatives
 31,31,Qin prophage,,,,,,,,13,,,Accounts for Qin prophage enrichment from ROS TALE,Biological Enrichment,0.07566217,,medium,why though?
-32,32,,,inf,0.339622642,4.38E-19,0.204545455,1,9,44,1,allR,,,0.048197569,,low,"FucR/AllR + something else, maybe"
+32,32,AllR/AraC/FucR/GlcC,allR+araC+fucR+glcC,6.95,0.716049,2.11E-56,0.659091,0.783784,29,44,4,allR and araC and fucR and glcC,Sugar catabolism,Carbon Source Utilization,0.048197569,,medium,Interesting that we see merging here; all from the promiscuity study
 33,33,RpoS,Sigma38,2.297658975,0.240641711,2.26E-24,0.3125,0.195652174,45,144,1,Sigma38,General stress response,Stress Response,0.029381995,RpoS,high,from PRECISE 1.0
 34,34,FlhDC-2,flhD;flhC,5.018584833,0.210526316,2.51E-15,0.714285714,0.12345679,10,14,1,flhD;flhC,Flagella assembly,Structural Components,0.085397369,,high,looks pretty clear
 35,35,Insertion-2,,,,,,,,16,,,Accounts for insertion elements in ROS TALE,Biological Enrichment,0.10464349,,medium,not very highly weighted
@@ -41,17 +41,17 @@
 39,39,translation,,,,,,,,42,,,Enriched in translation machinery,Biological Enrichment,0.061065208,translation,high,from PRECISE 1.0
 40,40,Spermidine,spermidine,inf,0.714285714,9.41E-15,0.555555556,1,5,9,1,spermidine,Oligopeptide uptake,Amino Acid and Nucleotide Biosynthesis,0.100272651,,medium,not sure about functional annotation
 41,41,PrpR,prpR,inf,0.888888889,3.27E-13,1,0.8,4,4,1,prpR,Propionate catabolism,Carbon Source Utilization,0.166982683,PrpR,high,from PRECISE 1.0
-42,42,,,,,,,,,15,,,,,0.096993434,,low,"possible noise; crp-KO, maybe?"
-43,43,,,,,,,,,6,,,,,0.106637567,,low,possible noise
-44,44,,,5.225654766,0.3125,1.25E-09,0.277777778,0.357142857,5,18,1,argP,,,0.076203768,,low,"not great overlap, not accounting for gst operon"
+42,42,crp/y-genes,,,,,,,,15,,,Accounts for y-genes regulated by crp,Biological Enrichment,0.096993434,,medium,A bit weird; high activity in HOT TALE
+43,43,noise-2,,,,,,,,6,,,,,0.106637567,,medium,possible noise
+44,44,Amino acid transport,,,,,,,,18,,,Accounts for genes involved in synthesis/transport of charged amino acids,Biological Enrichment,0.076203768,,medium,Again active in HOT TALE
 45,45,iron-related,fur,3.190332786,0.130841121,9.13E-13,0.5,0.075268817,14,28,1,fur,Related to iron metabolism,Biological Enrichment,0.065069793,iron-related,high,from PRECISE 1.0
 46,46,AscG,ascG,,,1.04E-05,0.4,0.4,2,5,,ascG,Beta-glucoside catabolism,Carbon Source Utilization,0.075274873,,high,read EcoCyc; activated by insertion sequence?
-47,47,,,,,,,,,,,,,,0.32468018,,low,"noise; enrichment of yhjX, activein ROS TALE"
+47,47,yhjX,,,,,,,,1,,,Accounts for yhjX,Biological Enrichment,0.32468018,,medium,"noise; enrichment of yhjX, activein ROS TALE"
 48,48,Thiamine,TPP,8.786838576,0.782608696,7.47E-24,0.75,0.818181818,9,12,1,TPP,Thiamine biosynthesis,Miscellaneous Metabolism,0.07419283,Thiamine,high,from PRECISE 1.0
 49,49,Insertion-3,,,,,,,,12,,,Accounts for insertion elements,Biological Enrichment,0.094168494,,high,IS element noise
 50,50,ppGpp,,,,,,,,57,,,,,0.050206164,uncharacterized-5,medium,is this the one that is actually ppGpp?
 51,51,Insertion-4,,,,,,,,12,,,Accounts for insertion elements,Biological Enrichment,0.110230463,,high,IS noise
-52,52,,,,,,,,,60,,,,,0.052938291,,low,"lot of genes, not clear"
+52,52,RbsR,rbsR,,,,,,,60,1,rbsR,Ribose metabolism,Carbon Source Utilization,0.052938291,,medium,"RbsR genes are highly-weighted, but a ton of noise also"
 53,53,deletion-2,,,,,,,,120,,,Large deletion of 171 genes during evolution,Genomic Alterations,0.050116868,deletion-2,high,from PRECISE 1.0
 54,54,MetJ,metJ,7.311468854,0.647058824,3.65E-25,0.578947368,0.733333333,11,19,1,metJ,Methionine biosynthesis,Amino Acid and Nucleotide Biosynthesis,0.065020114,MetJ,high,from PRECISE 1.0
 55,55,YiaJ,,inf,0.842105263,4.95E-23,1,0.727272727,8,8,1,yiaJ,Ascorbate utilization,Carbon Source Utilization,0.111305806,YiaJ,high,from PRECISE 1.0
@@ -65,21 +65,21 @@
 63,63,RhaS,rhaS,inf,0.8,8.61E-18,0.666666667,1,6,9,1,rhaS,Rhamnose catabolism,Carbon Source Utilization,0.071273798,,high,clean overlap
 64,64,Nac,nac,3.587279384,0.115449915,7.84E-25,0.829268293,0.062043796,34,41,1,nac,Nitrogen starvation response,Stress Response,0.058218279,Nac,high,from PRECISE 1.0
 65,65,CysB,,5.734958092,0.516129032,9.80E-29,0.533333333,0.5,16,30,1,cysB,Inorganic sulfate assimilation,Amino Acid and Nucleotide Biosynthesis,0.048184639,CysB,high,from PRECISE 1.0
-66,66,,,,,,,,,17,,,,,0.074421153,,low,cpxR deletion in TCS project?
+66,66,cpxR-KO,,,,,,,,17,,,Accounts for KO of cpxR,Genomic Alterations,0.074421153,,high,from TCS
 67,67,e14-deletion,,,,,,,,13,,,Removal of e14 prophage,Genomic Alterations,0.069868825,e14-deletion,high,from PRECISE 1.0
 68,68,Cbl+CysB,,,,,,,,20,2,cbl and cysB,Aliphatic sulfonate utilization,Miscellaneous Metabolism,0.057206755,Cbl+CysB,high,from PRECISE 1.0
-69,69,,,,,,,,,7,,,,,0.081655361,,low,possible noise
+69,69,noise-3,,,,,,,,7,,,,,0.081655361,,medium,possible noise
 70,70,Copper,,,,,,,,,,,Copper homeostasis,Metal Homeostasis,0.047322361,Copper,high,from PRECISE 1.0
 71,71,XylR,xylR,8.093462275,0.571428571,2.15E-15,0.428571429,0.857142857,6,14,1,xylR,Xylose catabolism,Carbon Source Utilization,0.072704142,XylR,high,from PRECISE 1.0
-72,72,,,,,,,,,1,,,,,0.099513546,,low,possible noise
+72,72,noise-putr,,,,,,,,1,,,,,0.099513546,,high,noise from putrescine
 73,73,curli,mqsA,inf,0.666666667,4.58E-12,1,0.5,4,4,1,mqsA,Curli assembly,Biological Enrichment,0.12527222,curli,high,from PRECISE 1.0
 74,74,PurR-1,,6.429258542,0.535714286,2.71E-29,0.75,0.416666667,15,20,1,purR,Purine Biosynthesis,Amino Acid and Nucleotide Biosynthesis,0.069140477,PurR-1,high,from PRECISE 1.0
 75,75,Crp-1,,2.242139027,0.088888889,6.46E-14,0.6,0.048,30,50,1,crp,Miscellaneous functions,Miscellaneous Metabolism,0.052484797,Crp-1,high,from PRECISE 1.0
 76,76,GadWX,,,,,,,,6,2,gadW and gadX,Acid stress response,Stress Response,0.104554556,GadWX,medium,from PRECISE 1.0; is gadX in here? Or is this gadW-2? What about gadE? (see GadEWX above)
 77,77,ArgR,argR,4.646904585,0.289308176,1.25E-29,0.71875,0.181102362,23,32,1,argR,Arginine biosynthesis,Amino Acid and Nucleotide Biosynthesis,0.046407933,ArgR,high,from PRECISE 1.0
-78,78,,,1.543621264,0.086330935,4.42E-09,0.428571429,0.048,30,70,1,crp,,,0.047896156,,low,more crp?
+78,78,uncharacterized-7,,,,,,,,70,,,,,0.047896156,,medium,more crp?
 79,79,Fur-2,fur,4.762300445,0.298245614,9.28E-41,0.80952381,0.182795699,34,42,1,fur,Iron homeostasis,Metal Homeostasis,0.066924903,Fur-2,high,from PRECISE 1.0
-80,80,,,,,,,,,13,,,,,0.113569681,,low,some kind of deletion?
+80,80,ROS-deletion,,,,,,,,13,,,,,0.113569681,,medium,some kind of deletion?
 81,81,fimbriae,,,,,,,,8,,,Fimbriae assembly,Biological Enrichment,0.07168078,fimbriae,high,from PRECISE 1.0
 82,82,GcvA,gcvA,9.48204549,0.75,1.14E-09,0.75,0.75,3,4,1,gcvA,Glycine cleavage system,Miscellaneous Metabolism,0.132606442,GcvA,high,from PRECISE 1.0
 83,83,RpoH,Sigma32,5.246699679,0.369942197,9.10E-44,0.820512821,0.23880597,32,39,1,Sigma32,Heat shock response,Stress Response,0.047460692,RpoH,high,from PRECISE 1.0
@@ -91,19 +91,19 @@
 89,89,deletion-1,,,,,,,,39,,,Large deletion of 39 genes during evolution,Genomic Alterations,0.067262669,deletion-1,high,from PRECISE 1.0
 90,90,LsrR,lsrR,inf,0.8,8.61E-18,1,0.666666667,6,6,1,lsrR,Quorum sensing,Stress Response,0.098099775,,high,very clean
 91,91,flu-yeeRS,,,,,,,,3,,,Genes in CP4-44 prophage,Biological Enrichment,0.197762798,flu-yeeRS,high,from PRECISE 1.0
-92,92,,,,,,,,,3744,,,,,0.004656418,,low,this is a weird one; has ALL the genes
+92,92,meganoise,,,,,,,,3744,,,,,0.004656418,,high,from putrescine
 93,93,RcsAB,rcsA;rcsB,5.418643462,0.344827586,1.60E-17,0.238095238,0.625,10,42,1,rcsA;rcsB,Colanic acid capsule formation,Structural Components,0.030367979,RcsAB,high,from PRECISE 1.0
-94,94,,,,,,,,,98,,,,,0.044352435,,low,noise probably
-95,95,,,,,,,,,11,,,,,0.090087312,,low,"putative proteins, maybe more noise"
+94,94,noise-4,,,,,,,,98,,,,,0.044352435,,medium,noise probably
+95,95,noise-5,,,,,,,,11,,,,,0.090087312,,medium,maybe chorismate?
 96,96,NtrC+RpoN,,,,,,,,55,2,ntrC+rpoN,Nitrogen starvation response,Stress Response,0.032352192,NtrC+RpoN,high,from PRECISE 1.0
-97,97,,,,,,,,,59,,,,,0.041234306,,low,noise; small transcripts
+97,97,noise-6,,,,,,,,59,,,,,0.041234306,,medium,noise; small transcripts
 98,98,His-tRNA,histidine,inf,1,0,1,1,8,8,1,histidine,Histidine biosynthesis,Amino Acid and Nucleotide Biosynthesis,0.138637156,His-tRNA,high,from PRECISE 1.0
 99,99,Fnr+NarL,fnr+narL,,,,,,,77,2,fnr and narL,Anaerobic response,Energy Metabolism,0.03656393,Fnr,medium,why exclude narL?
 100,100,membrane,,,,,,,,37,,,Enriched in membrane-bound proteins,Biological Enrichment,0.067309938,membrane,high,from PRECISE 1.0
-101,101,,,,,,,,,0,,,,,0.132117636,,low,no genes!
-102,102,,,6.496559496,0.659090909,2.57E-53,0.763157895,0.58,29,38,1,narP,Nitrate respiration,Energy Metabolism,0.048221851,NarL,low,is it NarL/NarP/fnr?
+101,101,ghost,,,,,,,,0,,,,,0.132117636,,high,from putrescine
+102,102,NarP,narP,6.496559496,0.659090909,2.57E-53,0.763157895,0.58,29,38,1,narP,Nitrate respiration,Energy Metabolism,0.048221851,NarL,medium,is it NarL/NarP/fnr?
 103,103,Pyruvate,,,,,,,,5,,,Pyruvate transport and metabolism,Carbon Source Utilization,0.07232983,Pyruvate,high,from PRECISE 1.0
-104,104,,,,,,,,,10,,,,,0.079766314,CsqR,low,definitelhy not CsqR; probably noise
+104,104,Sulfur,,,,,,,,10,,,Sulfur catabolism,Miscellaneous Metabolism,0.079766314,CsqR,medium,definitelhy not CsqR; high activity in promiscuity with xylulose?
 105,105,MalT,malT,9.480214826,0.818181818,1.36E-24,0.75,0.9,9,12,1,malT,Maltose catabolism,Carbon Source Utilization,0.066775184,MalT,high,from PRECISE 1.0
 106,106,CdaR,,inf,0.75,3.09E-24,0.6,1,9,15,1,cdaR,Glucarate catabolism,Carbon Source Utilization,0.080609029,CdaR,high,from PRECISE 1.0
 107,107,BW25113,,,,,,,,24,1,,Transcriptional difference between BW25113 and MG1655,Genomic Alterations,0.062065017,BW25113,high,from PRECISE 1.0
@@ -114,15 +114,15 @@
 112,112,KdpE,kdpE,inf,0.8,9.80E-13,0.666666667,1,4,6,1,kdpE,Potassium uptake,Metal Homeostasis,0.107030229,,high,clean operon overlap
 113,113,BluR,bluR,inf,1,0,1,1,4,4,1,bluR,Biofilm formation,Stress Response,0.17700565,,high,perfect overlap
 114,114,FhlA,fhlA,6.074656138,0.27027027,2.21E-10,0.714285714,0.166666667,5,7,1,fhlA,Anaerobic formate utilization,Carbon Source Utilization,0.104150431,ArcA-2,medium,Doesn't look like ArcA-2
-115,115,,,,,,,,,11,,,,,0.086412326,,low,prophage noise
-116,116,,,,,,,,,3,,,,,0.117001187,,low,possible noise
-117,117,,,,,,,,,4,,,,,0.090272449,lipopolysaccharide,low,noise; doesn't look like LPS
-118,118,,,,,,,,,6,,,,,0.101649808,,low,"noise, membrane proteins"
-119,119,,,,,,,,,2,,,,,0.132784776,,low,noise
+115,115,Rac prophage,,,,,,,,11,,,,,0.086412326,,high,prophage noise
+116,116,noise-7,,,,,,,,3,,,,,0.117001187,,high,just bhsA
+117,117,O-antigen,,,,,,,,4,,,,,0.090272449,lipopolysaccharide,medium,split from LPS
+118,118,noise-8,,,,,,,,6,,,,,0.101649808,,medium,"noise, membrane proteins"
+119,119,noise-9,,,,,,,,2,,,,,0.132784776,,medium,phosphate transporter
 120,120,BirA,birA,inf,1,0,1,1,5,5,1,birA,Biotin,Miscellaneous Metabolism,0.151648963,,high,perfect overlap
 121,121,Tryptophan,trpR,7.399168699,0.620689655,3.29E-21,0.75,0.529411765,9,12,1,trpR,Tryptophan Biosynthesis,Amino Acid and Nucleotide Biosynthesis,0.091272478,Tryptophan,high,good overlap
 122,122,TyrR,tyrR,8.381602537,0.631578947,6.62E-16,0.857142857,0.5,6,7,1,tyrR,Tyrosine biosynthesis,Amino Acid and Nucleotide Biosynthesis,0.094808367,,high,looks good
-123,123,,,6.706480234,0.5,6.42E-14,0.428571429,0.6,6,14,1,appY,,,0.092041823,ArcA-2,low,appY? Doesn't seem like ArcA-2
+123,123,ETC,,,,,,,,14,,,Electron Transport Chain,Energy Metabolism,0.092041823,ArcA-2,medium,appY? Doesn't seem like ArcA-2; formate involved too
 124,124,uncharacterized-4,,,,,,,,1,,,Unknown Function,Uncharacterized,0.087229398,uncharacterized-4,high,from PRECISE 1.0
 125,125,nitrate-related,,,,,,,,5,,,Nitric oxide response,Biological Enrichment,0.122888224,nitrate-related,high,from PRECISE 1.0
-126,126,,,,,,,,,4,,,,,0.102962785,,low,seems like noise
+126,126,noise-10,,,,,,,,4,,,,,0.102962785,,medium,seems like noise
