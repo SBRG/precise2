@@ -118,7 +118,7 @@
 116,116,PaaX,paaX,inf,0.727272727,9.01E-22,1,0.571428571,8,8,1,paaX,Phenylacetic acid degradation,Miscellaneous Metabolism,0.08352463,,High,
 117,117,Cra,cra,4.998138175,0.169934641,8.04E-18,0.8125,0.094890511,13,16,1,cra,Central carbon metabolism,Carbon Source Utilization,0.049454411,Cra,High,
 118,118,LsrR,lsrR,inf,0.941176471,2.70E-24,1,0.888888889,8,8,1,lsrR,Quorum-sensing,Stress Response,0.10981747,,High,
-119,119,cpxR-KO,,,,,,,,20,,,Accounts for knockout of cpxR,Genomic Alterations,0.070220414,,High,
+119,119,YgeV,ygeV,,,,,,,20,1,ygeV,Accounts for knockout of cpxR,Genomic Alterations,0.070220414,,High,
 120,120,RpoH,rpoH,5.664070974,0.393063584,1.95E-48,0.871794872,0.253731343,34,39,1,Sigma32,Heat shock response,Stress Response,0.047036901,RpoH,High,
 121,121,FhlA,fhlA,inf,0.421052632,1.76E-18,1,0.266666667,8,8,1,fhlA,Formate metabolism,Miscellaneous Metabolism,0.085849541,,High,
 122,122,Polymixin resistance,,,,,,,,18,,,Genes involved in polymixin resistance,Biological Enrichment,0.069279301,,High,
