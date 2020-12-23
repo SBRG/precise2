@@ -1,219 +1,219 @@
-,regulator,pvalue,qvalue,precision,recall,f1score,TP,regulon_size,imodulon_size,n_regs,single_gene,note
-e14-1,,,,,,,,,,,,
-SG_yzfA,,,,,,,,,,,TRUE,
-SG_ytiD,,,,,,,,,,,TRUE,
-membrane?,,,,,,,,,,,,seems membrane-related
-CysB-1,cysB,3.77E-28,1.94E-23,0.5,0.516129032,0.507936508,16,32,31,1,,
-Copper,cusR,5.50E-14,3.14E-08,0.5,0.545455,0.521739,6,12,11,1,,
-DLP12,,,,,,,,,,,,
-SG_yqhI,,,,,,,,,,,TRUE,
-SG_icdC,,,,,,,,,,,TRUE,
-nquinone?,,,,,,,,,,,,odd; nquinone spike
-yieP KO,,,,,,,,,,,,
-Phosphate,phoB,9.26E-17,3.29E-12,0.155172,0.9,0.264706,9,58,10,1,,Seems more like phosphate stimulon than phoB
-Curli,,,,,,,,,,,,
-SG_ymdG,,,,,,,,,,,TRUE,
-Fnr-1,fnr,2.91E-30,2.07E-25,0.079913607,0.860465116,0.146245059,37,463,43,1,,"How do we feel about these ""iceberg"" iModulons?"
-TdcAR,tdcA+tdcR,1.71E-19,9.33E-16,1,0.583333,0.736842,7,7,12,2,,Crp/ihf help bend DNA to promote TdcAR regulation
-Fimbriae,h-NS+ihf,1.09E-17,7.72E-13,0.368421053,1,0.538461538,7,19,7,2,,
-PurR-2,purR,6.00E-15,4.26E-10,0.222222222,0.666666667,0.333333333,8,36,12,1,,
-NO3 Red A,,,,,,,,,,,,
-crp?,,,,,,,,,,,,Crp-related?
-ryhB?,,,,,,,,,,,,Fe-related? Is this RyhB?
-SG_yfaH,,,,,,,,,,,TRUE,
-SG_malE,,,,,,,,,,,TRUE,
-GalRS,galR+galS,2.72E-17,2.76E-13,0.6,1,0.75,6,10,6,2,,
-SG_btsT,,,,,,,,,,,TRUE,
-SG_yafF,,,,,,,,,,,TRUE,
-LPS,,,,,,,,,,,,
-SG_yhjX,ypdB,0,0,1,1,1,1,1,1,1,TRUE,
-YiaJ,yiaJ,2.53E-28,4.49E-24,0.909091,0.909091,0.909091,10,11,11,1,,
-SG_ygdT,,,,,,,,,,,TRUE,
-FHL,,,,,,,,,,,,
-LPS?,,,,,,,,,,,,Membrane/lipoprotein related
-RhaS,rhaS,3.63E-18,8.59E-14,1,0.75,0.857142857,6,6,8,1,,
-SG_ldrD,,,,,,,,,,,TRUE,
-NanR,nanR,4.83E-25,3.43E-20,0.818181818,0.9,0.857142857,9,11,10,1,,
-FadR,fadR,3.09E-19,2.20E-14,0.409090909,0.692307692,0.514285714,9,22,13,1,,
-ECA,,,,,,,,,,,,
-NrdR,nrdR,1.09E-17,3.87E-13,0.666666667,1,0.8,6,9,6,1,,
-Cytochrome bo3,,,,,,,,,,,,
-DNA?,,,,,,,,,,,,DNA damage?
-SG_soxS,,,,,,,,,,,TRUE,
-GlcC,glcC,9.07E-19,7.16E-15,0.857143,1,0.923077,6,7,6,1,,
-BW25113,,,,,,,,,,,,
-baeR?,baeR,7.61E-16,2.70E-11,0.75,0.6,0.666666667,6,8,10,1,,del baeR/cpxR? Or just baeR/cpxR regulation?
-NikR,nikR,5.45E-16,7.74E-12,0.833333333,1,0.909090909,5,6,5,1,,
-BCAA-1,,,,,,,,,,,,
-PspF,pspF,1.14E-14,2.71E-10,0.714286,0.833333,0.769231,5,7,6,1,,
-OxyR,oxyR,2.20E-18,1.57E-13,0.239130435,0.611111111,0.34375,11,46,18,1,,
-Trp,trpR,8.85E-17,3.14E-12,0.4375,0.777777778,0.56,7,16,9,1,,
-SG_ynfT,,,,,,,,,,,TRUE,
-S-quino,,,,,,,,,,,,
-SG_copA,,,,,,,,,,,TRUE,
-LldR,lldR,0,0,1,1,1,3,3,3,1,,
-Thiamine-1,TPP,4.83E-26,3.43E-21,0.818181818,1,0.9,9,11,9,1,,
-SG_yoaI,,,,,,,,,,,TRUE,
-PuuR,puuR,1.73E-21,4.09E-17,1,0.875,0.933333333,7,7,8,1,,
-SG_yqfG,,,,,,,,,,,TRUE,
-Hydrogenase 1,,,,,,,,,,,,
-YcjW,,,,,,,,,,,,
-Fnr-2,fnr,1.02E-16,7.26E-12,0.047516199,0.785714286,0.089613035,22,463,28,1,,Lots of Fnr
-SG_pdhR,,,,,,,,,,,TRUE,
-SG_ydaG,,,,,,,,,,,TRUE,
-btsR KO,,,,,,,,,,,,NsrR also overlaps; is it both?
-SG_thrA,,,,,,,,,,,TRUE,
-GntR,gntR,3.94E-26,2.80E-21,0.833333333,0.769230769,0.8,10,12,13,1,,
-SG_ymgI,,,,,,,,,,,TRUE,
-Fnr+NarL+NarP,fnr+narL+narP,1.22E-46,1.53E-40,0.536585,0.956522,0.6875,22,41,23,3,,
-RcsAB,rcsA;rcsB,7.64E-18,2.71E-13,0.625,0.263158,0.37037,10,16,38,1,,
-MalT,malT,8.79E-27,3.12E-22,0.9,1,0.947368,9,10,9,1,,
-TyrR,tyrR,2.04E-17,7.26E-13,0.583333333,0.7,0.636363636,7,12,10,1,,
-SG_yoaG,,,,,,,,,,,TRUE,
-Molybdopterin,molybdopterin,3.82E-13,2.71E-09,0.8,1,0.888888889,4,5,4,1,,
-evgA?,,,,,,,,,,,,"Membrane? Has EvgAS, lipoprotein stuff"
-Fnr-3,fnr,4.01E-18,2.85E-13,0.07775378,0.537313433,0.135849057,36,463,67,1,,Lots of Fnr
-Fe-S-1,,,,,,,,,,,,
-AtoC,atoC,0,0,1,1,1,4,4,4,1,,
-ROS Del,,,,,,,,,,,,
-Leucine,leuO+lrp,3.82E-13,9.05E-09,1,0.8,0.888889,4,4,5,2,,
-SoxS,soxS,1.68E-45,1.19E-40,0.673076923,0.318181818,0.432098765,35,52,110,1,,
-Translation,,,,,,,,,,,,
-SG_ldrC,,,,,,,,,,,TRUE,
-defense?,,,,,,,,,,,,Stress/membrane/defense?
-Ni/Co,,,,,,,,,,,,Real signal
-Lrp,lrp,5.49E-30,3.90E-25,0.13,0.8125,0.224137931,26,200,32,1,,another iceberg
-Nac,nac,2.44E-18,1.73E-13,0.046210721,0.833333333,0.087565674,25,541,30,1,,another iceberg
-SG_pgi,,,,,,,,,,,TRUE,
-KdpE,kdpE,8.04E-10,4.28E-07,1,0.6,0.75,3,3,5,1,,
-PhoB,phoB,1.41E-33,4.99E-29,0.327586,0.826087,0.469136,19,58,23,1,,
-ygenes?,,,,,,,,,,,,lots of y-genes
-RbsR,rbsR,1.09E-17,2.58E-13,0.666667,1,0.8,6,9,6,1,,
-CysB-2,cysB,1.92E-16,6.83E-12,0.25,0.8,0.380952,8,32,10,1,,
-FliA-1,Sigma28,2.25E-21,1.60E-16,0.222222222,0.516129032,0.310679612,16,72,31,1,,have cake and eat too?
-SG_ghoT,,,,,,,,,,,TRUE,
-GatR,gatR,3.86E-12,6.86E-08,1,0.208333333,0.344827586,5,5,24,1,,
-ArgR,argR,2.05E-31,7.30E-27,0.172131,0.913043,0.289655,21,122,23,1,,another iceberg
-media?,,,,,,,,,,,,maybe media-related
-SG_ytiC,,,,,,,,,,,TRUE,
-ProVWX,,,,,,,,,,,,
-oxyR KO,,,,,,,,,,,,
-GadWX-1,gadW+gadX,1.21E-32,3.79E-26,0.866667,0.764706,0.8125,13,15,17,2,,
-Glutamine,,,,,,,,,,,,
-e14-2,,,,,,,,,,,,
-XylR,xylR,2.72E-15,9.66E-11,0.857142857,0.428571429,0.571428571,6,7,14,1,,
-Cytochrome c,,,,,,,,,,,,
-ArcA,arcA,4.27E-23,3.04E-18,0.072649573,0.723404255,0.132038835,34,468,47,1,,iceberg
-PAL Del-1,,,,,,,,,,,,
-SG_ynfQ,,,,,,,,,,,TRUE,
-SG_ykgR,,,,,,,,,,,TRUE,
-BirA,birA,5.45E-16,1.94E-11,1,0.833333333,0.909090909,5,5,6,1,,
-EvgA,evgA,5.26E-28,3.74E-23,0.666666667,0.75,0.705882353,12,18,16,1,,
-SG_menF,,,,,,,,,,,TRUE,
-CP4-44,,,,,,,,,,,,
-BluR,bluR,3.82E-13,6.79E-09,1,0.8,0.888888889,4,4,5,1,,
-SG_asr,gadX+rcdA,0,0,1,1,1,1,1,1,2,TRUE,
-LsrR,lsrR,3.69E-24,1.31E-19,0.888888889,1,0.941176471,8,9,8,1,,
-SG_pinH,,,,,,,,,,,TRUE,
-uspB?,,,,,,,,,,,,uspB dominant? Hot TALE active; stress?
-unknown?,,,,,,,,,,,,quite unclear
-BCAA-2,,,,,,,,,,,,
-Zur,zur,2.22E-16,1.58E-11,1,0.461538462,0.631578947,6,6,13,1,,
-RpoE,Sigma24,1.54E-12,1.10E-07,0.084033613,0.625,0.148148148,10,119,16,1,,
-Cytochrome bd-I,,,,,,,,,,,,
-Fur-1,fur,3.73E-34,2.65E-29,0.137362637,0.961538462,0.240384615,25,182,26,1,,
-PurR-1,purR,3.82E-30,2.72E-25,0.444444444,0.695652174,0.542372881,16,36,23,1,,
-ArgP,argP,6.68E-11,2.37E-06,0.428571429,0.24,0.307692308,6,14,25,1,,
-FDH-O,,,,,,,,,,,,
-AllR,allR,8.85E-17,6.29E-12,0.777777778,0.4375,0.56,7,9,16,1,,
-FucR,fucR,4.53E-15,1.07E-10,0.857142857,0.4,0.545454545,6,7,15,1,,
-INS,,,,,,,,,,,,
-PAL Dup,,,,,,,,,,,,
-Fur-2,fur,1.37E-45,9.75E-41,0.197802198,0.87804878,0.322869955,36,182,41,1,,
-hybrid?,mlc,1.80E-11,4.26E-07,0.5,0.416666667,0.454545455,5,10,12,1,,Some sort of hybrid of ptsI KO and dhaR and mlc?
-SG_ydcI,,,,,,,,,,,TRUE,
-CecR,cecR,0,0,1,1,1,5,5,5,1,,
-Dipeptide,,,,,,,,,,,,
-pal?,,,,,,,,,,,,PAL related
-Thiamine-2,TPP,1.05E-11,7.47E-07,0.454545455,0.5,0.476190476,5,11,10,1,,
-LexA,lexA,9.85E-30,6.99E-25,0.290909091,0.888888889,0.438356164,16,55,18,1,,
-SG_yjiS,,,,,,,,,,,TRUE,
-Cra,cra,3.64E-16,2.59E-11,0.087591241,0.8,0.157894737,12,137,15,1,,iceberg
-GlpR,glpR,0,0,1,1,1,9,9,9,1,,
-SG_flhDC,,,,,,,,,,,,
-SG_hokA,,,,,,,,,,,TRUE,
-RpoN+NtrC,Sigma54+ntrC,2.47E-13,1.75E-08,0.162790698,0.777777778,0.269230769,7,43,9,2,,
-SG_fur,,,,,,,,,,,TRUE,
-Glyoxylate,,,,,,,,,,,,
-PaaX,paaX,5.53E-20,1.31E-15,0.571429,0.8,0.666667,8,14,10,1,,
-SG_ubiC,,,,,,,,,,,TRUE,
-SG_ydaF,,,,,,,,,,,TRUE,
-NDH-1,,,,,,,,,,,,
-SG_ldrA,,,,,,,,,,,TRUE,
-CCK-PGI Del,,,,,,,,,,,,
-SG_yjjZ,,,,,,,,,,,TRUE,
-Oligopeptide,spermidine,1.14E-14,8.13E-11,1,0.555555556,0.714285714,5,5,9,1,,
-CdaR,cdaR,8.79E-27,6.24E-22,1,0.9,0.947368421,9,9,10,1,,
-RpoN+PrpR,Sigma54+prpR,3.82E-13,1.36E-08,1,0.8,0.888888889,4,4,5,2,,
-FliA-2,Sigma28,4.36E-54,3.10E-49,0.416666667,0.9375,0.576923077,30,72,32,1,,
-Fe-Citrate Transport,,,,,,,,,,,,
-CpxR,cpxR,1.15E-19,4.07E-15,0.261538,0.34,0.295652,17,65,50,1,,Include sigma factor?
-SG_ydfW,,,,,,,,,,,TRUE,
-cpxR KO,,,,,,,,,,,,
-no idea?,,,,,,,,,,,,no idea
-SG_yfiF,,,,,,,,,,,,TRUE
-His,histidine,3.69E-24,8.75E-20,1,0.888888889,0.941176471,8,8,9,1,,
-RpoH,Sigma32,7.39E-52,5.25E-47,0.278195489,0.860465116,0.420454545,37,133,43,1,,
-SG_yheO,,,,,,,,,,,TRUE,
-PAL Del-2,,,,,,,,,,,,
-SG_intG,,,,,,,,,,,TRUE,
-tpiA KO,,,,,,,,,,,,
-sdh KO,,,,,,,,,,,,
-RpoS+GadE,Sigma38+gadE,1.83E-21,1.30E-16,0.666666667,0.888888889,0.761904762,8,12,9,2,,
-Salicylate,,,,,,,,,,,,
-GcvA,gcvA,3.22E-09,0.000002,0.75,0.6,0.666667,3,4,5,1,,
-SG_xisR,,,,,,,,,,,TRUE,
-CCK IS,,,,,,,,,,,,
-hot tale?,,,,,,,,,,,,hot TALE related
-GadWX-2,gadW+gadX,2.37E-20,8.43E-16,0.533333,0.888889,0.666667,8,15,9,2,,
-ppGpp,,,,,,,,,,,,I think
-SG_gnd,,,,,,,,,,,TRUE,
-SG_ythA,,,,,,,,,,,TRUE,
-NagC,nagC,1.17E-28,8.32E-24,0.378378378,0.875,0.528301887,14,37,16,1,,
-GutMR,gutM+gutR,9.07E-19,5.86E-15,0.857143,1,0.923077,6,7,6,2,,
-Fe-Related,,,,,,,,,,,,
-yciT KO,,,,,,,,,,,,
-Molybdenum,,,,,,,,,,,,
-MetJ,metJ,9.21E-26,6.54E-21,0.733333333,0.647058824,0.6875,11,15,17,1,,
-not sure?,,,,,,,,,,,,not sure
-entC KO,,,,,,,,,,,,
-RpoS,Sigma38,5.95E-25,4.22E-20,0.191111111,0.344,0.245714286,43,225,125,1,,
-SG_rspAB,,,,,,,,,,,TRUE,
-Cbl+CysB,cbl+cysB,4.27E-23,1.51E-18,1,0.5,0.666667,9,9,18,2,,
-FlhDC,flhD;flhC,1.96E-63,1.39E-58,0.456790123,0.902439024,0.606557377,37,81,41,1,,
-SG_zraP,,,,,,,,,,,TRUE,
-NtrC,ntrC,2.73E-34,1.94E-29,0.351851852,0.826086957,0.493506494,19,54,23,1,,
-PhoP,phoP,4.52E-15,3.21E-10,0.196078431,0.5,0.281690141,10,51,20,1,,
-Fe-S Cluster-2,,,,,,,,,,,,
-pts KO,,,,,,,,,,,,
-polymix?,,,,,,,,,,,,polymixin resistance/LPS?
-ptsI KO,,,,,,,,,,,,
-SG_ascBF,,,,,,,,,,,TRUE,
-SG_xisD,,,,,,,,,,,TRUE,
-SG_ybaQ,,,,,,,,,,,TRUE,
-SG_yojO,,,,,,,,,,,TRUE,
-SG_yedX,,,,,,,,,,,TRUE,
-SG_ydfA,,,,,,,,,,,TRUE,
-SG_cspC,,,,,,,,,,,TRUE,
-no clue?,,,,,,,,,,,,no clue
-SG_alaE,,,,,,,,,,,TRUE,
-SG_cspH,,,,,,,,,,,TRUE,
-SG_ymcE,,,,,,,,,,,TRUE,
-NO3 Red Z,,,,,,,,,,,,
-NarL+NarP,narL+narP,2.52E-12,3.58E-08,0.14,0.7,0.233333,7,50,10,2,,
-RpoS+RpoN,Sigma38+Sigma54,4.96E-27,3.52E-22,0.916666667,0.578947368,0.709677419,11,12,19,2,,
-SG_ybfQ,,,,,,,,,,,TRUE,
-SG_ynaM,,,,,,,,,,,TRUE,
-crp KO,,,,,,,,,,,,
-Glutathione,,,,,,,,,,,,
-SG_sgrT,,,,,,,,,,,TRUE,
+,regulator,pvalue,qvalue,precision,recall,f1score,TP,regulon_size,imodulon_size,n_regs,single_gene,note,category
+e14-1,,,,,,,,,,,,,Genomic
+SG_yzfA,,,,,,,,,,,TRUE,,Other
+SG_ytiD,,,,,,,,,,,TRUE,,Other
+membrane?,,,,,,,,,,,,H-NS?,Biological
+CysB-1,cysB,3.77E-28,1.94E-23,0.5,0.516129032,0.507936508,16,32,31,1,,,Regulatory
+Copper,cusR,5.50E-14,3.14E-08,0.5,0.545455,0.521739,6,12,11,1,,,Regulatory
+DLP12,,,,,,,,,,,,,Genomic
+SG_yqhI,,,,,,,,,,,TRUE,,Other
+SG_icdC,,,,,,,,,,,TRUE,,Other
+nquinone?,,,,,,,,,,,,odd; nquinone spike,Genomic
+yieP KO,,,,,,,,,,,,,Genomic
+PhoB-1,phoB,9.26E-17,3.29E-12,0.155172,0.9,0.264706,9,58,10,1,,,Regulatory
+Curli,,,,,,,,,,,,,Biological
+SG_ymdG,,,,,,,,,,,TRUE,,Other
+Fnr-1,fnr,2.91E-30,2.07E-25,0.079913607,0.860465116,0.146245059,37,463,43,1,,,Regulatory
+TdcAR,tdcA+tdcR+crp+ihf,1.71E-19,9.33E-16,1,0.583333,0.736842,7,7,12,2,,,Regulatory
+Fimbriae,h-NS+ihf,1.09E-17,7.72E-13,0.368421053,1,0.538461538,7,19,7,2,,,Regulatory
+PurR-2,purR,6.00E-15,4.26E-10,0.222222222,0.666666667,0.333333333,8,36,12,1,,,Regulatory
+NO3 Red A,,,,,,,,,,,,,Biological
+Crp-Related-1,,,,,,,,,,,,,Biological
+Fe-Related?,,,,,,,,,,,,Fe-related? Is this RyhB?,Biological
+SG_yfaH,,,,,,,,,,,TRUE,,Other
+SG_malE,,,,,,,,,,,TRUE,,Other
+GalRS,galR+galS,2.72E-17,2.76E-13,0.6,1,0.75,6,10,6,2,,,Regulatory
+BtsR,btsR,,,,,,,,,,,,Regulatory
+SG_yafF,,,,,,,,,,,TRUE,,Other
+LPS,,,,,,,,,,,,,Biological
+SG_yhjX,ypdB,0,0,1,1,1,1,1,1,1,TRUE,,Other
+YiaJ,yiaJ,2.53E-28,4.49E-24,0.909091,0.909091,0.909091,10,11,11,1,,,Regulatory
+SG_ygdT,,,,,,,,,,,TRUE,,Other
+FHL,,,,,,,,,,,,,Biological
+RcsC-related,,,,,,,,,,,,,Biological
+RhaS,rhaS,3.63E-18,8.59E-14,1,0.75,0.857142857,6,6,8,1,,,Regulatory
+SG_ldrD,,,,,,,,,,,TRUE,,Other
+NanR,nanR,4.83E-25,3.43E-20,0.818181818,0.9,0.857142857,9,11,10,1,,,Regulatory
+FadR,fadR,3.09E-19,2.20E-14,0.409090909,0.692307692,0.514285714,9,22,13,1,,,Regulatory
+ECA,,,,,,,,,,,,,Biological
+NrdR,nrdR,1.09E-17,3.87E-13,0.666666667,1,0.8,6,9,6,1,,,Regulatory
+Cytochrome bo3,,,,,,,,,,,,,Biological
+Uncharacterized-1,,,,,,,,,,,,unknown,Unknown
+SG_soxS,,,,,,,,,,,TRUE,,Other
+GlcC,glcC,9.07E-19,7.16E-15,0.857143,1,0.923077,6,7,6,1,,,Regulatory
+BW25113,,,,,,,,,,,,,Genomic
+BaeR+CpxR,baeR+cpxR,7.61E-16,2.70E-11,0.75,0.6,0.666667,6,8,10,2,,,Regulatory
+NikR,nikR,5.45E-16,7.74E-12,0.833333333,1,0.909090909,5,6,5,1,,,Regulatory
+BCAA-1,,,,,,,,,,,,,Biological
+PspF,pspF,1.14E-14,2.71E-10,0.714286,0.833333,0.769231,5,7,6,1,,,Regulatory
+OxyR,oxyR,2.20E-18,1.57E-13,0.239130435,0.611111111,0.34375,11,46,18,1,,,Regulatory
+Trp,trpR,8.85E-17,3.14E-12,0.4375,0.777777778,0.56,7,16,9,1,,,Regulatory
+SG_ynfT,,,,,,,,,,,TRUE,,Other
+S-quino,,,,,,,,,,,,,Biological
+SG_copA,,,,,,,,,,,TRUE,,Other
+LldR,lldR,0,0,1,1,1,3,3,3,1,,,Regulatory
+Thiamine-1,TPP,4.83E-26,3.43E-21,0.818181818,1,0.9,9,11,9,1,,,Regulatory
+SG_yoaI,,,,,,,,,,,TRUE,,Other
+PuuR,puuR,1.73E-21,4.09E-17,1,0.875,0.933333333,7,7,8,1,,,Regulatory
+SG_yqfG,,,,,,,,,,,TRUE,,Other
+Hydrogenase 1,,,,,,,,,,,,,Biological
+YcjW,,,,,,,,,,,,,Regulatory
+Fnr-2,fnr,1.02E-16,7.26E-12,0.047516199,0.785714286,0.089613035,22,463,28,1,,,Regulatory
+SG_pdhR,,,,,,,,,,,TRUE,,Other
+SG_ydaG,,,,,,,,,,,TRUE,,Other
+NsrR,nsrR,2.08E-12,1.48E-07,0.098765,0.727273,0.173913,8,81,11,1,,,Regulatory
+SG_thrA,,,,,,,,,,,TRUE,,Other
+GntR,gntR,3.94E-26,2.80E-21,0.833333333,0.769230769,0.8,10,12,13,1,,,Regulatory
+SG_ymgI,,,,,,,,,,,TRUE,,Other
+Fnr+NarL+NarP,fnr+narL+narP,1.22E-46,1.53E-40,0.536585,0.956522,0.6875,22,41,23,3,,,Regulatory
+RcsAB,rcsA;rcsB,7.64E-18,2.71E-13,0.625,0.263158,0.37037,10,16,38,1,,,Regulatory
+MalT,malT,8.79E-27,3.12E-22,0.9,1,0.947368,9,10,9,1,,,Regulatory
+TyrR,tyrR,2.04E-17,7.26E-13,0.583333333,0.7,0.636363636,7,12,10,1,,,Regulatory
+SG_yoaG,,,,,,,,,,,TRUE,,Other
+Molybdopterin,molybdopterin,3.82E-13,2.71E-09,0.8,1,0.888888889,4,5,4,1,,,Regulatory
+Membrane,,,,,,,,,,,,,Biological
+Fnr-3,fnr,4.01E-18,2.85E-13,0.07775378,0.537313433,0.135849057,36,463,67,1,,,Regulatory
+Fe-S-1,,,,,,,,,,,,,Biological
+AtoC,atoC,0,0,1,1,1,4,4,4,1,,,Regulatory
+ROS Del,,,,,,,,,,,,,Genomic
+Leucine,leuO+lrp,3.82E-13,9.05E-09,1,0.8,0.888889,4,4,5,2,,,Regulatory
+SoxS,soxS,1.68E-45,1.19E-40,0.673076923,0.318181818,0.432098765,35,52,110,1,,,Regulatory
+Translation,,,,,,,,,,,,,Biological
+SG_ldrC,,,,,,,,,,,TRUE,,Other
+Uncharacterized-2,,,,,,,,,,,,Stress/membrane/defense?,Unknown
+RcnR,,,,,,,,,,,,,Regulatory
+Lrp,lrp,5.49E-30,3.90E-25,0.13,0.8125,0.224137931,26,200,32,1,,,Regulatory
+Nac,nac,2.44E-18,1.73E-13,0.046210721,0.833333333,0.087565674,25,541,30,1,,,Regulatory
+SG_pgi,,,,,,,,,,,TRUE,,Other
+KdpE,kdpE,8.04E-10,4.28E-07,1,0.6,0.75,3,3,5,1,,,Regulatory
+PhoB-2,phoB,1.41E-33,4.99E-29,0.327586,0.826087,0.469136,19,58,23,1,,,Regulatory
+Uncharacterized-3,,,,,,,,,,,,lots of y-genes,Unknown
+RbsR,rbsR,1.09E-17,2.58E-13,0.666667,1,0.8,6,9,6,1,,,Regulatory
+CysB-2,cysB,1.92E-16,6.83E-12,0.25,0.8,0.380952,8,32,10,1,,,Regulatory
+FliA-1,Sigma28,2.25E-21,1.60E-16,0.222222222,0.516129032,0.310679612,16,72,31,1,,,Regulatory
+SG_ghoT,,,,,,,,,,,TRUE,,Other
+GatR,gatR,3.86E-12,6.86E-08,1,0.208333333,0.344827586,5,5,24,1,,,Regulatory
+ArgR,argR,2.05E-31,7.30E-27,0.172131,0.913043,0.289655,21,122,23,1,,,Regulatory
+Uncharacterized-4,,,,,,,,,,,,maybe media-related,Unknown
+SG_ytiC,,,,,,,,,,,TRUE,,Other
+ProVWX,,,,,,,,,,,,,Biological
+oxyR KO,,,,,,,,,,,,,Genomic
+GadWX-1,gadW+gadX,1.21E-32,3.79E-26,0.866667,0.764706,0.8125,13,15,17,2,,,Regulatory
+Glutamine,,,,,,,,,,,,,Biological
+e14-2,,,,,,,,,,,,,Genomic
+XylR,xylR,2.72E-15,9.66E-11,0.857142857,0.428571429,0.571428571,6,7,14,1,,,Regulatory
+Cytochrome c,,,,,,,,,,,,,Biological
+ArcA,arcA,4.27E-23,3.04E-18,0.072649573,0.723404255,0.132038835,34,468,47,1,,,Regulatory
+PAL Del-1,,,,,,,,,,,,,Genomic
+SG_ynfQ,,,,,,,,,,,TRUE,,Other
+SG_ykgR,,,,,,,,,,,TRUE,,Other
+BirA,birA,5.45E-16,1.94E-11,1,0.833333333,0.909090909,5,5,6,1,,,Regulatory
+EvgA,evgA,5.26E-28,3.74E-23,0.666666667,0.75,0.705882353,12,18,16,1,,,Regulatory
+SG_menF,,,,,,,,,,,TRUE,,Other
+CP4-44,,,,,,,,,,,,,Genomic
+BluR,bluR,3.82E-13,6.79E-09,1,0.8,0.888888889,4,4,5,1,,,Regulatory
+SG_asr,gadX+rcdA,0,0,1,1,1,1,1,1,2,TRUE,,Other
+LsrR,lsrR,3.69E-24,1.31E-19,0.888888889,1,0.941176471,8,9,8,1,,,Regulatory
+SG_pinH,,,,,,,,,,,TRUE,,Other
+Hot TALE Mut-1,,,,,,,,,,,,,Genomic
+Uncharacterized-5,,,,,,,,,,,,quite unclear,Unknown
+BCAA-2,,,,,,,,,,,,,Biological
+Zur,zur,2.22E-16,1.58E-11,1,0.461538462,0.631578947,6,6,13,1,,,Regulatory
+RpoE,Sigma24,1.54E-12,1.10E-07,0.084033613,0.625,0.148148148,10,119,16,1,,,Regulatory
+Cytochrome bd-I,,,,,,,,,,,,,Biological
+Fur-1,fur,3.73E-34,2.65E-29,0.137362637,0.961538462,0.240384615,25,182,26,1,,,Regulatory
+PurR-1,purR,3.82E-30,2.72E-25,0.444444444,0.695652174,0.542372881,16,36,23,1,,,Regulatory
+ArgP,argP,6.68E-11,2.37E-06,0.428571429,0.24,0.307692308,6,14,25,1,,,Regulatory
+FDH-O,,,,,,,,,,,,,Biological
+AllR,allR,8.85E-17,6.29E-12,0.777777778,0.4375,0.56,7,9,16,1,,,Regulatory
+FucR,fucR,4.53E-15,1.07E-10,0.857142857,0.4,0.545454545,6,7,15,1,,,Regulatory
+INS,,,,,,,,,,,,,Genomic
+PAL Dup,,,,,,,,,,,,,Genomic
+Fur-2,fur,1.37E-45,9.75E-41,0.197802198,0.87804878,0.322869955,36,182,41,1,,,Regulatory
+Mlc,mlc,1.80E-11,4.26E-07,0.5,0.416667,0.454545,5,10,12,1,,,Regulatory
+SG_ydcI,,,,,,,,,,,TRUE,,Other
+CecR,cecR,0,0,1,1,1,5,5,5,1,,,Regulatory
+Dipeptide,,,,,,,,,,,,,Biological
+YgbI,,,,,,,,,,,,,Regulatory
+Thiamine-2,TPP,1.05E-11,7.47E-07,0.454545455,0.5,0.476190476,5,11,10,1,,,Regulatory
+LexA,lexA,9.85E-30,6.99E-25,0.290909091,0.888888889,0.438356164,16,55,18,1,,,Regulatory
+SG_yjiS,,,,,,,,,,,TRUE,,Other
+Cra,cra,3.64E-16,2.59E-11,0.087591241,0.8,0.157894737,12,137,15,1,,,Regulatory
+GlpR,glpR,0,0,1,1,1,9,9,9,1,,,Regulatory
+SG_flhDC,,,,,,,,,,,,,Other
+SG_hokA,,,,,,,,,,,TRUE,,Other
+RpoN+NtrC,Sigma54+ntrC,2.47E-13,1.75E-08,0.162790698,0.777777778,0.269230769,7,43,9,2,,,Regulatory
+SG_fur,,,,,,,,,,,TRUE,,Other
+Glyoxylate,,,,,,,,,,,,,Biological
+PaaX,paaX,5.53E-20,1.31E-15,0.571429,0.8,0.666667,8,14,10,1,,,Regulatory
+SG_ubiC,,,,,,,,,,,TRUE,,Other
+SG_ydaF,,,,,,,,,,,TRUE,,Other
+NDH-1,,,,,,,,,,,,,Biological
+SG_ldrA,,,,,,,,,,,TRUE,,Other
+CCK-PGI Del,,,,,,,,,,,,,Genomic
+SG_yjjZ,,,,,,,,,,,TRUE,,Other
+Oligopeptide,spermidine,1.14E-14,8.13E-11,1,0.555555556,0.714285714,5,5,9,1,,,Biological
+CdaR,cdaR,8.79E-27,6.24E-22,1,0.9,0.947368421,9,9,10,1,,,Regulatory
+RpoN+PrpR,Sigma54+prpR,3.82E-13,1.36E-08,1,0.8,0.888888889,4,4,5,2,,,Regulatory
+FliA-2,Sigma28,4.36E-54,3.10E-49,0.416666667,0.9375,0.576923077,30,72,32,1,,,Regulatory
+Fe-Citrate Transport,,,,,,,,,,,,,Biological
+CpxR,cpxR,1.15E-19,4.07E-15,0.261538,0.34,0.295652,17,65,50,1,,,Regulatory
+SG_ydfW,,,,,,,,,,,TRUE,,Other
+cpxR KO,,,,,,,,,,,,,Genomic
+C-related,,,,,,,,,,,,,Biological
+SG_yfiF,,,,,,,,,,,TRUE,,Other
+His,histidine,3.69E-24,8.75E-20,1,0.888888889,0.941176471,8,8,9,1,,,Regulatory
+RpoH,Sigma32,7.39E-52,5.25E-47,0.278195489,0.860465116,0.420454545,37,133,43,1,,,Regulatory
+SG_yheO,,,,,,,,,,,TRUE,,Other
+PAL Del-2,,,,,,,,,,,,,Genomic
+SG_intG,,,,,,,,,,,TRUE,,Other
+tpiA KO,,,,,,,,,,,,,Genomic
+sdh KO,,,,,,,,,,,,,Genomic
+RpoS+GadE,Sigma38+gadE,1.83E-21,1.30E-16,0.666666667,0.888888889,0.761904762,8,12,9,2,,,Regulatory
+Salicylate,,,,,,,,,,,,,Biological
+GcvA,gcvA,3.22E-09,0.000002,0.75,0.6,0.666667,3,4,5,1,,,Regulatory
+SG_xisR,,,,,,,,,,,TRUE,,Other
+CCK IS,,,,,,,,,,,,,Genomic
+Hot TALE Mut-2,,,,,,,,,,,,,Genomic
+GadWX-2,gadW+gadX,2.37E-20,8.43E-16,0.533333,0.888889,0.666667,8,15,9,2,,,Regulatory
+ppGpp,,,,,,,,,,,,,Regulatory
+SG_gnd,,,,,,,,,,,TRUE,,Other
+SG_ythA,,,,,,,,,,,TRUE,,Other
+NagC,nagC,1.17E-28,8.32E-24,0.378378378,0.875,0.528301887,14,37,16,1,,,Regulatory
+GutMR,gutM+gutR,9.07E-19,5.86E-15,0.857143,1,0.923077,6,7,6,2,,,Regulatory
+Fe-Related,,,,,,,,,,,,,Biological
+yciT KO,,,,,,,,,,,,,Genomic
+Molybdenum,,,,,,,,,,,,,Biological
+MetJ,metJ,9.21E-26,6.54E-21,0.733333333,0.647058824,0.6875,11,15,17,1,,,Regulatory
+Uncharacterized-6,,,,,,,,,,,,,Unknown
+entC KO,,,,,,,,,,,,,Genomic
+RpoS,Sigma38,5.95E-25,4.22E-20,0.191111111,0.344,0.245714286,43,225,125,1,,,Regulatory
+SG_rspAB,,,,,,,,,,,TRUE,,Other
+Cbl+CysB,cbl+cysB,4.27E-23,1.51E-18,1,0.5,0.666667,9,9,18,2,,,Regulatory
+FlhDC,flhD;flhC,1.96E-63,1.39E-58,0.456790123,0.902439024,0.606557377,37,81,41,1,,,Regulatory
+SG_zraP,,,,,,,,,,,TRUE,,Other
+NtrC,ntrC,2.73E-34,1.94E-29,0.351851852,0.826086957,0.493506494,19,54,23,1,,,Regulatory
+PhoP,phoP,4.52E-15,3.21E-10,0.196078431,0.5,0.281690141,10,51,20,1,,,Regulatory
+Fe-S Cluster-2,,,,,,,,,,,,,Biological
+pts KO,,,,,,,,,,,,,Genomic
+BasR,,,,,,,,,,,,,Regulatory
+ptsI KO,,,,,,,,,,,,,Genomic
+SG_ascBF,,,,,,,,,,,TRUE,,Other
+SG_xisD,,,,,,,,,,,TRUE,,Other
+SG_ybaQ,,,,,,,,,,,TRUE,,Other
+SG_yojO,,,,,,,,,,,TRUE,,Other
+SG_yedX,,,,,,,,,,,TRUE,,Other
+SG_ydfA,,,,,,,,,,,TRUE,,Other
+SG_cspC,,,,,,,,,,,TRUE,,Other
+Uncharacterized-7,,,,,,,,,,,,no clue,Unknown
+SG_alaE,,,,,,,,,,,TRUE,,Other
+SG_cspH,,,,,,,,,,,TRUE,,Other
+SG_ymcE,,,,,,,,,,,TRUE,,Other
+NO3 Red Z,,,,,,,,,,,,,Biological
+NarL+NarP,narL+narP,2.52E-12,3.58E-08,0.14,0.7,0.233333,7,50,10,2,,,Regulatory
+RpoS+RpoN+NtrC,Sigma38+Sigma54+ntrC,4.14E-28,2.60E-21,1,0.578947,0.733333,11,11,19,3,,energy/arg catabolism maybe?,Regulatory
+SG_ybfQ,,,,,,,,,,,TRUE,,Other
+SG_ynaM,,,,,,,,,,,TRUE,,Other
+Crp-Related-2,,,,,,,,,,,,,Biological
+Glutathione,,,,,,,,,,,,,Biological
+SG_sgrT,,,,,,,,,,,TRUE,,Other
