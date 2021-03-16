@@ -1,4 +1,4 @@
-,regulator,pvalue,qvalue,precision,recall,f1score,TP,regulon_size,imodulon_size,n_regs,single_gene,functional_category,annotation_category,imodulon_category,exp_var,trn_enrich_params,note
+,regulator,pvalue,qvalue,recall,precision,f1score,TP,regulon_size,imodulon_size,n_regs,single_gene,functional_category,annotation_category,imodulon_category,exp_var,trn_enrich_params,note
 e14 Removal,,,,,,,,,13,,,Prophage,ALE Effects,Genomic,0.34872635,,
 SG_yzfA,,,,,,,,,3,,1,Unknown,Single Gene,Other,0.053011885,,
 SG_ytiD,,,,,,,,,1,,1,Unknown,Single Gene,Other,0.047133965,,
@@ -200,7 +200,7 @@ BasR,BasR,4.91E-18,0,0.409091,0.5625,0.473684,9,22,16,1,,Metal Homeostasis,Two-C
 pts KO,,,,,,,,,37,,,Carbon Metabolism,Genetic Alterations,Genomic,0.116371986,,
 AscG,AscG+Crp,0.000002,,0.5,0.666667,0.571429,2,4,3,2,,Carbon Metabolism,Metabolism,Regulatory,0.080857714,Used compute_regulon_enrichment,
 SG_xisD,,,,,,,,,1,,1,Unknown,Single Gene,Other,0.048196165,,
-ybaQ KO,,,,,,,,,6,,,Unknown,Regulator Discovery,Genomic,0.11698043,,Potential regulator
+YbaQ,,,,,,,,,6,,,Unknown,Regulator Discovery,Genomic,0.11698043,,Potential regulator
 SG_yojO,,,,,,,,,1,,1,Unknown,Single Gene,Other,0.047806464,,
 ROS_yedX,,,,,,,,,6,,,Unknown,ALE Effects,Genomic,0.076869497,,
 SG_ydfA,,,,,,,,,1,,1,Unknown,Single Gene,Other,0.053355646,,
