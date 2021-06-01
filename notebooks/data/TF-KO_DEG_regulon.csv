@@ -4,32 +4,32 @@
 2,gadX,gadx,GadX,34,acid_wt_ph5,acid_delgadx_ph5,gadX,Other Regulators,3.0
 3,gadW,gadw,GadW,15,acid_wt_ph5,acid_delgadw_ph5,gadW,Other Regulators,28.0
 4,gadE,gade,GadE,32,acid_wt_ph5,acid_delgade_ph5,gadE,Other Regulators,10.0
-5,oxyR,oxyr,OxyR,43,oxidative_wt_pq,oxidative_deloxyr_pq,oxyR,Other Regulators,43.0
-6,oxyR,oxyr,OxyR,43,oxidative_wt_pq,oxidative_delsoxr_pq,oxyR,Other Regulators,64.0
-9,nac,nac,Nac,537,nac_ntrc_wt_csn,nac_ntrc_bw_delnac_csn,nac,Other Regulators,122.0
-10,nac,nac,Nac,537,nac_ntrc_wt_cytd,nac_ntrc_bw_delnac_cytd,nac,Other Regulators,136.0
-11,nac,nac,Nac,537,nac_ntrc_wt_gln,nac_ntrc_bw_delnac_gln,nac,Other Regulators,145.0
-16,cra,cra,Cra,79,cra_crp_wt_ac,cra_crp_delcra_ac,cra,Global Regulators,284.0
-17,cra,cra,Cra,79,cra_crp_wt_fru,cra_crp_delcra_fru,cra,Global Regulators,419.0
-25,crp,crp,Crp,556,crp_wt_fru,crp_delcrp_fru,crp,Global Regulators,494.0
-26,crp,crp,Crp,556,crp_wt_glyc,crp_delcrp_glyc,crp,Global Regulators,741.0
-29,atoC,atoc,AtoC,4,tcs_wt_LiAcet,tcs_del_atoC_LiAcet,atoC,TCS Response Regulators,71.0
-30,atoC,atoc,AtoC,4,tcs_wt_LiCl,tcs_del_atoC_LiCl,atoC,TCS Response Regulators,68.0
-31,baeR,baer,BaeR,9,tcs_wt_etoh,tcs_del_baeR_etoh,baeR,TCS Response Regulators,287.0
-32,baeR,baer,BaeR,9,tcs_wt_lb,tcs_del_baeR_lb,baeR,TCS Response Regulators,252.0
-33,btsR,btsr,BtsR,15,tcs_wt_01xlb,tcs_del_btsR_01xlb,btsR,TCS Response Regulators,20.0
-34,btsR,btsr,BtsR,15,tcs_wt_lb,tcs_del_btsR_lb,btsR,TCS Response Regulators,692.0
-35,btsR,btsr,BtsR,15,tcs_wt_pyr,tcs_del_btsR_pyruvate,btsR,TCS Response Regulators,29.0
-36,cpxR,cpxr,CpxR,71,tcs_wt_etoh,tcs_del_cpxR_etoh,cpxR,TCS Response Regulators,354.0
-37,cpxR,cpxr,CpxR,71,tcs_wt_lb,tcs_del_cpxR_lb,cpxR,TCS Response Regulators,219.0
-38,cusR,cusr,CusR,12,tcs_wt_CuSO4,tcs_del_cusR_CuSO4,cusR,TCS Response Regulators,369.0
-39,cusR,cusr,CusR,12,tcs_wt_lb,tcs_del_cusR_lb,cusR,TCS Response Regulators,882.0
-40,kdpE,kdpe,KdpE,4,tcs_wt_01_kcl,tcs_del_kdpE_01_kcl,kdpE,TCS Response Regulators,205.0
-41,kdpE,kdpe,KdpE,4,tcs_wt_115_kcl,tcs_del_kdpE_115_kcl,kdpE,TCS Response Regulators,16.0
-42,phoB,phob,PhoB,61,tcs_wt_m9p,tcs_del_phoB_m9p,phoB,TCS Response Regulators,107.0
-43,rcsB,rcsb,RcsB,26,tcs_wt_etoh,tcs_del_rcsB_etoh,rcsB,TCS Response Regulators,98.0
-44,rcsB,rcsb,RcsB,26,tcs_wt_lb,tcs_del_rcsB_lb,rcsB,TCS Response Regulators,131.0
-45,zraR,zrar,ZraR,9,tcs_wt_lb,tcs_del_zraR_lb,zraR,TCS Response Regulators,1064.0
-46,zraR,zrar,ZraR,9,tcs_wt_zncl2,tcs_del_zraR_zncl2,zraR,TCS Response Regulators,94.0
-54,ydcI,ydci,YdcI,21,ytf_wt_ph5,ytf_delydcI_ph5,ydcI,Other Regulators,1.0
-55,ydcI,ydci,YdcI,21,ytf_wt_ph8,ytf_delydcI_ph8,ydcI,Other Regulators,6.0
+5,nac,nac,Nac,537,nac_ntrc_wt_csn,nac_ntrc_bw_delnac_csn,nac,Other Regulators,122.0
+6,nac,nac,Nac,537,nac_ntrc_wt_cytd,nac_ntrc_bw_delnac_cytd,nac,Other Regulators,136.0
+7,nac,nac,Nac,537,nac_ntrc_wt_gln,nac_ntrc_bw_delnac_gln,nac,Other Regulators,145.0
+12,cra,cra,Cra,79,cra_crp_wt_ac,cra_crp_delcra_ac,cra,Global Regulators,284.0
+13,cra,cra,Cra,79,cra_crp_wt_fru,cra_crp_delcra_fru,cra,Global Regulators,419.0
+21,crp,crp,Crp,556,crp_wt_fru,crp_delcrp_fru,crp,Global Regulators,494.0
+22,crp,crp,Crp,556,crp_wt_glyc,crp_delcrp_glyc,crp,Global Regulators,741.0
+32,ydcI,ydci,YdcI,21,ytf_wt_ph5,ytf_delydcI_ph5,ydcI,Other Regulators,1.0
+33,ydcI,ydci,YdcI,21,ytf_wt_ph8,ytf_delydcI_ph8,ydcI,Other Regulators,6.0
+35,oxyR,oxyr,OxyR,43,oxidative_wt_pq,oxidative_deloxyr_pq,oxyR,Other Regulators,43.0
+36,oxyR,oxyr,OxyR,43,oxidative_wt_pq,oxidative_delsoxr_pq,oxyR,Other Regulators,64.0
+39,atoC,atoc,AtoC,4,tcs_wt_LiAcet,tcs_del_atoC_LiAcet,atoC,TCS Response Regulators,71.0
+40,atoC,atoc,AtoC,4,tcs_wt_LiCl,tcs_del_atoC_LiCl,atoC,TCS Response Regulators,68.0
+41,baeR,baer,BaeR,9,tcs_wt_etoh,tcs_del_baeR_etoh,baeR,TCS Response Regulators,287.0
+42,baeR,baer,BaeR,9,tcs_wt_lb,tcs_del_baeR_lb,baeR,TCS Response Regulators,252.0
+43,btsR,btsr,BtsR,15,tcs_wt_01xlb,tcs_del_btsR_01xlb,btsR,TCS Response Regulators,20.0
+44,btsR,btsr,BtsR,15,tcs_wt_lb,tcs_del_btsR_lb,btsR,TCS Response Regulators,692.0
+45,btsR,btsr,BtsR,15,tcs_wt_pyr,tcs_del_btsR_pyruvate,btsR,TCS Response Regulators,29.0
+46,cpxR,cpxr,CpxR,71,tcs_wt_etoh,tcs_del_cpxR_etoh,cpxR,TCS Response Regulators,354.0
+47,cpxR,cpxr,CpxR,71,tcs_wt_lb,tcs_del_cpxR_lb,cpxR,TCS Response Regulators,219.0
+48,cusR,cusr,CusR,12,tcs_wt_CuSO4,tcs_del_cusR_CuSO4,cusR,TCS Response Regulators,369.0
+49,cusR,cusr,CusR,12,tcs_wt_lb,tcs_del_cusR_lb,cusR,TCS Response Regulators,882.0
+50,kdpE,kdpe,KdpE,4,tcs_wt_01_kcl,tcs_del_kdpE_01_kcl,kdpE,TCS Response Regulators,205.0
+51,kdpE,kdpe,KdpE,4,tcs_wt_115_kcl,tcs_del_kdpE_115_kcl,kdpE,TCS Response Regulators,16.0
+52,phoB,phob,PhoB,61,tcs_wt_m9p,tcs_del_phoB_m9p,phoB,TCS Response Regulators,107.0
+53,rcsB,rcsb,RcsB,26,tcs_wt_etoh,tcs_del_rcsB_etoh,rcsB,TCS Response Regulators,98.0
+54,rcsB,rcsb,RcsB,26,tcs_wt_lb,tcs_del_rcsB_lb,rcsB,TCS Response Regulators,131.0
+55,zraR,zrar,ZraR,9,tcs_wt_lb,tcs_del_zraR_lb,zraR,TCS Response Regulators,1064.0
+56,zraR,zrar,ZraR,9,tcs_wt_zncl2,tcs_del_zraR_zncl2,zraR,TCS Response Regulators,94.0
