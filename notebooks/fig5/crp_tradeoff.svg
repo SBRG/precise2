@@ -1,0 +1,3261 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="288pt" version="1.1" viewBox="0 0 360 288" width="360pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2021-06-10T10:51:23.682933</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.3.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 288 
+L 360 288 
+L 360 0 
+L 0 0 
+z
+" style="fill:none;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 45 252 
+L 324 252 
+L 324 34.56 
+L 45 34.56 
+z
+" style="fill:#ffffff;"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path d="M 0 1.936492 
+C 0.513564 1.936492 1.006162 1.732451 1.369306 1.369306 
+C 1.732451 1.006162 1.936492 0.513564 1.936492 0 
+C 1.936492 -0.513564 1.732451 -1.006162 1.369306 -1.369306 
+C 1.006162 -1.732451 0.513564 -1.936492 0 -1.936492 
+C -0.513564 -1.936492 -1.006162 -1.732451 -1.369306 -1.369306 
+C -1.732451 -1.006162 -1.936492 -0.513564 -1.936492 0 
+C -1.936492 0.513564 -1.732451 1.006162 -1.369306 1.369306 
+C -1.006162 1.732451 -0.513564 1.936492 0 1.936492 
+z
+" id="mb5883e5c53" style="stroke:#808080;"/>
+    </defs>
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="187.969707" xlink:href="#mb5883e5c53" y="84.66028"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="115.645087" xlink:href="#mb5883e5c53" y="119.839897"/>
+    </g>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="97.388054" xlink:href="#mb5883e5c53" y="128.536003"/>
+    </g>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="77.308121" xlink:href="#mb5883e5c53" y="132.691152"/>
+    </g>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="99.271866" xlink:href="#mb5883e5c53" y="120.692304"/>
+    </g>
+   </g>
+   <g id="PathCollection_6">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="71.852511" xlink:href="#mb5883e5c53" y="135.16645"/>
+    </g>
+   </g>
+   <g id="PathCollection_7">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="137.597217" xlink:href="#mb5883e5c53" y="117.33562"/>
+    </g>
+   </g>
+   <g id="PathCollection_8">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="106.993123" xlink:href="#mb5883e5c53" y="122.715655"/>
+    </g>
+   </g>
+   <g id="PathCollection_9">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="79.345452" xlink:href="#mb5883e5c53" y="119.033801"/>
+    </g>
+   </g>
+   <g id="PathCollection_10">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="89.132024" xlink:href="#mb5883e5c53" y="123.411584"/>
+    </g>
+   </g>
+   <g id="PathCollection_11">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="69.01964" xlink:href="#mb5883e5c53" y="195.70811"/>
+    </g>
+   </g>
+   <g id="PathCollection_12">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="60.254302" xlink:href="#mb5883e5c53" y="211.306974"/>
+    </g>
+   </g>
+   <g id="PathCollection_13">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="116.809925" xlink:href="#mb5883e5c53" y="155.395659"/>
+    </g>
+   </g>
+   <g id="PathCollection_14">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="81.475396" xlink:href="#mb5883e5c53" y="198.948805"/>
+    </g>
+   </g>
+   <g id="PathCollection_15">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="90.414935" xlink:href="#mb5883e5c53" y="208.470251"/>
+    </g>
+   </g>
+   <g id="PathCollection_16">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="81.816179" xlink:href="#mb5883e5c53" y="151.594544"/>
+    </g>
+   </g>
+   <g id="PathCollection_17">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="75.374813" xlink:href="#mb5883e5c53" y="134.97333"/>
+    </g>
+   </g>
+   <g id="PathCollection_18">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="90.500239" xlink:href="#mb5883e5c53" y="132.748371"/>
+    </g>
+   </g>
+   <g id="PathCollection_19">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="96.598886" xlink:href="#mb5883e5c53" y="131.230197"/>
+    </g>
+   </g>
+   <g id="PathCollection_20">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="76.535491" xlink:href="#mb5883e5c53" y="146.816507"/>
+    </g>
+   </g>
+   <g id="PathCollection_21">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="76.109717" xlink:href="#mb5883e5c53" y="162.55617"/>
+    </g>
+   </g>
+   <g id="PathCollection_22">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="77.200352" xlink:href="#mb5883e5c53" y="172.142687"/>
+    </g>
+   </g>
+   <g id="PathCollection_23">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="120.011821" xlink:href="#mb5883e5c53" y="112.320835"/>
+    </g>
+   </g>
+   <g id="PathCollection_24">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="121.950634" xlink:href="#mb5883e5c53" y="116.666148"/>
+    </g>
+   </g>
+   <g id="PathCollection_25">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="65.311722" xlink:href="#mb5883e5c53" y="214.989389"/>
+    </g>
+   </g>
+   <g id="PathCollection_26">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="86.877798" xlink:href="#mb5883e5c53" y="123.410072"/>
+    </g>
+   </g>
+   <g id="PathCollection_27">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="87.902802" xlink:href="#mb5883e5c53" y="120.835968"/>
+    </g>
+   </g>
+   <g id="PathCollection_28">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="84.981439" xlink:href="#mb5883e5c53" y="120.930963"/>
+    </g>
+   </g>
+   <g id="PathCollection_29">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="83.517897" xlink:href="#mb5883e5c53" y="126.535558"/>
+    </g>
+   </g>
+   <g id="PathCollection_30">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="85.95071" xlink:href="#mb5883e5c53" y="136.200102"/>
+    </g>
+   </g>
+   <g id="PathCollection_31">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="83.404474" xlink:href="#mb5883e5c53" y="119.014623"/>
+    </g>
+   </g>
+   <g id="PathCollection_32">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="109.398959" xlink:href="#mb5883e5c53" y="116.384942"/>
+    </g>
+   </g>
+   <g id="PathCollection_33">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="76.101217" xlink:href="#mb5883e5c53" y="143.636776"/>
+    </g>
+   </g>
+   <g id="PathCollection_34">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="93.811055" xlink:href="#mb5883e5c53" y="127.660267"/>
+    </g>
+   </g>
+   <g id="PathCollection_35">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="83.670549" xlink:href="#mb5883e5c53" y="140.449839"/>
+    </g>
+   </g>
+   <g id="PathCollection_36">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="88.312522" xlink:href="#mb5883e5c53" y="124.153686"/>
+    </g>
+   </g>
+   <g id="PathCollection_37">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="79.550897" xlink:href="#mb5883e5c53" y="119.42388"/>
+    </g>
+   </g>
+   <g id="PathCollection_38">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="90.693661" xlink:href="#mb5883e5c53" y="129.126327"/>
+    </g>
+   </g>
+   <g id="PathCollection_39">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="87.497137" xlink:href="#mb5883e5c53" y="130.116591"/>
+    </g>
+   </g>
+   <g id="PathCollection_40">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="97.444634" xlink:href="#mb5883e5c53" y="146.055375"/>
+    </g>
+   </g>
+   <g id="PathCollection_41">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="95.399996" xlink:href="#mb5883e5c53" y="138.610961"/>
+    </g>
+   </g>
+   <g id="PathCollection_42">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="69.192917" xlink:href="#mb5883e5c53" y="126.251586"/>
+    </g>
+   </g>
+   <g id="PathCollection_43">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="71.884663" xlink:href="#mb5883e5c53" y="128.307108"/>
+    </g>
+   </g>
+   <g id="PathCollection_44">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="73.744243" xlink:href="#mb5883e5c53" y="133.366505"/>
+    </g>
+   </g>
+   <g id="PathCollection_45">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="115.248396" xlink:href="#mb5883e5c53" y="121.838014"/>
+    </g>
+   </g>
+   <g id="PathCollection_46">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="69.774472" xlink:href="#mb5883e5c53" y="124.458526"/>
+    </g>
+   </g>
+   <g id="PathCollection_47">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="71.123348" xlink:href="#mb5883e5c53" y="126.206905"/>
+    </g>
+   </g>
+   <g id="PathCollection_48">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="70.426268" xlink:href="#mb5883e5c53" y="125.86044"/>
+    </g>
+   </g>
+   <g id="PathCollection_49">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="122.272972" xlink:href="#mb5883e5c53" y="79.464615"/>
+    </g>
+   </g>
+   <g id="PathCollection_50">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="95.389665" xlink:href="#mb5883e5c53" y="97.926277"/>
+    </g>
+   </g>
+   <g id="PathCollection_51">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="99.685234" xlink:href="#mb5883e5c53" y="95.449608"/>
+    </g>
+   </g>
+   <g id="PathCollection_52">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="89.97185" xlink:href="#mb5883e5c53" y="94.275473"/>
+    </g>
+   </g>
+   <g id="PathCollection_53">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="81.994336" xlink:href="#mb5883e5c53" y="111.939308"/>
+    </g>
+   </g>
+   <g id="PathCollection_54">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="96.408101" xlink:href="#mb5883e5c53" y="90.25726"/>
+    </g>
+   </g>
+   <g id="PathCollection_55">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="86.896912" xlink:href="#mb5883e5c53" y="101.314272"/>
+    </g>
+   </g>
+   <g id="PathCollection_56">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="86.947274" xlink:href="#mb5883e5c53" y="104.903879"/>
+    </g>
+   </g>
+   <g id="PathCollection_57">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="82.074216" xlink:href="#mb5883e5c53" y="111.738473"/>
+    </g>
+   </g>
+   <g id="PathCollection_58">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="118.866532" xlink:href="#mb5883e5c53" y="98.971221"/>
+    </g>
+   </g>
+   <g id="PathCollection_59">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="66.560624" xlink:href="#mb5883e5c53" y="198.919647"/>
+    </g>
+   </g>
+   <g id="PathCollection_60">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="76.136086" xlink:href="#mb5883e5c53" y="126.695055"/>
+    </g>
+   </g>
+   <g id="PathCollection_61">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="57.681818" xlink:href="#mb5883e5c53" y="220.47428"/>
+    </g>
+   </g>
+   <g id="PathCollection_62">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="76.304735" xlink:href="#mb5883e5c53" y="125.085555"/>
+    </g>
+   </g>
+   <g id="PathCollection_63">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="121.128613" xlink:href="#mb5883e5c53" y="109.87006"/>
+    </g>
+   </g>
+   <g id="PathCollection_64">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="72.849954" xlink:href="#mb5883e5c53" y="143.202933"/>
+    </g>
+   </g>
+   <g id="PathCollection_65">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="71.593548" xlink:href="#mb5883e5c53" y="138.025086"/>
+    </g>
+   </g>
+   <g id="PathCollection_66">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="71.428754" xlink:href="#mb5883e5c53" y="135.369942"/>
+    </g>
+   </g>
+   <g id="PathCollection_67">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="176.131005" xlink:href="#mb5883e5c53" y="73.02386"/>
+    </g>
+   </g>
+   <g id="PathCollection_68">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="90.589365" xlink:href="#mb5883e5c53" y="100.229702"/>
+    </g>
+   </g>
+   <g id="PathCollection_69">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="113.095819" xlink:href="#mb5883e5c53" y="74.815649"/>
+    </g>
+   </g>
+   <g id="PathCollection_70">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="89.416113" xlink:href="#mb5883e5c53" y="108.264902"/>
+    </g>
+   </g>
+   <g id="PathCollection_71">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="86.744413" xlink:href="#mb5883e5c53" y="101.261936"/>
+    </g>
+   </g>
+   <g id="PathCollection_72">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="95.765449" xlink:href="#mb5883e5c53" y="111.669189"/>
+    </g>
+   </g>
+   <g id="PathCollection_73">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="170.361268" xlink:href="#mb5883e5c53" y="65.520931"/>
+    </g>
+   </g>
+   <g id="PathCollection_74">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="75.387713" xlink:href="#mb5883e5c53" y="153.51756"/>
+    </g>
+   </g>
+   <g id="PathCollection_75">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="80.010643" xlink:href="#mb5883e5c53" y="128.772997"/>
+    </g>
+   </g>
+   <g id="PathCollection_76">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="194.984897" xlink:href="#mb5883e5c53" y="60.046327"/>
+    </g>
+   </g>
+   <g id="PathCollection_77">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="143.374521" xlink:href="#mb5883e5c53" y="77.322708"/>
+    </g>
+   </g>
+   <g id="PathCollection_78">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="85.792221" xlink:href="#mb5883e5c53" y="150.905128"/>
+    </g>
+   </g>
+   <g id="PathCollection_79">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="112.374854" xlink:href="#mb5883e5c53" y="104.237394"/>
+    </g>
+   </g>
+   <g id="PathCollection_80">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="115.199582" xlink:href="#mb5883e5c53" y="116.318778"/>
+    </g>
+   </g>
+   <g id="PathCollection_81">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="87.565553" xlink:href="#mb5883e5c53" y="104.681773"/>
+    </g>
+   </g>
+   <g id="PathCollection_82">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="146.951738" xlink:href="#mb5883e5c53" y="98.529248"/>
+    </g>
+   </g>
+   <g id="PathCollection_83">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="81.830045" xlink:href="#mb5883e5c53" y="125.692079"/>
+    </g>
+   </g>
+   <g id="PathCollection_84">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="81.117636" xlink:href="#mb5883e5c53" y="123.363361"/>
+    </g>
+   </g>
+   <g id="PathCollection_85">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="82.989539" xlink:href="#mb5883e5c53" y="113.626555"/>
+    </g>
+   </g>
+   <g id="PathCollection_86">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="97.751992" xlink:href="#mb5883e5c53" y="100.861005"/>
+    </g>
+   </g>
+   <g id="PathCollection_87">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="176.705036" xlink:href="#mb5883e5c53" y="56.063512"/>
+    </g>
+   </g>
+   <g id="PathCollection_88">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="159.155397" xlink:href="#mb5883e5c53" y="55.52217"/>
+    </g>
+   </g>
+   <g id="PathCollection_89">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="88.92343" xlink:href="#mb5883e5c53" y="111.837881"/>
+    </g>
+   </g>
+   <g id="PathCollection_90">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="96.894903" xlink:href="#mb5883e5c53" y="147.64902"/>
+    </g>
+   </g>
+   <g id="PathCollection_91">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="89.812444" xlink:href="#mb5883e5c53" y="118.670026"/>
+    </g>
+   </g>
+   <g id="PathCollection_92">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="86.908811" xlink:href="#mb5883e5c53" y="113.699715"/>
+    </g>
+   </g>
+   <g id="PathCollection_93">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="85.607608" xlink:href="#mb5883e5c53" y="158.088594"/>
+    </g>
+   </g>
+   <g id="PathCollection_94">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="89.832807" xlink:href="#mb5883e5c53" y="123.988619"/>
+    </g>
+   </g>
+   <g id="PathCollection_95">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="85.401737" xlink:href="#mb5883e5c53" y="188.535464"/>
+    </g>
+   </g>
+   <g id="PathCollection_96">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="86.520383" xlink:href="#mb5883e5c53" y="110.254403"/>
+    </g>
+   </g>
+   <g id="PathCollection_97">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="91.618641" xlink:href="#mb5883e5c53" y="131.493217"/>
+    </g>
+   </g>
+   <g id="PathCollection_98">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="99.838963" xlink:href="#mb5883e5c53" y="127.269565"/>
+    </g>
+   </g>
+   <g id="PathCollection_99">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="85.975795" xlink:href="#mb5883e5c53" y="119.361001"/>
+    </g>
+   </g>
+   <g id="PathCollection_100">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="110.9442" xlink:href="#mb5883e5c53" y="86.026133"/>
+    </g>
+   </g>
+   <g id="PathCollection_101">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="70.206831" xlink:href="#mb5883e5c53" y="123.806004"/>
+    </g>
+   </g>
+   <g id="PathCollection_102">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="118.359286" xlink:href="#mb5883e5c53" y="115.532018"/>
+    </g>
+   </g>
+   <g id="PathCollection_103">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="108.009099" xlink:href="#mb5883e5c53" y="116.633765"/>
+    </g>
+   </g>
+   <g id="PathCollection_104">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="88.644713" xlink:href="#mb5883e5c53" y="110.635141"/>
+    </g>
+   </g>
+   <g id="PathCollection_105">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="87.01589" xlink:href="#mb5883e5c53" y="116.623274"/>
+    </g>
+   </g>
+   <g id="PathCollection_106">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="82.176724" xlink:href="#mb5883e5c53" y="163.533898"/>
+    </g>
+   </g>
+   <g id="PathCollection_107">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="85.811032" xlink:href="#mb5883e5c53" y="107.331303"/>
+    </g>
+   </g>
+   <g id="PathCollection_108">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="85.945386" xlink:href="#mb5883e5c53" y="101.933478"/>
+    </g>
+   </g>
+   <g id="PathCollection_109">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="94.774909" xlink:href="#mb5883e5c53" y="134.514718"/>
+    </g>
+   </g>
+   <g id="PathCollection_110">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="79.978478" xlink:href="#mb5883e5c53" y="104.527607"/>
+    </g>
+   </g>
+   <g id="PathCollection_111">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="85.695468" xlink:href="#mb5883e5c53" y="107.417094"/>
+    </g>
+   </g>
+   <g id="PathCollection_112">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="84.829676" xlink:href="#mb5883e5c53" y="135.72425"/>
+    </g>
+   </g>
+   <g id="PathCollection_113">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="92.512548" xlink:href="#mb5883e5c53" y="103.223673"/>
+    </g>
+   </g>
+   <g id="PathCollection_114">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="94.109886" xlink:href="#mb5883e5c53" y="97.714695"/>
+    </g>
+   </g>
+   <g id="PathCollection_115">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="88.721418" xlink:href="#mb5883e5c53" y="135.408295"/>
+    </g>
+   </g>
+   <g id="PathCollection_116">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="87.311437" xlink:href="#mb5883e5c53" y="125.954282"/>
+    </g>
+   </g>
+   <g id="PathCollection_117">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="87.144143" xlink:href="#mb5883e5c53" y="103.004227"/>
+    </g>
+   </g>
+   <g id="PathCollection_118">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="87.168596" xlink:href="#mb5883e5c53" y="129.297534"/>
+    </g>
+   </g>
+   <g id="PathCollection_119">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="87.586111" xlink:href="#mb5883e5c53" y="120.656192"/>
+    </g>
+   </g>
+   <g id="PathCollection_120">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="85.731815" xlink:href="#mb5883e5c53" y="115.600039"/>
+    </g>
+   </g>
+   <g id="PathCollection_121">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="80.552455" xlink:href="#mb5883e5c53" y="139.796518"/>
+    </g>
+   </g>
+   <g id="PathCollection_122">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="88.392022" xlink:href="#mb5883e5c53" y="114.914154"/>
+    </g>
+   </g>
+   <g id="PathCollection_123">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="86.312794" xlink:href="#mb5883e5c53" y="114.97242"/>
+    </g>
+   </g>
+   <g id="PathCollection_124">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="83.561446" xlink:href="#mb5883e5c53" y="146.039859"/>
+    </g>
+   </g>
+   <g id="PathCollection_125">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="89.622597" xlink:href="#mb5883e5c53" y="103.477364"/>
+    </g>
+   </g>
+   <g id="PathCollection_126">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="84.706734" xlink:href="#mb5883e5c53" y="110.664333"/>
+    </g>
+   </g>
+   <g id="PathCollection_127">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="79.133569" xlink:href="#mb5883e5c53" y="138.563499"/>
+    </g>
+   </g>
+   <g id="PathCollection_128">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="85.748382" xlink:href="#mb5883e5c53" y="119.156993"/>
+    </g>
+   </g>
+   <g id="PathCollection_129">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="83.601443" xlink:href="#mb5883e5c53" y="114.860481"/>
+    </g>
+   </g>
+   <g id="PathCollection_130">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="80.598937" xlink:href="#mb5883e5c53" y="145.931358"/>
+    </g>
+   </g>
+   <g id="PathCollection_131">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="87.63571" xlink:href="#mb5883e5c53" y="119.491412"/>
+    </g>
+   </g>
+   <g id="PathCollection_132">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="189.626873" xlink:href="#mb5883e5c53" y="61.714014"/>
+    </g>
+   </g>
+   <g id="PathCollection_133">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="87.588936" xlink:href="#mb5883e5c53" y="123.14962"/>
+    </g>
+   </g>
+   <g id="PathCollection_134">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="230.570134" xlink:href="#mb5883e5c53" y="63.619095"/>
+    </g>
+   </g>
+   <g id="PathCollection_135">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="94.912469" xlink:href="#mb5883e5c53" y="214.405263"/>
+    </g>
+   </g>
+   <g id="PathCollection_136">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="110.994151" xlink:href="#mb5883e5c53" y="70.077562"/>
+    </g>
+   </g>
+   <g id="PathCollection_137">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="86.565996" xlink:href="#mb5883e5c53" y="92.01415"/>
+    </g>
+   </g>
+   <g id="PathCollection_138">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="84.999795" xlink:href="#mb5883e5c53" y="137.103558"/>
+    </g>
+   </g>
+   <g id="PathCollection_139">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="88.970155" xlink:href="#mb5883e5c53" y="93.161504"/>
+    </g>
+   </g>
+   <g id="PathCollection_140">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="153.974486" xlink:href="#mb5883e5c53" y="60.365102"/>
+    </g>
+   </g>
+   <g id="PathCollection_141">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="90.426618" xlink:href="#mb5883e5c53" y="92.815094"/>
+    </g>
+   </g>
+   <g id="PathCollection_142">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="136.057649" xlink:href="#mb5883e5c53" y="66.00806"/>
+    </g>
+   </g>
+   <g id="PathCollection_143">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="86.007674" xlink:href="#mb5883e5c53" y="103.103807"/>
+    </g>
+   </g>
+   <g id="PathCollection_144">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="131.53904" xlink:href="#mb5883e5c53" y="117.65804"/>
+    </g>
+   </g>
+   <g id="PathCollection_145">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="146.067397" xlink:href="#mb5883e5c53" y="80.268674"/>
+    </g>
+   </g>
+   <g id="PathCollection_146">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="134.984599" xlink:href="#mb5883e5c53" y="93.52483"/>
+    </g>
+   </g>
+   <g id="PathCollection_147">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="94.136651" xlink:href="#mb5883e5c53" y="112.173717"/>
+    </g>
+   </g>
+   <g id="PathCollection_148">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="85.766643" xlink:href="#mb5883e5c53" y="112.717813"/>
+    </g>
+   </g>
+   <g id="PathCollection_149">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="83.218282" xlink:href="#mb5883e5c53" y="139.774619"/>
+    </g>
+   </g>
+   <g id="PathCollection_150">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="86.794545" xlink:href="#mb5883e5c53" y="115.523818"/>
+    </g>
+   </g>
+   <g id="PathCollection_151">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="88.216275" xlink:href="#mb5883e5c53" y="101.991643"/>
+    </g>
+   </g>
+   <g id="PathCollection_152">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="177.637106" xlink:href="#mb5883e5c53" y="69.699096"/>
+    </g>
+   </g>
+   <g id="PathCollection_153">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="87.226795" xlink:href="#mb5883e5c53" y="107.066166"/>
+    </g>
+   </g>
+   <g id="PathCollection_154">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="82.840391" xlink:href="#mb5883e5c53" y="100.445445"/>
+    </g>
+   </g>
+   <g id="PathCollection_155">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="84.791111" xlink:href="#mb5883e5c53" y="115.436055"/>
+    </g>
+   </g>
+   <g id="PathCollection_156">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="84.625777" xlink:href="#mb5883e5c53" y="153.617077"/>
+    </g>
+   </g>
+   <g id="PathCollection_157">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="84.546171" xlink:href="#mb5883e5c53" y="130.493477"/>
+    </g>
+   </g>
+   <g id="PathCollection_158">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="81.292609" xlink:href="#mb5883e5c53" y="122.968149"/>
+    </g>
+   </g>
+   <g id="PathCollection_159">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="92.283015" xlink:href="#mb5883e5c53" y="111.27848"/>
+    </g>
+   </g>
+   <g id="PathCollection_160">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="94.866594" xlink:href="#mb5883e5c53" y="141.294147"/>
+    </g>
+   </g>
+   <g id="PathCollection_161">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="147.27263" xlink:href="#mb5883e5c53" y="68.085986"/>
+    </g>
+   </g>
+   <g id="PathCollection_162">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="82.278048" xlink:href="#mb5883e5c53" y="135.700183"/>
+    </g>
+   </g>
+   <g id="PathCollection_163">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="82.54981" xlink:href="#mb5883e5c53" y="133.523348"/>
+    </g>
+   </g>
+   <g id="PathCollection_164">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="95.493003" xlink:href="#mb5883e5c53" y="201.149829"/>
+    </g>
+   </g>
+   <g id="PathCollection_165">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="90.159952" xlink:href="#mb5883e5c53" y="143.938154"/>
+    </g>
+   </g>
+   <g id="PathCollection_166">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="93.491364" xlink:href="#mb5883e5c53" y="159.46621"/>
+    </g>
+   </g>
+   <g id="PathCollection_167">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="88.073701" xlink:href="#mb5883e5c53" y="107.928359"/>
+    </g>
+   </g>
+   <g id="PathCollection_168">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="98.340048" xlink:href="#mb5883e5c53" y="164.021852"/>
+    </g>
+   </g>
+   <g id="PathCollection_169">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="95.460676" xlink:href="#mb5883e5c53" y="148.557537"/>
+    </g>
+   </g>
+   <g id="PathCollection_170">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="99.409909" xlink:href="#mb5883e5c53" y="166.000585"/>
+    </g>
+   </g>
+   <g id="PathCollection_171">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="87.331668" xlink:href="#mb5883e5c53" y="101.636756"/>
+    </g>
+   </g>
+   <g id="PathCollection_172">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="73.702049" xlink:href="#mb5883e5c53" y="119.035534"/>
+    </g>
+   </g>
+   <g id="PathCollection_173">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="83.761733" xlink:href="#mb5883e5c53" y="117.578904"/>
+    </g>
+   </g>
+   <g id="PathCollection_174">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="81.878056" xlink:href="#mb5883e5c53" y="131.846002"/>
+    </g>
+   </g>
+   <g id="PathCollection_175">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="80.645825" xlink:href="#mb5883e5c53" y="120.879003"/>
+    </g>
+   </g>
+   <g id="PathCollection_176">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="83.849712" xlink:href="#mb5883e5c53" y="128.058643"/>
+    </g>
+   </g>
+   <g id="PathCollection_177">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="198.10586" xlink:href="#mb5883e5c53" y="64.762249"/>
+    </g>
+   </g>
+   <g id="PathCollection_178">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="165.611715" xlink:href="#mb5883e5c53" y="85.022196"/>
+    </g>
+   </g>
+   <g id="PathCollection_179">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="95.200362" xlink:href="#mb5883e5c53" y="136.43588"/>
+    </g>
+   </g>
+   <g id="PathCollection_180">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="157.468424" xlink:href="#mb5883e5c53" y="82.765811"/>
+    </g>
+   </g>
+   <g id="PathCollection_181">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="94.460004" xlink:href="#mb5883e5c53" y="120.990727"/>
+    </g>
+   </g>
+   <g id="PathCollection_182">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="83.395904" xlink:href="#mb5883e5c53" y="120.761887"/>
+    </g>
+   </g>
+   <g id="PathCollection_183">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="164.987641" xlink:href="#mb5883e5c53" y="131.11764"/>
+    </g>
+   </g>
+   <g id="PathCollection_184">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="88.802174" xlink:href="#mb5883e5c53" y="168.050268"/>
+    </g>
+   </g>
+   <g id="PathCollection_185">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="87.227649" xlink:href="#mb5883e5c53" y="189.536678"/>
+    </g>
+   </g>
+   <g id="PathCollection_186">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="84.975521" xlink:href="#mb5883e5c53" y="165.025034"/>
+    </g>
+   </g>
+   <g id="PathCollection_187">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="89.890643" xlink:href="#mb5883e5c53" y="166.402824"/>
+    </g>
+   </g>
+   <g id="PathCollection_188">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="96.125414" xlink:href="#mb5883e5c53" y="170.930096"/>
+    </g>
+   </g>
+   <g id="PathCollection_189">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="93.793961" xlink:href="#mb5883e5c53" y="172.444715"/>
+    </g>
+   </g>
+   <g id="PathCollection_190">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="72.606457" xlink:href="#mb5883e5c53" y="127.967822"/>
+    </g>
+   </g>
+   <g id="PathCollection_191">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="79.679654" xlink:href="#mb5883e5c53" y="135.647716"/>
+    </g>
+   </g>
+   <g id="PathCollection_192">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="86.9125" xlink:href="#mb5883e5c53" y="123.432496"/>
+    </g>
+   </g>
+   <g id="PathCollection_193">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="87.914774" xlink:href="#mb5883e5c53" y="115.48644"/>
+    </g>
+   </g>
+   <g id="PathCollection_194">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="84.074498" xlink:href="#mb5883e5c53" y="95.518311"/>
+    </g>
+   </g>
+   <g id="PathCollection_195">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="80.718249" xlink:href="#mb5883e5c53" y="121.150413"/>
+    </g>
+   </g>
+   <g id="PathCollection_196">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="87.771244" xlink:href="#mb5883e5c53" y="99.249711"/>
+    </g>
+   </g>
+   <g id="PathCollection_197">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="85.323979" xlink:href="#mb5883e5c53" y="99.48873"/>
+    </g>
+   </g>
+   <g id="PathCollection_198">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="91.453099" xlink:href="#mb5883e5c53" y="121.985976"/>
+    </g>
+   </g>
+   <g id="PathCollection_199">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="85.152003" xlink:href="#mb5883e5c53" y="123.774649"/>
+    </g>
+   </g>
+   <g id="PathCollection_200">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="85.728089" xlink:href="#mb5883e5c53" y="99.020654"/>
+    </g>
+   </g>
+   <g id="PathCollection_201">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="82.608289" xlink:href="#mb5883e5c53" y="105.957304"/>
+    </g>
+   </g>
+   <g id="PathCollection_202">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="208.418497" xlink:href="#mb5883e5c53" y="55.33829"/>
+    </g>
+   </g>
+   <g id="PathCollection_203">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="213.027936" xlink:href="#mb5883e5c53" y="63.608604"/>
+    </g>
+   </g>
+   <g id="PathCollection_204">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="132.385105" xlink:href="#mb5883e5c53" y="80.964759"/>
+    </g>
+   </g>
+   <g id="PathCollection_205">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="127.055981" xlink:href="#mb5883e5c53" y="89.826697"/>
+    </g>
+   </g>
+   <g id="PathCollection_206">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="144.237196" xlink:href="#mb5883e5c53" y="85.266202"/>
+    </g>
+   </g>
+   <g id="PathCollection_207">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="171.804461" xlink:href="#mb5883e5c53" y="73.937136"/>
+    </g>
+   </g>
+   <g id="PathCollection_208">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="189.248862" xlink:href="#mb5883e5c53" y="75.276966"/>
+    </g>
+   </g>
+   <g id="PathCollection_209">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="162.478028" xlink:href="#mb5883e5c53" y="76.744423"/>
+    </g>
+   </g>
+   <g id="PathCollection_210">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="197.832149" xlink:href="#mb5883e5c53" y="57.874607"/>
+    </g>
+   </g>
+   <g id="PathCollection_211">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="210.073233" xlink:href="#mb5883e5c53" y="59.639204"/>
+    </g>
+   </g>
+   <g id="PathCollection_212">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="174.185249" xlink:href="#mb5883e5c53" y="71.513954"/>
+    </g>
+   </g>
+   <g id="PathCollection_213">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="188.907518" xlink:href="#mb5883e5c53" y="79.901774"/>
+    </g>
+   </g>
+   <g id="PathCollection_214">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="101.358614" xlink:href="#mb5883e5c53" y="109.423035"/>
+    </g>
+   </g>
+   <g id="PathCollection_215">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="226.343369" xlink:href="#mb5883e5c53" y="102.125235"/>
+    </g>
+   </g>
+   <g id="PathCollection_216">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="98.071892" xlink:href="#mb5883e5c53" y="113.290352"/>
+    </g>
+   </g>
+   <g id="PathCollection_217">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="98.791256" xlink:href="#mb5883e5c53" y="111.284796"/>
+    </g>
+   </g>
+   <g id="PathCollection_218">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="96.185898" xlink:href="#mb5883e5c53" y="107.288145"/>
+    </g>
+   </g>
+   <g id="PathCollection_219">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="140.831026" xlink:href="#mb5883e5c53" y="115.970371"/>
+    </g>
+   </g>
+   <g id="PathCollection_220">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="89.23984" xlink:href="#mb5883e5c53" y="109.049094"/>
+    </g>
+   </g>
+   <g id="PathCollection_221">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="89.861255" xlink:href="#mb5883e5c53" y="143.155716"/>
+    </g>
+   </g>
+   <g id="PathCollection_222">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="124.248948" xlink:href="#mb5883e5c53" y="139.865924"/>
+    </g>
+   </g>
+   <g id="PathCollection_223">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="230.416451" xlink:href="#mb5883e5c53" y="120.419416"/>
+    </g>
+   </g>
+   <g id="PathCollection_224">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="99.789089" xlink:href="#mb5883e5c53" y="101.392703"/>
+    </g>
+   </g>
+   <g id="PathCollection_225">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="133.928789" xlink:href="#mb5883e5c53" y="132.356105"/>
+    </g>
+   </g>
+   <g id="PathCollection_226">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="94.997602" xlink:href="#mb5883e5c53" y="102.735967"/>
+    </g>
+   </g>
+   <g id="PathCollection_227">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="148.166578" xlink:href="#mb5883e5c53" y="88.734382"/>
+    </g>
+   </g>
+   <g id="PathCollection_228">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="104.994256" xlink:href="#mb5883e5c53" y="96.928738"/>
+    </g>
+   </g>
+   <g id="PathCollection_229">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="102.520684" xlink:href="#mb5883e5c53" y="101.331797"/>
+    </g>
+   </g>
+   <g id="PathCollection_230">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="97.597036" xlink:href="#mb5883e5c53" y="101.697338"/>
+    </g>
+   </g>
+   <g id="PathCollection_231">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="174.57579" xlink:href="#mb5883e5c53" y="101.723632"/>
+    </g>
+   </g>
+   <g id="PathCollection_232">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="94.980987" xlink:href="#mb5883e5c53" y="103.515863"/>
+    </g>
+   </g>
+   <g id="PathCollection_233">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="101.040822" xlink:href="#mb5883e5c53" y="105.818903"/>
+    </g>
+   </g>
+   <g id="PathCollection_234">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="99.452826" xlink:href="#mb5883e5c53" y="96.321257"/>
+    </g>
+   </g>
+   <g id="PathCollection_235">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="99.391064" xlink:href="#mb5883e5c53" y="98.366902"/>
+    </g>
+   </g>
+   <g id="PathCollection_236">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="119.080976" xlink:href="#mb5883e5c53" y="138.504042"/>
+    </g>
+   </g>
+   <g id="PathCollection_237">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="125.393981" xlink:href="#mb5883e5c53" y="92.234462"/>
+    </g>
+   </g>
+   <g id="PathCollection_238">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="90.63442" xlink:href="#mb5883e5c53" y="107.279415"/>
+    </g>
+   </g>
+   <g id="PathCollection_239">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="111.611017" xlink:href="#mb5883e5c53" y="100.199078"/>
+    </g>
+   </g>
+   <g id="PathCollection_240">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="96.833871" xlink:href="#mb5883e5c53" y="109.330222"/>
+    </g>
+   </g>
+   <g id="PathCollection_241">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="146.641773" xlink:href="#mb5883e5c53" y="105.529985"/>
+    </g>
+   </g>
+   <g id="PathCollection_242">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="97.66321" xlink:href="#mb5883e5c53" y="100.879298"/>
+    </g>
+   </g>
+   <g id="PathCollection_243">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="201.158163" xlink:href="#mb5883e5c53" y="98.8967"/>
+    </g>
+   </g>
+   <g id="PathCollection_244">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="128.422049" xlink:href="#mb5883e5c53" y="103.609716"/>
+    </g>
+   </g>
+   <g id="PathCollection_245">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="155.185965" xlink:href="#mb5883e5c53" y="117.734955"/>
+    </g>
+   </g>
+   <g id="PathCollection_246">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="106.287244" xlink:href="#mb5883e5c53" y="101.157563"/>
+    </g>
+   </g>
+   <g id="PathCollection_247">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="96.105294" xlink:href="#mb5883e5c53" y="96.865979"/>
+    </g>
+   </g>
+   <g id="PathCollection_248">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="94.042389" xlink:href="#mb5883e5c53" y="132.100526"/>
+    </g>
+   </g>
+   <g id="PathCollection_249">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="129.86365" xlink:href="#mb5883e5c53" y="97.791063"/>
+    </g>
+   </g>
+   <g id="PathCollection_250">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="96.467679" xlink:href="#mb5883e5c53" y="105.649984"/>
+    </g>
+   </g>
+   <g id="PathCollection_251">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="130.149946" xlink:href="#mb5883e5c53" y="95.503043"/>
+    </g>
+   </g>
+   <g id="PathCollection_252">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="128.965903" xlink:href="#mb5883e5c53" y="88.437533"/>
+    </g>
+   </g>
+   <g id="PathCollection_253">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="99.315478" xlink:href="#mb5883e5c53" y="129.409646"/>
+    </g>
+   </g>
+   <g id="PathCollection_254">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="155.799394" xlink:href="#mb5883e5c53" y="93.515961"/>
+    </g>
+   </g>
+   <g id="PathCollection_255">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="104.92709" xlink:href="#mb5883e5c53" y="96.714188"/>
+    </g>
+   </g>
+   <g id="PathCollection_256">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="128.812796" xlink:href="#mb5883e5c53" y="105.225477"/>
+    </g>
+   </g>
+   <g id="PathCollection_257">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="94.260422" xlink:href="#mb5883e5c53" y="103.907454"/>
+    </g>
+   </g>
+   <g id="PathCollection_258">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="100.377815" xlink:href="#mb5883e5c53" y="100.85055"/>
+    </g>
+   </g>
+   <g id="PathCollection_259">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="100.107958" xlink:href="#mb5883e5c53" y="95.422107"/>
+    </g>
+   </g>
+   <g id="PathCollection_260">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="118.82842" xlink:href="#mb5883e5c53" y="95.935742"/>
+    </g>
+   </g>
+   <g id="PathCollection_261">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="93.845461" xlink:href="#mb5883e5c53" y="116.183406"/>
+    </g>
+   </g>
+   <g id="PathCollection_262">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="94.761975" xlink:href="#mb5883e5c53" y="121.714213"/>
+    </g>
+   </g>
+   <g id="PathCollection_263">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="89.698112" xlink:href="#mb5883e5c53" y="124.285001"/>
+    </g>
+   </g>
+   <g id="PathCollection_264">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="92.616901" xlink:href="#mb5883e5c53" y="122.895814"/>
+    </g>
+   </g>
+   <g id="PathCollection_265">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="85.719042" xlink:href="#mb5883e5c53" y="110.7688"/>
+    </g>
+   </g>
+   <g id="PathCollection_266">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="77.919137" xlink:href="#mb5883e5c53" y="135.226582"/>
+    </g>
+   </g>
+   <g id="PathCollection_267">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="86.204724" xlink:href="#mb5883e5c53" y="118.765932"/>
+    </g>
+   </g>
+   <g id="PathCollection_268">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="134.387456" xlink:href="#mb5883e5c53" y="106.826557"/>
+    </g>
+   </g>
+   <g id="PathCollection_269">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="147.742827" xlink:href="#mb5883e5c53" y="103.389895"/>
+    </g>
+   </g>
+   <g id="PathCollection_270">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="179.030531" xlink:href="#mb5883e5c53" y="95.651124"/>
+    </g>
+   </g>
+   <g id="PathCollection_271">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="145.360514" xlink:href="#mb5883e5c53" y="102.599793"/>
+    </g>
+   </g>
+   <g id="PathCollection_272">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="135.823536" xlink:href="#mb5883e5c53" y="88.988485"/>
+    </g>
+   </g>
+   <g id="PathCollection_273">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="126.348838" xlink:href="#mb5883e5c53" y="102.235879"/>
+    </g>
+   </g>
+   <g id="PathCollection_274">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="81.251728" xlink:href="#mb5883e5c53" y="107.982956"/>
+    </g>
+   </g>
+   <g id="PathCollection_275">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="127.023304" xlink:href="#mb5883e5c53" y="111.858715"/>
+    </g>
+   </g>
+   <g id="PathCollection_276">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="108.203929" xlink:href="#mb5883e5c53" y="113.143725"/>
+    </g>
+   </g>
+   <g id="PathCollection_277">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="102.930256" xlink:href="#mb5883e5c53" y="118.418993"/>
+    </g>
+   </g>
+   <g id="PathCollection_278">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="108.027203" xlink:href="#mb5883e5c53" y="120.410822"/>
+    </g>
+   </g>
+   <g id="PathCollection_279">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="104.428938" xlink:href="#mb5883e5c53" y="104.47087"/>
+    </g>
+   </g>
+   <g id="PathCollection_280">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="111.253019" xlink:href="#mb5883e5c53" y="105.637575"/>
+    </g>
+   </g>
+   <g id="PathCollection_281">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="116.891678" xlink:href="#mb5883e5c53" y="112.699651"/>
+    </g>
+   </g>
+   <g id="PathCollection_282">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="102.520921" xlink:href="#mb5883e5c53" y="100.594357"/>
+    </g>
+   </g>
+   <g id="PathCollection_283">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="116.985441" xlink:href="#mb5883e5c53" y="88.954757"/>
+    </g>
+   </g>
+   <g id="PathCollection_284">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="104.608498" xlink:href="#mb5883e5c53" y="179.235866"/>
+    </g>
+   </g>
+   <g id="PathCollection_285">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="79.103247" xlink:href="#mb5883e5c53" y="147.133283"/>
+    </g>
+   </g>
+   <g id="PathCollection_286">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="96.351045" xlink:href="#mb5883e5c53" y="120.315016"/>
+    </g>
+   </g>
+   <g id="PathCollection_287">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="77.359762" xlink:href="#mb5883e5c53" y="133.458541"/>
+    </g>
+   </g>
+   <g id="PathCollection_288">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="105.858296" xlink:href="#mb5883e5c53" y="124.446164"/>
+    </g>
+   </g>
+   <g id="PathCollection_289">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="135.791235" xlink:href="#mb5883e5c53" y="88.764261"/>
+    </g>
+   </g>
+   <g id="PathCollection_290">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="122.58924" xlink:href="#mb5883e5c53" y="101.557952"/>
+    </g>
+   </g>
+   <g id="PathCollection_291">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="131.669933" xlink:href="#mb5883e5c53" y="90.96197"/>
+    </g>
+   </g>
+   <g id="PathCollection_292">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="79.601681" xlink:href="#mb5883e5c53" y="160.597595"/>
+    </g>
+   </g>
+   <g id="PathCollection_293">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="82.92945" xlink:href="#mb5883e5c53" y="127.278054"/>
+    </g>
+   </g>
+   <g id="PathCollection_294">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="74.080402" xlink:href="#mb5883e5c53" y="143.395913"/>
+    </g>
+   </g>
+   <g id="PathCollection_295">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="99.51403" xlink:href="#mb5883e5c53" y="180.852787"/>
+    </g>
+   </g>
+   <g id="PathCollection_296">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="118.294521" xlink:href="#mb5883e5c53" y="100.876361"/>
+    </g>
+   </g>
+   <g id="PathCollection_297">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="116.381844" xlink:href="#mb5883e5c53" y="113.319843"/>
+    </g>
+   </g>
+   <g id="PathCollection_298">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="105.82689" xlink:href="#mb5883e5c53" y="98.715215"/>
+    </g>
+   </g>
+   <g id="PathCollection_299">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="96.865939" xlink:href="#mb5883e5c53" y="127.76156"/>
+    </g>
+   </g>
+   <g id="PathCollection_300">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="79.782797" xlink:href="#mb5883e5c53" y="145.61653"/>
+    </g>
+   </g>
+   <g id="PathCollection_301">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="85.960271" xlink:href="#mb5883e5c53" y="141.77191"/>
+    </g>
+   </g>
+   <g id="PathCollection_302">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="87.687524" xlink:href="#mb5883e5c53" y="129.70637"/>
+    </g>
+   </g>
+   <g id="PathCollection_303">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="101.712722" xlink:href="#mb5883e5c53" y="114.393766"/>
+    </g>
+   </g>
+   <g id="PathCollection_304">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="94.657389" xlink:href="#mb5883e5c53" y="126.941937"/>
+    </g>
+   </g>
+   <g id="PathCollection_305">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="97.81385" xlink:href="#mb5883e5c53" y="115.657018"/>
+    </g>
+   </g>
+   <g id="PathCollection_306">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="104.615831" xlink:href="#mb5883e5c53" y="118.77789"/>
+    </g>
+   </g>
+   <g id="PathCollection_307">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="102.830165" xlink:href="#mb5883e5c53" y="113.704544"/>
+    </g>
+   </g>
+   <g id="PathCollection_308">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="92.228084" xlink:href="#mb5883e5c53" y="107.482703"/>
+    </g>
+   </g>
+   <g id="PathCollection_309">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="92.211635" xlink:href="#mb5883e5c53" y="123.966984"/>
+    </g>
+   </g>
+   <g id="PathCollection_310">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="94.252433" xlink:href="#mb5883e5c53" y="124.133746"/>
+    </g>
+   </g>
+   <g id="PathCollection_311">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="99.266375" xlink:href="#mb5883e5c53" y="99.564814"/>
+    </g>
+   </g>
+   <g id="PathCollection_312">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="102.163574" xlink:href="#mb5883e5c53" y="148.191582"/>
+    </g>
+   </g>
+   <g id="PathCollection_313">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="96.77256" xlink:href="#mb5883e5c53" y="118.730411"/>
+    </g>
+   </g>
+   <g id="PathCollection_314">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="115.392779" xlink:href="#mb5883e5c53" y="106.800225"/>
+    </g>
+   </g>
+   <g id="PathCollection_315">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="98.916024" xlink:href="#mb5883e5c53" y="155.563685"/>
+    </g>
+   </g>
+   <g id="PathCollection_316">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="107.78418" xlink:href="#mb5883e5c53" y="149.936967"/>
+    </g>
+   </g>
+   <g id="PathCollection_317">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="121.300811" xlink:href="#mb5883e5c53" y="167.849579"/>
+    </g>
+   </g>
+   <g id="PathCollection_318">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="107.839581" xlink:href="#mb5883e5c53" y="176.902046"/>
+    </g>
+   </g>
+   <g id="PathCollection_319">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="115.954449" xlink:href="#mb5883e5c53" y="162.605752"/>
+    </g>
+   </g>
+   <g id="PathCollection_320">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="81.008167" xlink:href="#mb5883e5c53" y="119.306048"/>
+    </g>
+   </g>
+   <g id="PathCollection_321">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="98.287288" xlink:href="#mb5883e5c53" y="168.15136"/>
+    </g>
+   </g>
+   <g id="PathCollection_322">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="158.417071" xlink:href="#mb5883e5c53" y="84.149052"/>
+    </g>
+   </g>
+   <g id="PathCollection_323">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="148.038605" xlink:href="#mb5883e5c53" y="92.640743"/>
+    </g>
+   </g>
+   <g id="PathCollection_324">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="77.260389" xlink:href="#mb5883e5c53" y="111.76233"/>
+    </g>
+   </g>
+   <g id="PathCollection_325">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="173.724278" xlink:href="#mb5883e5c53" y="73.766747"/>
+    </g>
+   </g>
+   <g id="PathCollection_326">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="77.180565" xlink:href="#mb5883e5c53" y="112.549007"/>
+    </g>
+   </g>
+   <g id="PathCollection_327">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="133.522971" xlink:href="#mb5883e5c53" y="78.831837"/>
+    </g>
+   </g>
+   <g id="PathCollection_328">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="210.677925" xlink:href="#mb5883e5c53" y="65.905062"/>
+    </g>
+   </g>
+   <g id="PathCollection_329">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="96.339471" xlink:href="#mb5883e5c53" y="117.718525"/>
+    </g>
+   </g>
+   <g id="PathCollection_330">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="206.322354" xlink:href="#mb5883e5c53" y="71.414601"/>
+    </g>
+   </g>
+   <g id="PathCollection_331">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="150.845495" xlink:href="#mb5883e5c53" y="92.011074"/>
+    </g>
+   </g>
+   <g id="PathCollection_332">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="96.582959" xlink:href="#mb5883e5c53" y="146.053535"/>
+    </g>
+   </g>
+   <g id="PathCollection_333">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="187.357395" xlink:href="#mb5883e5c53" y="87.153526"/>
+    </g>
+   </g>
+   <g id="PathCollection_334">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="119.233191" xlink:href="#mb5883e5c53" y="122.069984"/>
+    </g>
+   </g>
+   <g id="PathCollection_335">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="120.250685" xlink:href="#mb5883e5c53" y="97.067627"/>
+    </g>
+   </g>
+   <g id="PathCollection_336">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="128.473753" xlink:href="#mb5883e5c53" y="111.395142"/>
+    </g>
+   </g>
+   <g id="PathCollection_337">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="211.264264" xlink:href="#mb5883e5c53" y="87.486244"/>
+    </g>
+   </g>
+   <g id="PathCollection_338">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="116.769724" xlink:href="#mb5883e5c53" y="111.347799"/>
+    </g>
+   </g>
+   <g id="PathCollection_339">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="116.570663" xlink:href="#mb5883e5c53" y="85.194496"/>
+    </g>
+   </g>
+   <g id="PathCollection_340">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="186.642756" xlink:href="#mb5883e5c53" y="98.793542"/>
+    </g>
+   </g>
+   <g id="PathCollection_341">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="114.854769" xlink:href="#mb5883e5c53" y="92.162328"/>
+    </g>
+   </g>
+   <g id="PathCollection_342">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="163.422794" xlink:href="#mb5883e5c53" y="69.487927"/>
+    </g>
+   </g>
+   <g id="PathCollection_343">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="83.534787" xlink:href="#mb5883e5c53" y="117.021473"/>
+    </g>
+   </g>
+   <g id="PathCollection_344">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="253.368836" xlink:href="#mb5883e5c53" y="73.566259"/>
+    </g>
+   </g>
+   <g id="PathCollection_345">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="165.638166" xlink:href="#mb5883e5c53" y="57.012482"/>
+    </g>
+   </g>
+   <g id="PathCollection_346">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="150.424226" xlink:href="#mb5883e5c53" y="128.727081"/>
+    </g>
+   </g>
+   <g id="PathCollection_347">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="161.280798" xlink:href="#mb5883e5c53" y="95.911086"/>
+    </g>
+   </g>
+   <g id="PathCollection_348">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="107.929614" xlink:href="#mb5883e5c53" y="134.817311"/>
+    </g>
+   </g>
+   <g id="PathCollection_349">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="90.446983" xlink:href="#mb5883e5c53" y="100.073749"/>
+    </g>
+   </g>
+   <g id="PathCollection_350">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="93.355595" xlink:href="#mb5883e5c53" y="99.397542"/>
+    </g>
+   </g>
+   <g id="PathCollection_351">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="88.787777" xlink:href="#mb5883e5c53" y="116.210568"/>
+    </g>
+   </g>
+   <g id="PathCollection_352">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="90.772041" xlink:href="#mb5883e5c53" y="94.362922"/>
+    </g>
+   </g>
+   <g id="PathCollection_353">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="97.164034" xlink:href="#mb5883e5c53" y="149.824569"/>
+    </g>
+   </g>
+   <g id="PathCollection_354">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="96.989889" xlink:href="#mb5883e5c53" y="149.08449"/>
+    </g>
+   </g>
+   <g id="PathCollection_355">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="100.809393" xlink:href="#mb5883e5c53" y="161.777315"/>
+    </g>
+   </g>
+   <g id="PathCollection_356">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="100.352341" xlink:href="#mb5883e5c53" y="156.768309"/>
+    </g>
+   </g>
+   <g id="PathCollection_357">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="154.297775" xlink:href="#mb5883e5c53" y="83.64562"/>
+    </g>
+   </g>
+   <g id="PathCollection_358">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="150.260505" xlink:href="#mb5883e5c53" y="88.146097"/>
+    </g>
+   </g>
+   <g id="PathCollection_359">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="149.054555" xlink:href="#mb5883e5c53" y="88.02167"/>
+    </g>
+   </g>
+   <g id="PathCollection_360">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="311.318182" xlink:href="#mb5883e5c53" y="44.443636"/>
+    </g>
+   </g>
+   <g id="PathCollection_361">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="233.419462" xlink:href="#mb5883e5c53" y="46.335415"/>
+    </g>
+   </g>
+   <g id="PathCollection_362">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="179.435932" xlink:href="#mb5883e5c53" y="93.608245"/>
+    </g>
+   </g>
+   <g id="PathCollection_363">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="224.36914" xlink:href="#mb5883e5c53" y="58.971763"/>
+    </g>
+   </g>
+   <g id="PathCollection_364">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="171.197375" xlink:href="#mb5883e5c53" y="104.15018"/>
+    </g>
+   </g>
+   <g id="PathCollection_365">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="291.610766" xlink:href="#mb5883e5c53" y="50.608865"/>
+    </g>
+   </g>
+   <g id="PathCollection_366">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="243.449656" xlink:href="#mb5883e5c53" y="47.375904"/>
+    </g>
+   </g>
+   <g id="PathCollection_367">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="170.454436" xlink:href="#mb5883e5c53" y="49.996856"/>
+    </g>
+   </g>
+   <g id="PathCollection_368">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="247.599594" xlink:href="#mb5883e5c53" y="50.053256"/>
+    </g>
+   </g>
+   <g id="PathCollection_369">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="93.691551" xlink:href="#mb5883e5c53" y="146.807034"/>
+    </g>
+   </g>
+   <g id="PathCollection_370">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="94.92536" xlink:href="#mb5883e5c53" y="136.649341"/>
+    </g>
+   </g>
+   <g id="PathCollection_371">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="127.069593" xlink:href="#mb5883e5c53" y="99.780903"/>
+    </g>
+   </g>
+   <g id="PathCollection_372">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="106.781282" xlink:href="#mb5883e5c53" y="107.510107"/>
+    </g>
+   </g>
+   <g id="PathCollection_373">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="288.559421" xlink:href="#mb5883e5c53" y="52.752592"/>
+    </g>
+   </g>
+   <g id="PathCollection_374">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="241.417601" xlink:href="#mb5883e5c53" y="45.858856"/>
+    </g>
+   </g>
+   <g id="PathCollection_375">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="197.025429" xlink:href="#mb5883e5c53" y="59.434116"/>
+    </g>
+   </g>
+   <g id="PathCollection_376">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="180.178144" xlink:href="#mb5883e5c53" y="59.006093"/>
+    </g>
+   </g>
+   <g id="PathCollection_377">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="106.546856" xlink:href="#mb5883e5c53" y="167.694039"/>
+    </g>
+   </g>
+   <g id="PathCollection_378">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="186.231033" xlink:href="#mb5883e5c53" y="92.711294"/>
+    </g>
+   </g>
+   <g id="PathCollection_379">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="88.54171" xlink:href="#mb5883e5c53" y="143.860719"/>
+    </g>
+   </g>
+   <g id="PathCollection_380">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="232.02506" xlink:href="#mb5883e5c53" y="46.991006"/>
+    </g>
+   </g>
+   <g id="PathCollection_381">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="146.274918" xlink:href="#mb5883e5c53" y="95.121785"/>
+    </g>
+   </g>
+   <g id="PathCollection_382">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="150.52256" xlink:href="#mb5883e5c53" y="98.732432"/>
+    </g>
+   </g>
+   <g id="PathCollection_383">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="267.508568" xlink:href="#mb5883e5c53" y="50.075674"/>
+    </g>
+   </g>
+   <g id="PathCollection_384">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="192.003462" xlink:href="#mb5883e5c53" y="56.243006"/>
+    </g>
+   </g>
+   <g id="PathCollection_385">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="104.352584" xlink:href="#mb5883e5c53" y="111.542216"/>
+    </g>
+   </g>
+   <g id="PathCollection_386">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="194.052479" xlink:href="#mb5883e5c53" y="99.407746"/>
+    </g>
+   </g>
+   <g id="PathCollection_387">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="162.977035" xlink:href="#mb5883e5c53" y="59.610981"/>
+    </g>
+   </g>
+   <g id="PathCollection_388">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="143.828869" xlink:href="#mb5883e5c53" y="86.839925"/>
+    </g>
+   </g>
+   <g id="PathCollection_389">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="161.745894" xlink:href="#mb5883e5c53" y="80.070157"/>
+    </g>
+   </g>
+   <g id="PathCollection_390">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="88.478898" xlink:href="#mb5883e5c53" y="116.850131"/>
+    </g>
+   </g>
+   <g id="PathCollection_391">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="126.565991" xlink:href="#mb5883e5c53" y="107.6271"/>
+    </g>
+   </g>
+   <g id="PathCollection_392">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="87.041157" xlink:href="#mb5883e5c53" y="109.618241"/>
+    </g>
+   </g>
+   <g id="PathCollection_393">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="90.159102" xlink:href="#mb5883e5c53" y="118.890764"/>
+    </g>
+   </g>
+   <g id="PathCollection_394">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="84.452303" xlink:href="#mb5883e5c53" y="126.761745"/>
+    </g>
+   </g>
+   <g id="PathCollection_395">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="82.642393" xlink:href="#mb5883e5c53" y="94.778928"/>
+    </g>
+   </g>
+   <g id="PathCollection_396">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="163.114729" xlink:href="#mb5883e5c53" y="81.071787"/>
+    </g>
+   </g>
+   <g id="PathCollection_397">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="127.762405" xlink:href="#mb5883e5c53" y="94.124757"/>
+    </g>
+   </g>
+   <g id="PathCollection_398">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="126.043697" xlink:href="#mb5883e5c53" y="108.827595"/>
+    </g>
+   </g>
+   <g id="PathCollection_399">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="112.403914" xlink:href="#mb5883e5c53" y="107.44334"/>
+    </g>
+   </g>
+   <g id="PathCollection_400">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="85.436798" xlink:href="#mb5883e5c53" y="119.214354"/>
+    </g>
+   </g>
+   <g id="PathCollection_401">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="89.536998" xlink:href="#mb5883e5c53" y="119.628199"/>
+    </g>
+   </g>
+   <g id="PathCollection_402">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="85.55124" xlink:href="#mb5883e5c53" y="121.755316"/>
+    </g>
+   </g>
+   <g id="PathCollection_403">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="108.630195" xlink:href="#mb5883e5c53" y="117.943809"/>
+    </g>
+   </g>
+   <g id="PathCollection_404">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="88.516965" xlink:href="#mb5883e5c53" y="123.696025"/>
+    </g>
+   </g>
+   <g id="PathCollection_405">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="81.641359" xlink:href="#mb5883e5c53" y="138.797927"/>
+    </g>
+   </g>
+   <g id="PathCollection_406">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="89.952376" xlink:href="#mb5883e5c53" y="110.795312"/>
+    </g>
+   </g>
+   <g id="PathCollection_407">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="83.862211" xlink:href="#mb5883e5c53" y="135.226839"/>
+    </g>
+   </g>
+   <g id="PathCollection_408">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="88.83869" xlink:href="#mb5883e5c53" y="121.876804"/>
+    </g>
+   </g>
+   <g id="PathCollection_409">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="88.378152" xlink:href="#mb5883e5c53" y="100.249001"/>
+    </g>
+   </g>
+   <g id="PathCollection_410">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="91.145902" xlink:href="#mb5883e5c53" y="102.731342"/>
+    </g>
+   </g>
+   <g id="PathCollection_411">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="88.921531" xlink:href="#mb5883e5c53" y="103.859935"/>
+    </g>
+   </g>
+   <g id="PathCollection_412">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="88.626382" xlink:href="#mb5883e5c53" y="113.746722"/>
+    </g>
+   </g>
+   <g id="PathCollection_413">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="85.688293" xlink:href="#mb5883e5c53" y="116.157184"/>
+    </g>
+   </g>
+   <g id="PathCollection_414">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#808080;stroke:#808080;" x="87.917678" xlink:href="#mb5883e5c53" y="104.139837"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path d="M 0 0 
+L 0 3.5 
+" id="m336595049b" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="95.765449" xlink:href="#m336595049b" y="252"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 0 -->
+      <g transform="translate(91.947949 268.118125)scale(0.12 -0.12)">
+       <defs>
+        <path d="M 31.78125 66.40625 
+Q 24.171875 66.40625 20.328125 58.90625 
+Q 16.5 51.421875 16.5 36.375 
+Q 16.5 21.390625 20.328125 13.890625 
+Q 24.171875 6.390625 31.78125 6.390625 
+Q 39.453125 6.390625 43.28125 13.890625 
+Q 47.125 21.390625 47.125 36.375 
+Q 47.125 51.421875 43.28125 58.90625 
+Q 39.453125 66.40625 31.78125 66.40625 
+z
+M 31.78125 74.21875 
+Q 44.046875 74.21875 50.515625 64.515625 
+Q 56.984375 54.828125 56.984375 36.375 
+Q 56.984375 17.96875 50.515625 8.265625 
+Q 44.046875 -1.421875 31.78125 -1.421875 
+Q 19.53125 -1.421875 13.0625 8.265625 
+Q 6.59375 17.96875 6.59375 36.375 
+Q 6.59375 54.828125 13.0625 64.515625 
+Q 19.53125 74.21875 31.78125 74.21875 
+z
+" id="DejaVuSans-48"/>
+       </defs>
+       <use xlink:href="#DejaVuSans-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="153.663468" xlink:href="#m336595049b" y="252"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 10 -->
+      <g transform="translate(146.028468 268.118125)scale(0.12 -0.12)">
+       <defs>
+        <path d="M 12.40625 8.296875 
+L 28.515625 8.296875 
+L 28.515625 63.921875 
+L 10.984375 60.40625 
+L 10.984375 69.390625 
+L 28.421875 72.90625 
+L 38.28125 72.90625 
+L 38.28125 8.296875 
+L 54.390625 8.296875 
+L 54.390625 0 
+L 12.40625 0 
+z
+" id="DejaVuSans-49"/>
+       </defs>
+       <use xlink:href="#DejaVuSans-49"/>
+       <use x="63.623047" xlink:href="#DejaVuSans-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="211.561486" xlink:href="#m336595049b" y="252"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 20 -->
+      <g transform="translate(203.926486 268.118125)scale(0.12 -0.12)">
+       <defs>
+        <path d="M 19.1875 8.296875 
+L 53.609375 8.296875 
+L 53.609375 0 
+L 7.328125 0 
+L 7.328125 8.296875 
+Q 12.9375 14.109375 22.625 23.890625 
+Q 32.328125 33.6875 34.8125 36.53125 
+Q 39.546875 41.84375 41.421875 45.53125 
+Q 43.3125 49.21875 43.3125 52.78125 
+Q 43.3125 58.59375 39.234375 62.25 
+Q 35.15625 65.921875 28.609375 65.921875 
+Q 23.96875 65.921875 18.8125 64.3125 
+Q 13.671875 62.703125 7.8125 59.421875 
+L 7.8125 69.390625 
+Q 13.765625 71.78125 18.9375 73 
+Q 24.125 74.21875 28.421875 74.21875 
+Q 39.75 74.21875 46.484375 68.546875 
+Q 53.21875 62.890625 53.21875 53.421875 
+Q 53.21875 48.921875 51.53125 44.890625 
+Q 49.859375 40.875 45.40625 35.40625 
+Q 44.1875 33.984375 37.640625 27.21875 
+Q 31.109375 20.453125 19.1875 8.296875 
+z
+" id="DejaVuSans-50"/>
+       </defs>
+       <use xlink:href="#DejaVuSans-50"/>
+       <use x="63.623047" xlink:href="#DejaVuSans-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="269.459504" xlink:href="#m336595049b" y="252"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- 30 -->
+      <g transform="translate(261.824504 268.118125)scale(0.12 -0.12)">
+       <defs>
+        <path d="M 40.578125 39.3125 
+Q 47.65625 37.796875 51.625 33 
+Q 55.609375 28.21875 55.609375 21.1875 
+Q 55.609375 10.40625 48.1875 4.484375 
+Q 40.765625 -1.421875 27.09375 -1.421875 
+Q 22.515625 -1.421875 17.65625 -0.515625 
+Q 12.796875 0.390625 7.625 2.203125 
+L 7.625 11.71875 
+Q 11.71875 9.328125 16.59375 8.109375 
+Q 21.484375 6.890625 26.8125 6.890625 
+Q 36.078125 6.890625 40.9375 10.546875 
+Q 45.796875 14.203125 45.796875 21.1875 
+Q 45.796875 27.640625 41.28125 31.265625 
+Q 36.765625 34.90625 28.71875 34.90625 
+L 20.21875 34.90625 
+L 20.21875 43.015625 
+L 29.109375 43.015625 
+Q 36.375 43.015625 40.234375 45.921875 
+Q 44.09375 48.828125 44.09375 54.296875 
+Q 44.09375 59.90625 40.109375 62.90625 
+Q 36.140625 65.921875 28.71875 65.921875 
+Q 24.65625 65.921875 20.015625 65.03125 
+Q 15.375 64.15625 9.8125 62.3125 
+L 9.8125 71.09375 
+Q 15.4375 72.65625 20.34375 73.4375 
+Q 25.25 74.21875 29.59375 74.21875 
+Q 40.828125 74.21875 47.359375 69.109375 
+Q 53.90625 64.015625 53.90625 55.328125 
+Q 53.90625 49.265625 50.4375 45.09375 
+Q 46.96875 40.921875 40.578125 39.3125 
+z
+" id="DejaVuSans-51"/>
+       </defs>
+       <use xlink:href="#DejaVuSans-51"/>
+       <use x="63.623047" xlink:href="#DejaVuSans-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_5">
+     <!-- Crp-1 iModulon Activity -->
+     <g transform="translate(108.701875 284.491719)scale(0.13 -0.13)">
+      <defs>
+       <path d="M 64.40625 67.28125 
+L 64.40625 56.890625 
+Q 59.421875 61.53125 53.78125 63.8125 
+Q 48.140625 66.109375 41.796875 66.109375 
+Q 29.296875 66.109375 22.65625 58.46875 
+Q 16.015625 50.828125 16.015625 36.375 
+Q 16.015625 21.96875 22.65625 14.328125 
+Q 29.296875 6.6875 41.796875 6.6875 
+Q 48.140625 6.6875 53.78125 8.984375 
+Q 59.421875 11.28125 64.40625 15.921875 
+L 64.40625 5.609375 
+Q 59.234375 2.09375 53.4375 0.328125 
+Q 47.65625 -1.421875 41.21875 -1.421875 
+Q 24.65625 -1.421875 15.125 8.703125 
+Q 5.609375 18.84375 5.609375 36.375 
+Q 5.609375 53.953125 15.125 64.078125 
+Q 24.65625 74.21875 41.21875 74.21875 
+Q 47.75 74.21875 53.53125 72.484375 
+Q 59.328125 70.75 64.40625 67.28125 
+z
+" id="DejaVuSans-67"/>
+       <path d="M 41.109375 46.296875 
+Q 39.59375 47.171875 37.8125 47.578125 
+Q 36.03125 48 33.890625 48 
+Q 26.265625 48 22.1875 43.046875 
+Q 18.109375 38.09375 18.109375 28.8125 
+L 18.109375 0 
+L 9.078125 0 
+L 9.078125 54.6875 
+L 18.109375 54.6875 
+L 18.109375 46.1875 
+Q 20.953125 51.171875 25.484375 53.578125 
+Q 30.03125 56 36.53125 56 
+Q 37.453125 56 38.578125 55.875 
+Q 39.703125 55.765625 41.0625 55.515625 
+z
+" id="DejaVuSans-114"/>
+       <path d="M 18.109375 8.203125 
+L 18.109375 -20.796875 
+L 9.078125 -20.796875 
+L 9.078125 54.6875 
+L 18.109375 54.6875 
+L 18.109375 46.390625 
+Q 20.953125 51.265625 25.265625 53.625 
+Q 29.59375 56 35.59375 56 
+Q 45.5625 56 51.78125 48.09375 
+Q 58.015625 40.1875 58.015625 27.296875 
+Q 58.015625 14.40625 51.78125 6.484375 
+Q 45.5625 -1.421875 35.59375 -1.421875 
+Q 29.59375 -1.421875 25.265625 0.953125 
+Q 20.953125 3.328125 18.109375 8.203125 
+z
+M 48.6875 27.296875 
+Q 48.6875 37.203125 44.609375 42.84375 
+Q 40.53125 48.484375 33.40625 48.484375 
+Q 26.265625 48.484375 22.1875 42.84375 
+Q 18.109375 37.203125 18.109375 27.296875 
+Q 18.109375 17.390625 22.1875 11.75 
+Q 26.265625 6.109375 33.40625 6.109375 
+Q 40.53125 6.109375 44.609375 11.75 
+Q 48.6875 17.390625 48.6875 27.296875 
+z
+" id="DejaVuSans-112"/>
+       <path d="M 4.890625 31.390625 
+L 31.203125 31.390625 
+L 31.203125 23.390625 
+L 4.890625 23.390625 
+z
+" id="DejaVuSans-45"/>
+       <path id="DejaVuSans-32"/>
+       <path d="M 9.421875 54.6875 
+L 18.40625 54.6875 
+L 18.40625 0 
+L 9.421875 0 
+z
+M 9.421875 75.984375 
+L 18.40625 75.984375 
+L 18.40625 64.59375 
+L 9.421875 64.59375 
+z
+" id="DejaVuSans-105"/>
+       <path d="M 9.8125 72.90625 
+L 24.515625 72.90625 
+L 43.109375 23.296875 
+L 61.8125 72.90625 
+L 76.515625 72.90625 
+L 76.515625 0 
+L 66.890625 0 
+L 66.890625 64.015625 
+L 48.09375 14.015625 
+L 38.1875 14.015625 
+L 19.390625 64.015625 
+L 19.390625 0 
+L 9.8125 0 
+z
+" id="DejaVuSans-77"/>
+       <path d="M 30.609375 48.390625 
+Q 23.390625 48.390625 19.1875 42.75 
+Q 14.984375 37.109375 14.984375 27.296875 
+Q 14.984375 17.484375 19.15625 11.84375 
+Q 23.34375 6.203125 30.609375 6.203125 
+Q 37.796875 6.203125 41.984375 11.859375 
+Q 46.1875 17.53125 46.1875 27.296875 
+Q 46.1875 37.015625 41.984375 42.703125 
+Q 37.796875 48.390625 30.609375 48.390625 
+z
+M 30.609375 56 
+Q 42.328125 56 49.015625 48.375 
+Q 55.71875 40.765625 55.71875 27.296875 
+Q 55.71875 13.875 49.015625 6.21875 
+Q 42.328125 -1.421875 30.609375 -1.421875 
+Q 18.84375 -1.421875 12.171875 6.21875 
+Q 5.515625 13.875 5.515625 27.296875 
+Q 5.515625 40.765625 12.171875 48.375 
+Q 18.84375 56 30.609375 56 
+z
+" id="DejaVuSans-111"/>
+       <path d="M 45.40625 46.390625 
+L 45.40625 75.984375 
+L 54.390625 75.984375 
+L 54.390625 0 
+L 45.40625 0 
+L 45.40625 8.203125 
+Q 42.578125 3.328125 38.25 0.953125 
+Q 33.9375 -1.421875 27.875 -1.421875 
+Q 17.96875 -1.421875 11.734375 6.484375 
+Q 5.515625 14.40625 5.515625 27.296875 
+Q 5.515625 40.1875 11.734375 48.09375 
+Q 17.96875 56 27.875 56 
+Q 33.9375 56 38.25 53.625 
+Q 42.578125 51.265625 45.40625 46.390625 
+z
+M 14.796875 27.296875 
+Q 14.796875 17.390625 18.875 11.75 
+Q 22.953125 6.109375 30.078125 6.109375 
+Q 37.203125 6.109375 41.296875 11.75 
+Q 45.40625 17.390625 45.40625 27.296875 
+Q 45.40625 37.203125 41.296875 42.84375 
+Q 37.203125 48.484375 30.078125 48.484375 
+Q 22.953125 48.484375 18.875 42.84375 
+Q 14.796875 37.203125 14.796875 27.296875 
+z
+" id="DejaVuSans-100"/>
+       <path d="M 8.5 21.578125 
+L 8.5 54.6875 
+L 17.484375 54.6875 
+L 17.484375 21.921875 
+Q 17.484375 14.15625 20.5 10.265625 
+Q 23.53125 6.390625 29.59375 6.390625 
+Q 36.859375 6.390625 41.078125 11.03125 
+Q 45.3125 15.671875 45.3125 23.6875 
+L 45.3125 54.6875 
+L 54.296875 54.6875 
+L 54.296875 0 
+L 45.3125 0 
+L 45.3125 8.40625 
+Q 42.046875 3.421875 37.71875 1 
+Q 33.40625 -1.421875 27.6875 -1.421875 
+Q 18.265625 -1.421875 13.375 4.4375 
+Q 8.5 10.296875 8.5 21.578125 
+z
+M 31.109375 56 
+z
+" id="DejaVuSans-117"/>
+       <path d="M 9.421875 75.984375 
+L 18.40625 75.984375 
+L 18.40625 0 
+L 9.421875 0 
+z
+" id="DejaVuSans-108"/>
+       <path d="M 54.890625 33.015625 
+L 54.890625 0 
+L 45.90625 0 
+L 45.90625 32.71875 
+Q 45.90625 40.484375 42.875 44.328125 
+Q 39.84375 48.1875 33.796875 48.1875 
+Q 26.515625 48.1875 22.3125 43.546875 
+Q 18.109375 38.921875 18.109375 30.90625 
+L 18.109375 0 
+L 9.078125 0 
+L 9.078125 54.6875 
+L 18.109375 54.6875 
+L 18.109375 46.1875 
+Q 21.34375 51.125 25.703125 53.5625 
+Q 30.078125 56 35.796875 56 
+Q 45.21875 56 50.046875 50.171875 
+Q 54.890625 44.34375 54.890625 33.015625 
+z
+" id="DejaVuSans-110"/>
+       <path d="M 34.1875 63.1875 
+L 20.796875 26.90625 
+L 47.609375 26.90625 
+z
+M 28.609375 72.90625 
+L 39.796875 72.90625 
+L 67.578125 0 
+L 57.328125 0 
+L 50.6875 18.703125 
+L 17.828125 18.703125 
+L 11.1875 0 
+L 0.78125 0 
+z
+" id="DejaVuSans-65"/>
+       <path d="M 48.78125 52.59375 
+L 48.78125 44.1875 
+Q 44.96875 46.296875 41.140625 47.34375 
+Q 37.3125 48.390625 33.40625 48.390625 
+Q 24.65625 48.390625 19.8125 42.84375 
+Q 14.984375 37.3125 14.984375 27.296875 
+Q 14.984375 17.28125 19.8125 11.734375 
+Q 24.65625 6.203125 33.40625 6.203125 
+Q 37.3125 6.203125 41.140625 7.25 
+Q 44.96875 8.296875 48.78125 10.40625 
+L 48.78125 2.09375 
+Q 45.015625 0.34375 40.984375 -0.53125 
+Q 36.96875 -1.421875 32.421875 -1.421875 
+Q 20.0625 -1.421875 12.78125 6.34375 
+Q 5.515625 14.109375 5.515625 27.296875 
+Q 5.515625 40.671875 12.859375 48.328125 
+Q 20.21875 56 33.015625 56 
+Q 37.15625 56 41.109375 55.140625 
+Q 45.0625 54.296875 48.78125 52.59375 
+z
+" id="DejaVuSans-99"/>
+       <path d="M 18.3125 70.21875 
+L 18.3125 54.6875 
+L 36.8125 54.6875 
+L 36.8125 47.703125 
+L 18.3125 47.703125 
+L 18.3125 18.015625 
+Q 18.3125 11.328125 20.140625 9.421875 
+Q 21.96875 7.515625 27.59375 7.515625 
+L 36.8125 7.515625 
+L 36.8125 0 
+L 27.59375 0 
+Q 17.1875 0 13.234375 3.875 
+Q 9.28125 7.765625 9.28125 18.015625 
+L 9.28125 47.703125 
+L 2.6875 47.703125 
+L 2.6875 54.6875 
+L 9.28125 54.6875 
+L 9.28125 70.21875 
+z
+" id="DejaVuSans-116"/>
+       <path d="M 2.984375 54.6875 
+L 12.5 54.6875 
+L 29.59375 8.796875 
+L 46.6875 54.6875 
+L 56.203125 54.6875 
+L 35.6875 0 
+L 23.484375 0 
+z
+" id="DejaVuSans-118"/>
+       <path d="M 32.171875 -5.078125 
+Q 28.375 -14.84375 24.75 -17.8125 
+Q 21.140625 -20.796875 15.09375 -20.796875 
+L 7.90625 -20.796875 
+L 7.90625 -13.28125 
+L 13.1875 -13.28125 
+Q 16.890625 -13.28125 18.9375 -11.515625 
+Q 21 -9.765625 23.484375 -3.21875 
+L 25.09375 0.875 
+L 2.984375 54.6875 
+L 12.5 54.6875 
+L 29.59375 11.921875 
+L 46.6875 54.6875 
+L 56.203125 54.6875 
+z
+" id="DejaVuSans-121"/>
+      </defs>
+      <use xlink:href="#DejaVuSans-67"/>
+      <use x="69.824219" xlink:href="#DejaVuSans-114"/>
+      <use x="110.9375" xlink:href="#DejaVuSans-112"/>
+      <use x="174.414062" xlink:href="#DejaVuSans-45"/>
+      <use x="210.498047" xlink:href="#DejaVuSans-49"/>
+      <use x="274.121094" xlink:href="#DejaVuSans-32"/>
+      <use x="305.908203" xlink:href="#DejaVuSans-105"/>
+      <use x="333.691406" xlink:href="#DejaVuSans-77"/>
+      <use x="419.970703" xlink:href="#DejaVuSans-111"/>
+      <use x="481.152344" xlink:href="#DejaVuSans-100"/>
+      <use x="544.628906" xlink:href="#DejaVuSans-117"/>
+      <use x="608.007812" xlink:href="#DejaVuSans-108"/>
+      <use x="635.791016" xlink:href="#DejaVuSans-111"/>
+      <use x="696.972656" xlink:href="#DejaVuSans-110"/>
+      <use x="760.351562" xlink:href="#DejaVuSans-32"/>
+      <use x="792.138672" xlink:href="#DejaVuSans-65"/>
+      <use x="858.796875" xlink:href="#DejaVuSans-99"/>
+      <use x="913.777344" xlink:href="#DejaVuSans-116"/>
+      <use x="952.986328" xlink:href="#DejaVuSans-105"/>
+      <use x="980.769531" xlink:href="#DejaVuSans-118"/>
+      <use x="1039.949219" xlink:href="#DejaVuSans-105"/>
+      <use x="1067.732422" xlink:href="#DejaVuSans-116"/>
+      <use x="1106.941406" xlink:href="#DejaVuSans-121"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_5">
+      <defs>
+       <path d="M 0 0 
+L -3.5 0 
+" id="me47514074e" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="45" xlink:href="#me47514074e" y="228.532591"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- −20 -->
+      <g transform="translate(12.674375 233.091654)scale(0.12 -0.12)">
+       <defs>
+        <path d="M 10.59375 35.5 
+L 73.1875 35.5 
+L 73.1875 27.203125 
+L 10.59375 27.203125 
+z
+" id="DejaVuSans-8722"/>
+       </defs>
+       <use xlink:href="#DejaVuSans-8722"/>
+       <use x="83.789062" xlink:href="#DejaVuSans-50"/>
+       <use x="147.412109" xlink:href="#DejaVuSans-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_6">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="45" xlink:href="#me47514074e" y="199.316741"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- −15 -->
+      <g transform="translate(12.674375 203.875803)scale(0.12 -0.12)">
+       <defs>
+        <path d="M 10.796875 72.90625 
+L 49.515625 72.90625 
+L 49.515625 64.59375 
+L 19.828125 64.59375 
+L 19.828125 46.734375 
+Q 21.96875 47.46875 24.109375 47.828125 
+Q 26.265625 48.1875 28.421875 48.1875 
+Q 40.625 48.1875 47.75 41.5 
+Q 54.890625 34.8125 54.890625 23.390625 
+Q 54.890625 11.625 47.5625 5.09375 
+Q 40.234375 -1.421875 26.90625 -1.421875 
+Q 22.3125 -1.421875 17.546875 -0.640625 
+Q 12.796875 0.140625 7.71875 1.703125 
+L 7.71875 11.625 
+Q 12.109375 9.234375 16.796875 8.0625 
+Q 21.484375 6.890625 26.703125 6.890625 
+Q 35.15625 6.890625 40.078125 11.328125 
+Q 45.015625 15.765625 45.015625 23.390625 
+Q 45.015625 31 40.078125 35.4375 
+Q 35.15625 39.890625 26.703125 39.890625 
+Q 22.75 39.890625 18.8125 39.015625 
+Q 14.890625 38.140625 10.796875 36.28125 
+z
+" id="DejaVuSans-53"/>
+       </defs>
+       <use xlink:href="#DejaVuSans-8722"/>
+       <use x="83.789062" xlink:href="#DejaVuSans-49"/>
+       <use x="147.412109" xlink:href="#DejaVuSans-53"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_7">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="45" xlink:href="#me47514074e" y="170.10089"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- −10 -->
+      <g transform="translate(12.674375 174.659953)scale(0.12 -0.12)">
+       <use xlink:href="#DejaVuSans-8722"/>
+       <use x="83.789062" xlink:href="#DejaVuSans-49"/>
+       <use x="147.412109" xlink:href="#DejaVuSans-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_8">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="45" xlink:href="#me47514074e" y="140.88504"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- −5 -->
+      <g transform="translate(20.309375 145.444102)scale(0.12 -0.12)">
+       <use xlink:href="#DejaVuSans-8722"/>
+       <use x="83.789062" xlink:href="#DejaVuSans-53"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_9">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="45" xlink:href="#me47514074e" y="111.669189"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- 0 -->
+      <g transform="translate(30.365 116.228252)scale(0.12 -0.12)">
+       <use xlink:href="#DejaVuSans-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_10">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="45" xlink:href="#me47514074e" y="82.453339"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- 5 -->
+      <g transform="translate(30.365 87.012401)scale(0.12 -0.12)">
+       <use xlink:href="#DejaVuSans-53"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_11">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="45" xlink:href="#me47514074e" y="53.237488"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- 10 -->
+      <g transform="translate(22.73 57.796551)scale(0.12 -0.12)">
+       <use xlink:href="#DejaVuSans-49"/>
+       <use x="63.623047" xlink:href="#DejaVuSans-48"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_13">
+     <!-- Crp-2 iModulon Activity -->
+     <g transform="translate(5.970781 219.078125)rotate(-90)scale(0.13 -0.13)">
+      <use xlink:href="#DejaVuSans-67"/>
+      <use x="69.824219" xlink:href="#DejaVuSans-114"/>
+      <use x="110.9375" xlink:href="#DejaVuSans-112"/>
+      <use x="174.414062" xlink:href="#DejaVuSans-45"/>
+      <use x="210.498047" xlink:href="#DejaVuSans-50"/>
+      <use x="274.121094" xlink:href="#DejaVuSans-32"/>
+      <use x="305.908203" xlink:href="#DejaVuSans-105"/>
+      <use x="333.691406" xlink:href="#DejaVuSans-77"/>
+      <use x="419.970703" xlink:href="#DejaVuSans-111"/>
+      <use x="481.152344" xlink:href="#DejaVuSans-100"/>
+      <use x="544.628906" xlink:href="#DejaVuSans-117"/>
+      <use x="608.007812" xlink:href="#DejaVuSans-108"/>
+      <use x="635.791016" xlink:href="#DejaVuSans-111"/>
+      <use x="696.972656" xlink:href="#DejaVuSans-110"/>
+      <use x="760.351562" xlink:href="#DejaVuSans-32"/>
+      <use x="792.138672" xlink:href="#DejaVuSans-65"/>
+      <use x="858.796875" xlink:href="#DejaVuSans-99"/>
+      <use x="913.777344" xlink:href="#DejaVuSans-116"/>
+      <use x="952.986328" xlink:href="#DejaVuSans-105"/>
+      <use x="980.769531" xlink:href="#DejaVuSans-118"/>
+      <use x="1039.949219" xlink:href="#DejaVuSans-105"/>
+      <use x="1067.732422" xlink:href="#DejaVuSans-116"/>
+      <use x="1106.941406" xlink:href="#DejaVuSans-121"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_12">
+    <path clip-path="url(#pcb39ee63d4)" d="M 95.765449 252 
+L 95.765449 34.56 
+" style="fill:none;stroke:#000000;stroke-dasharray:1.85,0.8;stroke-dashoffset:0;stroke-width:0.5;"/>
+   </g>
+   <g id="line2d_13">
+    <path clip-path="url(#pcb39ee63d4)" d="M 45 111.669189 
+L 324 111.669189 
+" style="fill:none;stroke:#000000;stroke-dasharray:1.85,0.8;stroke-dashoffset:0;stroke-width:0.5;"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 45 252 
+L 45 34.56 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:1.5;"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 324 252 
+L 324 34.56 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:1.5;"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 45 252 
+L 324 252 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:1.5;"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 45 34.56 
+L 324 34.56 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:1.5;"/>
+   </g>
+   <g id="legend_1">
+    <g id="patch_7">
+     <path d="M 333.1 221.55625 
+L 480.304688 221.55625 
+Q 482.904688 221.55625 482.904688 218.95625 
+L 482.904688 67.60375 
+Q 482.904688 65.00375 480.304688 65.00375 
+L 333.1 65.00375 
+Q 330.5 65.00375 330.5 67.60375 
+L 330.5 218.95625 
+Q 330.5 221.55625 333.1 221.55625 
+z
+" style="fill:#ffffff;opacity:0.8;stroke:#cccccc;stroke-linejoin:miter;"/>
+    </g>
+    <g id="PathCollection_415">
+     <defs>
+      <path d="M 0 3.162278 
+C 0.838646 3.162278 1.643056 2.82908 2.236068 2.236068 
+C 2.82908 1.643056 3.162278 0.838646 3.162278 0 
+C 3.162278 -0.838646 2.82908 -1.643056 2.236068 -2.236068 
+C 1.643056 -2.82908 0.838646 -3.162278 0 -3.162278 
+C -0.838646 -3.162278 -1.643056 -2.82908 -2.236068 -2.236068 
+C -2.82908 -1.643056 -3.162278 -0.838646 -3.162278 0 
+C -3.162278 0.838646 -2.82908 1.643056 -2.236068 2.236068 
+C -1.643056 2.82908 -0.838646 3.162278 0 3.162278 
+z
+" id="me57a5cc374" style="stroke:#1f77b4;"/>
+     </defs>
+     <g>
+      <use style="fill:#1f77b4;stroke:#1f77b4;" x="348.7" xlink:href="#me57a5cc374" y="76.669219"/>
+     </g>
+    </g>
+    <g id="text_14">
+     <!-- ΔAr1 (Glyc) -->
+     <g transform="translate(372.1 80.081719)scale(0.13 -0.13)">
+      <defs>
+       <path d="M 34.1875 63.1875 
+L 14.15625 8.203125 
+L 54.25 8.203125 
+z
+M 0.78125 0 
+L 28.609375 72.90625 
+L 39.796875 72.90625 
+L 67.578125 0 
+z
+" id="DejaVuSans-916"/>
+       <path d="M 31 75.875 
+Q 24.46875 64.65625 21.28125 53.65625 
+Q 18.109375 42.671875 18.109375 31.390625 
+Q 18.109375 20.125 21.3125 9.0625 
+Q 24.515625 -2 31 -13.1875 
+L 23.1875 -13.1875 
+Q 15.875 -1.703125 12.234375 9.375 
+Q 8.59375 20.453125 8.59375 31.390625 
+Q 8.59375 42.28125 12.203125 53.3125 
+Q 15.828125 64.359375 23.1875 75.875 
+z
+" id="DejaVuSans-40"/>
+       <path d="M 59.515625 10.40625 
+L 59.515625 29.984375 
+L 43.40625 29.984375 
+L 43.40625 38.09375 
+L 69.28125 38.09375 
+L 69.28125 6.78125 
+Q 63.578125 2.734375 56.6875 0.65625 
+Q 49.8125 -1.421875 42 -1.421875 
+Q 24.90625 -1.421875 15.25 8.5625 
+Q 5.609375 18.5625 5.609375 36.375 
+Q 5.609375 54.25 15.25 64.234375 
+Q 24.90625 74.21875 42 74.21875 
+Q 49.125 74.21875 55.546875 72.453125 
+Q 61.96875 70.703125 67.390625 67.28125 
+L 67.390625 56.78125 
+Q 61.921875 61.421875 55.765625 63.765625 
+Q 49.609375 66.109375 42.828125 66.109375 
+Q 29.4375 66.109375 22.71875 58.640625 
+Q 16.015625 51.171875 16.015625 36.375 
+Q 16.015625 21.625 22.71875 14.15625 
+Q 29.4375 6.6875 42.828125 6.6875 
+Q 48.046875 6.6875 52.140625 7.59375 
+Q 56.25 8.5 59.515625 10.40625 
+z
+" id="DejaVuSans-71"/>
+       <path d="M 8.015625 75.875 
+L 15.828125 75.875 
+Q 23.140625 64.359375 26.78125 53.3125 
+Q 30.421875 42.28125 30.421875 31.390625 
+Q 30.421875 20.453125 26.78125 9.375 
+Q 23.140625 -1.703125 15.828125 -13.1875 
+L 8.015625 -13.1875 
+Q 14.5 -2 17.703125 9.0625 
+Q 20.90625 20.125 20.90625 31.390625 
+Q 20.90625 42.671875 17.703125 53.65625 
+Q 14.5 64.65625 8.015625 75.875 
+z
+" id="DejaVuSans-41"/>
+      </defs>
+      <use xlink:href="#DejaVuSans-916"/>
+      <use x="68.408203" xlink:href="#DejaVuSans-65"/>
+      <use x="136.816406" xlink:href="#DejaVuSans-114"/>
+      <use x="177.929688" xlink:href="#DejaVuSans-49"/>
+      <use x="241.552734" xlink:href="#DejaVuSans-32"/>
+      <use x="273.339844" xlink:href="#DejaVuSans-40"/>
+      <use x="312.353516" xlink:href="#DejaVuSans-71"/>
+      <use x="389.84375" xlink:href="#DejaVuSans-108"/>
+      <use x="417.626953" xlink:href="#DejaVuSans-121"/>
+      <use x="476.806641" xlink:href="#DejaVuSans-99"/>
+      <use x="531.787109" xlink:href="#DejaVuSans-41"/>
+     </g>
+    </g>
+    <g id="PathCollection_416">
+     <defs>
+      <path d="M 0 3.162278 
+C 0.838646 3.162278 1.643056 2.82908 2.236068 2.236068 
+C 2.82908 1.643056 3.162278 0.838646 3.162278 0 
+C 3.162278 -0.838646 2.82908 -1.643056 2.236068 -2.236068 
+C 1.643056 -2.82908 0.838646 -3.162278 0 -3.162278 
+C -0.838646 -3.162278 -1.643056 -2.82908 -2.236068 -2.236068 
+C -2.82908 -1.643056 -3.162278 -0.838646 -3.162278 0 
+C -3.162278 0.838646 -2.82908 1.643056 -2.236068 2.236068 
+C -1.643056 2.82908 -0.838646 3.162278 0 3.162278 
+z
+" id="mf735d42a37" style="stroke:#2ca02c;"/>
+     </defs>
+     <g>
+      <use style="fill:#2ca02c;stroke:#2ca02c;" x="348.7" xlink:href="#mf735d42a37" y="95.750781"/>
+     </g>
+    </g>
+    <g id="text_15">
+     <!-- ΔAr2ΔAr2 (Glyc) -->
+     <g transform="translate(372.1 99.163281)scale(0.13 -0.13)">
+      <use xlink:href="#DejaVuSans-916"/>
+      <use x="68.408203" xlink:href="#DejaVuSans-65"/>
+      <use x="136.816406" xlink:href="#DejaVuSans-114"/>
+      <use x="177.929688" xlink:href="#DejaVuSans-50"/>
+      <use x="241.552734" xlink:href="#DejaVuSans-916"/>
+      <use x="309.960938" xlink:href="#DejaVuSans-65"/>
+      <use x="378.369141" xlink:href="#DejaVuSans-114"/>
+      <use x="419.482422" xlink:href="#DejaVuSans-50"/>
+      <use x="483.105469" xlink:href="#DejaVuSans-32"/>
+      <use x="514.892578" xlink:href="#DejaVuSans-40"/>
+      <use x="553.90625" xlink:href="#DejaVuSans-71"/>
+      <use x="631.396484" xlink:href="#DejaVuSans-108"/>
+      <use x="659.179688" xlink:href="#DejaVuSans-121"/>
+      <use x="718.359375" xlink:href="#DejaVuSans-99"/>
+      <use x="773.339844" xlink:href="#DejaVuSans-41"/>
+     </g>
+    </g>
+    <g id="PathCollection_417">
+     <defs>
+      <path d="M 0 3.162278 
+C 0.838646 3.162278 1.643056 2.82908 2.236068 2.236068 
+C 2.82908 1.643056 3.162278 0.838646 3.162278 0 
+C 3.162278 -0.838646 2.82908 -1.643056 2.236068 -2.236068 
+C 1.643056 -2.82908 0.838646 -3.162278 0 -3.162278 
+C -0.838646 -3.162278 -1.643056 -2.82908 -2.236068 -2.236068 
+C -2.82908 -1.643056 -3.162278 -0.838646 -3.162278 0 
+C -3.162278 0.838646 -2.82908 1.643056 -2.236068 2.236068 
+C -1.643056 2.82908 -0.838646 3.162278 0 3.162278 
+z
+" id="mac61f73375" style="stroke:#ff7f0e;"/>
+     </defs>
+     <g>
+      <use style="fill:#ff7f0e;stroke:#ff7f0e;" x="348.7" xlink:href="#mac61f73375" y="114.832344"/>
+     </g>
+    </g>
+    <g id="text_16">
+     <!-- ΔAr2 (Glyc) -->
+     <g transform="translate(372.1 118.244844)scale(0.13 -0.13)">
+      <use xlink:href="#DejaVuSans-916"/>
+      <use x="68.408203" xlink:href="#DejaVuSans-65"/>
+      <use x="136.816406" xlink:href="#DejaVuSans-114"/>
+      <use x="177.929688" xlink:href="#DejaVuSans-50"/>
+      <use x="241.552734" xlink:href="#DejaVuSans-32"/>
+      <use x="273.339844" xlink:href="#DejaVuSans-40"/>
+      <use x="312.353516" xlink:href="#DejaVuSans-71"/>
+      <use x="389.84375" xlink:href="#DejaVuSans-108"/>
+      <use x="417.626953" xlink:href="#DejaVuSans-121"/>
+      <use x="476.806641" xlink:href="#DejaVuSans-99"/>
+      <use x="531.787109" xlink:href="#DejaVuSans-41"/>
+     </g>
+    </g>
+    <g id="PathCollection_418">
+     <defs>
+      <path d="M 0 3.162278 
+C 0.838646 3.162278 1.643056 2.82908 2.236068 2.236068 
+C 2.82908 1.643056 3.162278 0.838646 3.162278 0 
+C 3.162278 -0.838646 2.82908 -1.643056 2.236068 -2.236068 
+C 1.643056 -2.82908 0.838646 -3.162278 0 -3.162278 
+C -0.838646 -3.162278 -1.643056 -2.82908 -2.236068 -2.236068 
+C -2.82908 -1.643056 -3.162278 -0.838646 -3.162278 0 
+C -3.162278 0.838646 -2.82908 1.643056 -2.236068 2.236068 
+C -1.643056 2.82908 -0.838646 3.162278 0 3.162278 
+z
+" id="m0c7430e053" style="stroke:#fa8072;"/>
+     </defs>
+     <g>
+      <use style="fill:#fa8072;stroke:#fa8072;" x="348.7" xlink:href="#m0c7430e053" y="133.913906"/>
+     </g>
+    </g>
+    <g id="text_17">
+     <!-- ΔCRP (Fru) -->
+     <g transform="translate(372.1 137.326406)scale(0.13 -0.13)">
+      <defs>
+       <path d="M 44.390625 34.1875 
+Q 47.5625 33.109375 50.5625 29.59375 
+Q 53.5625 26.078125 56.59375 19.921875 
+L 66.609375 0 
+L 56 0 
+L 46.6875 18.703125 
+Q 43.0625 26.03125 39.671875 28.421875 
+Q 36.28125 30.8125 30.421875 30.8125 
+L 19.671875 30.8125 
+L 19.671875 0 
+L 9.8125 0 
+L 9.8125 72.90625 
+L 32.078125 72.90625 
+Q 44.578125 72.90625 50.734375 67.671875 
+Q 56.890625 62.453125 56.890625 51.90625 
+Q 56.890625 45.015625 53.6875 40.46875 
+Q 50.484375 35.9375 44.390625 34.1875 
+z
+M 19.671875 64.796875 
+L 19.671875 38.921875 
+L 32.078125 38.921875 
+Q 39.203125 38.921875 42.84375 42.21875 
+Q 46.484375 45.515625 46.484375 51.90625 
+Q 46.484375 58.296875 42.84375 61.546875 
+Q 39.203125 64.796875 32.078125 64.796875 
+z
+" id="DejaVuSans-82"/>
+       <path d="M 19.671875 64.796875 
+L 19.671875 37.40625 
+L 32.078125 37.40625 
+Q 38.96875 37.40625 42.71875 40.96875 
+Q 46.484375 44.53125 46.484375 51.125 
+Q 46.484375 57.671875 42.71875 61.234375 
+Q 38.96875 64.796875 32.078125 64.796875 
+z
+M 9.8125 72.90625 
+L 32.078125 72.90625 
+Q 44.34375 72.90625 50.609375 67.359375 
+Q 56.890625 61.8125 56.890625 51.125 
+Q 56.890625 40.328125 50.609375 34.8125 
+Q 44.34375 29.296875 32.078125 29.296875 
+L 19.671875 29.296875 
+L 19.671875 0 
+L 9.8125 0 
+z
+" id="DejaVuSans-80"/>
+       <path d="M 9.8125 72.90625 
+L 51.703125 72.90625 
+L 51.703125 64.59375 
+L 19.671875 64.59375 
+L 19.671875 43.109375 
+L 48.578125 43.109375 
+L 48.578125 34.8125 
+L 19.671875 34.8125 
+L 19.671875 0 
+L 9.8125 0 
+z
+" id="DejaVuSans-70"/>
+      </defs>
+      <use xlink:href="#DejaVuSans-916"/>
+      <use x="68.408203" xlink:href="#DejaVuSans-67"/>
+      <use x="138.232422" xlink:href="#DejaVuSans-82"/>
+      <use x="207.714844" xlink:href="#DejaVuSans-80"/>
+      <use x="268.017578" xlink:href="#DejaVuSans-32"/>
+      <use x="299.804688" xlink:href="#DejaVuSans-40"/>
+      <use x="338.818359" xlink:href="#DejaVuSans-70"/>
+      <use x="389.087891" xlink:href="#DejaVuSans-114"/>
+      <use x="430.201172" xlink:href="#DejaVuSans-117"/>
+      <use x="493.580078" xlink:href="#DejaVuSans-41"/>
+     </g>
+    </g>
+    <g id="PathCollection_419">
+     <defs>
+      <path d="M 0 3.162278 
+C 0.838646 3.162278 1.643056 2.82908 2.236068 2.236068 
+C 2.82908 1.643056 3.162278 0.838646 3.162278 0 
+C 3.162278 -0.838646 2.82908 -1.643056 2.236068 -2.236068 
+C 1.643056 -2.82908 0.838646 -3.162278 0 -3.162278 
+C -0.838646 -3.162278 -1.643056 -2.82908 -2.236068 -2.236068 
+C -2.82908 -1.643056 -3.162278 -0.838646 -3.162278 0 
+C -3.162278 0.838646 -2.82908 1.643056 -2.236068 2.236068 
+C -1.643056 2.82908 -0.838646 3.162278 0 3.162278 
+z
+" id="m290d0f6646" style="stroke:#ff0000;"/>
+     </defs>
+     <g>
+      <use style="fill:#ff0000;stroke:#ff0000;" x="348.7" xlink:href="#m290d0f6646" y="152.995469"/>
+     </g>
+    </g>
+    <g id="text_18">
+     <!-- ΔCRP (Glc) -->
+     <g transform="translate(372.1 156.407969)scale(0.13 -0.13)">
+      <use xlink:href="#DejaVuSans-916"/>
+      <use x="68.408203" xlink:href="#DejaVuSans-67"/>
+      <use x="138.232422" xlink:href="#DejaVuSans-82"/>
+      <use x="207.714844" xlink:href="#DejaVuSans-80"/>
+      <use x="268.017578" xlink:href="#DejaVuSans-32"/>
+      <use x="299.804688" xlink:href="#DejaVuSans-40"/>
+      <use x="338.818359" xlink:href="#DejaVuSans-71"/>
+      <use x="416.308594" xlink:href="#DejaVuSans-108"/>
+      <use x="444.091797" xlink:href="#DejaVuSans-99"/>
+      <use x="499.072266" xlink:href="#DejaVuSans-41"/>
+     </g>
+    </g>
+    <g id="PathCollection_420">
+     <defs>
+      <path d="M 0 3.162278 
+C 0.838646 3.162278 1.643056 2.82908 2.236068 2.236068 
+C 2.82908 1.643056 3.162278 0.838646 3.162278 0 
+C 3.162278 -0.838646 2.82908 -1.643056 2.236068 -2.236068 
+C 1.643056 -2.82908 0.838646 -3.162278 0 -3.162278 
+C -0.838646 -3.162278 -1.643056 -2.82908 -2.236068 -2.236068 
+C -2.82908 -1.643056 -3.162278 -0.838646 -3.162278 0 
+C -3.162278 0.838646 -2.82908 1.643056 -2.236068 2.236068 
+C -1.643056 2.82908 -0.838646 3.162278 0 3.162278 
+z
+" id="m4b666d5847" style="stroke:#8b0000;"/>
+     </defs>
+     <g>
+      <use style="fill:#8b0000;stroke:#8b0000;" x="348.7" xlink:href="#m4b666d5847" y="172.077031"/>
+     </g>
+    </g>
+    <g id="text_19">
+     <!-- ΔCRP (Glyc) -->
+     <g transform="translate(372.1 175.489531)scale(0.13 -0.13)">
+      <use xlink:href="#DejaVuSans-916"/>
+      <use x="68.408203" xlink:href="#DejaVuSans-67"/>
+      <use x="138.232422" xlink:href="#DejaVuSans-82"/>
+      <use x="207.714844" xlink:href="#DejaVuSans-80"/>
+      <use x="268.017578" xlink:href="#DejaVuSans-32"/>
+      <use x="299.804688" xlink:href="#DejaVuSans-40"/>
+      <use x="338.818359" xlink:href="#DejaVuSans-71"/>
+      <use x="416.308594" xlink:href="#DejaVuSans-108"/>
+      <use x="444.091797" xlink:href="#DejaVuSans-121"/>
+      <use x="503.271484" xlink:href="#DejaVuSans-99"/>
+      <use x="558.251953" xlink:href="#DejaVuSans-41"/>
+     </g>
+    </g>
+    <g id="PathCollection_421">
+     <defs>
+      <path d="M 0 3.162278 
+C 0.838646 3.162278 1.643056 2.82908 2.236068 2.236068 
+C 2.82908 1.643056 3.162278 0.838646 3.162278 0 
+C 3.162278 -0.838646 2.82908 -1.643056 2.236068 -2.236068 
+C 1.643056 -2.82908 0.838646 -3.162278 0 -3.162278 
+C -0.838646 -3.162278 -1.643056 -2.82908 -2.236068 -2.236068 
+C -2.82908 -1.643056 -3.162278 -0.838646 -3.162278 0 
+C -3.162278 0.838646 -2.82908 1.643056 -2.236068 2.236068 
+C -1.643056 2.82908 -0.838646 3.162278 0 3.162278 
+z
+" id="m39c86b3baf" style="stroke:#800080;"/>
+     </defs>
+     <g>
+      <use style="fill:#800080;stroke:#800080;" x="348.7" xlink:href="#m39c86b3baf" y="191.158594"/>
+     </g>
+    </g>
+    <g id="text_20">
+     <!-- WT (Fru) -->
+     <g transform="translate(372.1 194.571094)scale(0.13 -0.13)">
+      <defs>
+       <path d="M 3.328125 72.90625 
+L 13.28125 72.90625 
+L 28.609375 11.28125 
+L 43.890625 72.90625 
+L 54.984375 72.90625 
+L 70.3125 11.28125 
+L 85.59375 72.90625 
+L 95.609375 72.90625 
+L 77.296875 0 
+L 64.890625 0 
+L 49.515625 63.28125 
+L 33.984375 0 
+L 21.578125 0 
+z
+" id="DejaVuSans-87"/>
+       <path d="M -0.296875 72.90625 
+L 61.375 72.90625 
+L 61.375 64.59375 
+L 35.5 64.59375 
+L 35.5 0 
+L 25.59375 0 
+L 25.59375 64.59375 
+L -0.296875 64.59375 
+z
+" id="DejaVuSans-84"/>
+      </defs>
+      <use xlink:href="#DejaVuSans-87"/>
+      <use x="98.876953" xlink:href="#DejaVuSans-84"/>
+      <use x="159.960938" xlink:href="#DejaVuSans-32"/>
+      <use x="191.748047" xlink:href="#DejaVuSans-40"/>
+      <use x="230.761719" xlink:href="#DejaVuSans-70"/>
+      <use x="281.03125" xlink:href="#DejaVuSans-114"/>
+      <use x="322.144531" xlink:href="#DejaVuSans-117"/>
+      <use x="385.523438" xlink:href="#DejaVuSans-41"/>
+     </g>
+    </g>
+    <g id="PathCollection_422">
+     <defs>
+      <path d="M 0 3.162278 
+C 0.838646 3.162278 1.643056 2.82908 2.236068 2.236068 
+C 2.82908 1.643056 3.162278 0.838646 3.162278 0 
+C 3.162278 -0.838646 2.82908 -1.643056 2.236068 -2.236068 
+C 1.643056 -2.82908 0.838646 -3.162278 0 -3.162278 
+C -0.838646 -3.162278 -1.643056 -2.82908 -2.236068 -2.236068 
+C -2.82908 -1.643056 -3.162278 -0.838646 -3.162278 0 
+C -3.162278 0.838646 -2.82908 1.643056 -2.236068 2.236068 
+C -1.643056 2.82908 -0.838646 3.162278 0 3.162278 
+z
+" id="m289be9dddc" style="stroke:#ee82ee;"/>
+     </defs>
+     <g>
+      <use style="fill:#ee82ee;stroke:#ee82ee;" x="348.7" xlink:href="#m289be9dddc" y="210.240156"/>
+     </g>
+    </g>
+    <g id="text_21">
+     <!-- WT (Glyc) -->
+     <g transform="translate(372.1 213.652656)scale(0.13 -0.13)">
+      <use xlink:href="#DejaVuSans-87"/>
+      <use x="98.876953" xlink:href="#DejaVuSans-84"/>
+      <use x="159.960938" xlink:href="#DejaVuSans-32"/>
+      <use x="191.748047" xlink:href="#DejaVuSans-40"/>
+      <use x="230.761719" xlink:href="#DejaVuSans-71"/>
+      <use x="308.251953" xlink:href="#DejaVuSans-108"/>
+      <use x="336.035156" xlink:href="#DejaVuSans-121"/>
+      <use x="395.214844" xlink:href="#DejaVuSans-99"/>
+      <use x="450.195312" xlink:href="#DejaVuSans-41"/>
+     </g>
+    </g>
+   </g>
+   <g id="PathCollection_423">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#1f77b4;stroke:#1f77b4;" x="135.161961" xlink:href="#me57a5cc374" y="179.022698"/>
+    </g>
+   </g>
+   <g id="PathCollection_424">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#2ca02c;stroke:#2ca02c;" x="76.925169" xlink:href="#mf735d42a37" y="241.855477"/>
+    </g>
+   </g>
+   <g id="PathCollection_425">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#ff7f0e;stroke:#ff7f0e;" x="145.012253" xlink:href="#mac61f73375" y="242.116364"/>
+    </g>
+   </g>
+   <g id="PathCollection_426">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#fa8072;stroke:#fa8072;" x="73.140305" xlink:href="#m0c7430e053" y="218.536588"/>
+    </g>
+   </g>
+   <g id="PathCollection_427">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#ff0000;stroke:#ff0000;" x="71.262205" xlink:href="#m290d0f6646" y="224.335343"/>
+    </g>
+   </g>
+   <g id="PathCollection_428">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#8b0000;stroke:#8b0000;" x="69.813328" xlink:href="#m4b666d5847" y="219.865101"/>
+    </g>
+   </g>
+   <g id="PathCollection_429">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#800080;stroke:#800080;" x="135.703016" xlink:href="#m39c86b3baf" y="73.837935"/>
+    </g>
+   </g>
+   <g id="PathCollection_430">
+    <g clip-path="url(#pcb39ee63d4)">
+     <use style="fill:#ee82ee;stroke:#ee82ee;" x="153.510551" xlink:href="#m289be9dddc" y="63.365723"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pcb39ee63d4">
+   <rect height="217.44" width="279" x="45" y="34.56"/>
+  </clipPath>
+ </defs>
+</svg>
