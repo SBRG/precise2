@@ -1,0 +1,173 @@
+[2021-09-02 18:49:55,173] multiqc                                            [DEBUG  ]  No MultiQC config found: /usr/src/multiqc/multiqc_config.yaml
+[2021-09-02 18:49:55,174] multiqc                                            [DEBUG  ]  No MultiQC config found: /root/.multiqc_config.yaml
+[2021-09-02 18:49:55,195] multiqc                                            [DEBUG  ]  Loading config settings from: multiqc_config.yaml
+[2021-09-02 18:49:55,195] multiqc                                            [DEBUG  ]  New config 'title': Aug 30 2021 DDB RNA-seq QC
+[2021-09-02 18:49:55,195] multiqc                                            [DEBUG  ]  New config 'subtitle': Analysis of DDB RNA-seq data
+[2021-09-02 18:49:55,195] multiqc                                            [DEBUG  ]  New config 'report_header_info': [{'Contact E-mail': 'kdecker@ucsd.edu'}, {'Application Type': 'Microbial RNA-seq Analysis'}]
+[2021-09-02 18:49:55,195] multiqc                                            [DEBUG  ]  New config 'custom_logo': None
+[2021-09-02 18:49:55,195] multiqc                                            [DEBUG  ]  New config 'custom_logo_url': None
+[2021-09-02 18:49:55,195] multiqc                                            [DEBUG  ]  New config 'custom_logo_title': None
+[2021-09-02 18:49:55,195] multiqc                                            [DEBUG  ]  New config 'custom_content': {'order': []}
+[2021-09-02 18:49:55,195] multiqc                                            [DEBUG  ]  Added to filename clean extensions: ['val_1', '_val_2', '_1.fastq', '_2.fastq', '.infer_experiment', '_bowtie.txt', '_all.txt.summary']
+[2021-09-02 18:49:55,195] multiqc                                            [DEBUG  ]  New config 'rseqc_sections': ['infer_experiment']
+[2021-09-02 18:49:55,195] multiqc                                            [DEBUG  ]  New config 'run_modules': ['featureCounts', 'bowtie1', 'rseqc', 'cutadapt', 'fastqc']
+[2021-09-02 18:49:55,195] multiqc                                            [DEBUG  ]  New config 'top_modules': []
+[2021-09-02 18:49:55,195] multiqc                                            [DEBUG  ]  New config 'module_order': ['featureCounts', 'bowtie1', 'rseqc', 'cutadapt', 'fastqc']
+[2021-09-02 18:49:55,199] multiqc                                            [DEBUG  ]  Loading config settings from: multiqc_config.yaml
+[2021-09-02 18:49:55,199] multiqc                                            [DEBUG  ]  New config 'title': Aug 30 2021 DDB RNA-seq QC
+[2021-09-02 18:49:55,199] multiqc                                            [DEBUG  ]  New config 'subtitle': Analysis of DDB RNA-seq data
+[2021-09-02 18:49:55,199] multiqc                                            [DEBUG  ]  New config 'report_header_info': [{'Contact E-mail': 'kdecker@ucsd.edu'}, {'Application Type': 'Microbial RNA-seq Analysis'}]
+[2021-09-02 18:49:55,199] multiqc                                            [DEBUG  ]  New config 'custom_logo': None
+[2021-09-02 18:49:55,199] multiqc                                            [DEBUG  ]  New config 'custom_logo_url': None
+[2021-09-02 18:49:55,199] multiqc                                            [DEBUG  ]  New config 'custom_logo_title': None
+[2021-09-02 18:49:55,199] multiqc                                            [DEBUG  ]  New config 'custom_content': {'order': []}
+[2021-09-02 18:49:55,199] multiqc                                            [DEBUG  ]  Added to filename clean extensions: ['val_1', '_val_2', '_1.fastq', '_2.fastq', '.infer_experiment', '_bowtie.txt', '_all.txt.summary']
+[2021-09-02 18:49:55,199] multiqc                                            [DEBUG  ]  New config 'rseqc_sections': ['infer_experiment']
+[2021-09-02 18:49:55,199] multiqc                                            [DEBUG  ]  New config 'run_modules': ['featureCounts', 'bowtie1', 'rseqc', 'cutadapt', 'fastqc']
+[2021-09-02 18:49:55,199] multiqc                                            [DEBUG  ]  New config 'top_modules': []
+[2021-09-02 18:49:55,199] multiqc                                            [DEBUG  ]  New config 'module_order': ['featureCounts', 'bowtie1', 'rseqc', 'cutadapt', 'fastqc']
+[2021-09-02 18:49:55,199] multiqc                                            [DEBUG  ]  Command used: /usr/local/bin/multiqc -f -c multiqc_config.yaml .
+[2021-09-02 18:49:56,632] multiqc                                            [WARNING]  MultiQC Version v1.11 now available!
+[2021-09-02 18:49:56,632] multiqc                                            [INFO   ]  This is MultiQC v1.9.dev0
+[2021-09-02 18:49:56,632] multiqc                                            [DEBUG  ]  Command     : /usr/local/bin/multiqc -f -c multiqc_config.yaml .
+[2021-09-02 18:49:56,632] multiqc                                            [DEBUG  ]  Working dir : /media/katherine/bb2/modulome/modulome/20210830_DDB/modulome-nextflow/work/c7/045e7f6765b3e0ac35d77495bb1e1a
+[2021-09-02 18:49:56,632] multiqc                                            [INFO   ]  Template    : default
+[2021-09-02 18:49:56,632] multiqc                                            [DEBUG  ]  Running Python 3.8.2 (default, Mar 31 2020, 15:36:08)  [GCC 8.3.0]
+[2021-09-02 18:49:56,632] multiqc                                            [INFO   ]  Report title: Aug 30 2021 DDB RNA-seq QC
+[2021-09-02 18:49:56,632] multiqc                                            [INFO   ]  Searching   : /media/katherine/bb2/modulome/modulome/20210830_DDB/modulome-nextflow/work/c7/045e7f6765b3e0ac35d77495bb1e1a
+[2021-09-02 18:49:56,633] multiqc                                            [INFO   ]  Only using modules featureCounts, bowtie1, rseqc, cutadapt, fastqc
+[2021-09-02 18:49:56,633] multiqc                                            [DEBUG  ]  Analysing modules: featureCounts, bowtie1, rseqc, cutadapt, fastqc
+[2021-09-02 18:49:56,633] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmp9v4g2pgn
+[2021-09-02 18:49:56,664] multiqc                                            [DEBUG  ]  Ignored 214 search patterns as didn't match running modules.
+[2021-09-02 18:49:56,750] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R13-S10_val_2_fastqc.html
+[2021-09-02 18:49:56,750] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: NGSDNA22-2_S74_val_2_fastqc.html
+[2021-09-02 18:49:56,750] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R21-S02_val_2_fastqc.html
+[2021-09-02 18:49:56,750] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R14-S10_val_1_fastqc.html
+[2021-09-02 18:49:56,751] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: NGSDNA22-7_S79_val_2_fastqc.html
+[2021-09-02 18:49:56,751] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R22-S02_val_1_fastqc.html
+[2021-09-02 18:49:56,751] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: NGSDNA22-4_S76_val_1_fastqc.html
+[2021-09-02 18:49:56,751] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: NGSDNA22-7_S79_val_1_fastqc.html
+[2021-09-02 18:49:56,751] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R13-S02_val_1_fastqc.html
+[2021-09-02 18:49:56,751] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R15-S10_val_2_fastqc.html
+[2021-09-02 18:49:56,751] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R20-S10_val_1_fastqc.html
+[2021-09-02 18:49:56,751] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R19-S10_val_2_fastqc.html
+[2021-09-02 18:49:56,751] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R17-S10_val_1_fastqc.html
+[2021-09-02 18:49:56,751] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R18-S02_val_2_fastqc.html
+[2021-09-02 18:49:56,752] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: NGSDNA22-3_S75_val_2_fastqc.html
+[2021-09-02 18:49:56,752] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R22-S07_val_1_fastqc.html
+[2021-09-02 18:49:56,752] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R23-S07_val_1_fastqc.html
+[2021-09-02 18:49:56,752] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R22-S07_val_2_fastqc.html
+[2021-09-02 18:49:56,752] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R16-S10_val_2_fastqc.html
+[2021-09-02 18:49:56,752] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R19-S02_val_2_fastqc.html
+[2021-09-02 18:49:56,752] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R18-S10_val_1_fastqc.html
+[2021-09-02 18:49:56,752] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: NGSDNA22-4_S76_val_2_fastqc.html
+[2021-09-02 18:49:56,752] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: NGSDNA22-1_S73_val_2_fastqc.html
+[2021-09-02 18:49:56,752] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R23-S02_val_2_fastqc.html
+[2021-09-02 18:49:56,753] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R19-S10_val_1_fastqc.html
+[2021-09-02 18:49:56,753] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: NGSDNA22-5_S77_val_2_fastqc.html
+[2021-09-02 18:49:56,753] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: NGSDNA22-6_S78_val_2_fastqc.html
+[2021-09-02 18:49:56,753] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R13-S02_val_2_fastqc.html
+[2021-09-02 18:49:56,753] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: NGSDNA22-8_S80_val_2_fastqc.html
+[2021-09-02 18:49:56,753] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R15-S10_val_1_fastqc.html
+[2021-09-02 18:49:56,753] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R21-S07_val_1_fastqc.html
+[2021-09-02 18:49:56,753] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R18-S02_val_1_fastqc.html
+[2021-09-02 18:49:56,753] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R18-S10_val_2_fastqc.html
+[2021-09-02 18:49:56,753] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R22-S02_val_2_fastqc.html
+[2021-09-02 18:49:56,753] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R21-S07_val_2_fastqc.html
+[2021-09-02 18:49:56,753] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: NGSDNA22-1_S73_val_1_fastqc.html
+[2021-09-02 18:49:56,754] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R24-S02_val_2_fastqc.html
+[2021-09-02 18:49:56,754] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: NGSDNA22-6_S78_val_1_fastqc.html
+[2021-09-02 18:49:56,754] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R17-S02_val_1_fastqc.html
+[2021-09-02 18:49:56,754] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R15-S02_val_1_fastqc.html
+[2021-09-02 18:49:56,754] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R23-S07_val_2_fastqc.html
+[2021-09-02 18:49:56,754] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: NGSDNA22-8_S80_val_1_fastqc.html
+[2021-09-02 18:49:56,754] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R20-S02_val_1_fastqc.html
+[2021-09-02 18:49:56,754] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R19-S02_val_1_fastqc.html
+[2021-09-02 18:49:56,754] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R21-S02_val_1_fastqc.html
+[2021-09-02 18:49:56,754] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R17-S02_val_2_fastqc.html
+[2021-09-02 18:49:56,755] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R14-S10_val_2_fastqc.html
+[2021-09-02 18:49:56,755] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R24-S02_val_1_fastqc.html
+[2021-09-02 18:49:56,755] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R20-S10_val_2_fastqc.html
+[2021-09-02 18:49:56,755] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R17-S10_val_2_fastqc.html
+[2021-09-02 18:49:56,755] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: NGSDNA22-5_S77_val_1_fastqc.html
+[2021-09-02 18:49:56,755] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R14-S02_val_2_fastqc.html
+[2021-09-02 18:49:56,755] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R13-S10_val_1_fastqc.html
+[2021-09-02 18:49:56,755] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R16-S10_val_1_fastqc.html
+[2021-09-02 18:49:56,755] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R20-S02_val_2_fastqc.html
+[2021-09-02 18:49:56,755] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R15-S02_val_2_fastqc.html
+[2021-09-02 18:49:56,755] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: NGSDNA22-2_S74_val_1_fastqc.html
+[2021-09-02 18:49:56,755] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: NGSDNA22-3_S75_val_1_fastqc.html
+[2021-09-02 18:49:56,755] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R23-S02_val_1_fastqc.html
+[2021-09-02 18:49:56,755] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB-PD-036-AMBR-R14-S02_val_1_fastqc.html
+[2021-09-02 18:49:57,569] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.2.1
+[2021-09-02 18:49:57,612] multiqc.modules.featureCounts.feature_counts       [INFO   ]  Found 30 reports
+[2021-09-02 18:49:57,621] multiqc.modules.bowtie1.bowtie1                    [INFO   ]  Found 30 reports
+[2021-09-02 18:49:57,631] multiqc.modules.rseqc.rseqc                        [INFO   ]  Found 30 infer_experiment reports
+[2021-09-02 18:49:57,638] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.2.1
+[2021-09-02 18:49:57,648] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: NGSDNA22-6_S78
+[2021-09-02 18:49:57,652] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R18-S02
+[2021-09-02 18:49:57,653] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R13-S02
+[2021-09-02 18:49:57,660] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R21-S02
+[2021-09-02 18:49:57,661] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: NGSDNA22-1_S73
+[2021-09-02 18:49:57,663] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R18-S10
+[2021-09-02 18:49:57,666] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R22-S07
+[2021-09-02 18:49:57,667] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: NGSDNA22-8_S80
+[2021-09-02 18:49:57,668] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R14-S02
+[2021-09-02 18:49:57,668] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: NGSDNA22-5_S77
+[2021-09-02 18:49:57,671] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R24-S02
+[2021-09-02 18:49:57,674] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R14-S10
+[2021-09-02 18:49:57,676] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R13-S10
+[2021-09-02 18:49:57,680] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R23-S07
+[2021-09-02 18:49:57,681] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R17-S02
+[2021-09-02 18:49:57,683] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: NGSDNA22-3_S75
+[2021-09-02 18:49:57,684] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R23-S02
+[2021-09-02 18:49:57,686] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R20-S10
+[2021-09-02 18:49:57,687] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R19-S02
+[2021-09-02 18:49:57,688] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: NGSDNA22-2_S74
+[2021-09-02 18:49:57,689] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R21-S07
+[2021-09-02 18:49:57,690] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R22-S02
+[2021-09-02 18:49:57,690] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: NGSDNA22-4_S76
+[2021-09-02 18:49:57,691] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: NGSDNA22-7_S79
+[2021-09-02 18:49:57,692] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R15-S10
+[2021-09-02 18:49:57,693] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R20-S02
+[2021-09-02 18:49:57,694] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R17-S10
+[2021-09-02 18:49:57,695] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R16-S10
+[2021-09-02 18:49:57,696] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R19-S10
+[2021-09-02 18:49:57,697] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R15-S02
+[2021-09-02 18:49:57,698] multiqc.modules.cutadapt.cutadapt                  [INFO   ]  Found 30 reports
+[2021-09-02 18:49:57,863] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R19-S02
+[2021-09-02 18:49:57,980] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R21-S07
+[2021-09-02 18:49:58,151] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R13-S10
+[2021-09-02 18:49:58,176] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: NGSDNA22-3_S75
+[2021-09-02 18:49:58,200] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: NGSDNA22-7_S79
+[2021-09-02 18:49:58,294] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R22-S07
+[2021-09-02 18:49:58,363] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R17-S10
+[2021-09-02 18:49:58,413] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R14-S02
+[2021-09-02 18:49:58,434] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R19-S10
+[2021-09-02 18:49:58,457] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: NGSDNA22-2_S74
+[2021-09-02 18:49:58,508] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R14-S10
+[2021-09-02 18:49:58,530] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R23-S02
+[2021-09-02 18:49:58,574] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R24-S02
+[2021-09-02 18:49:58,594] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R18-S10
+[2021-09-02 18:49:58,609] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R15-S02
+[2021-09-02 18:49:58,624] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R20-S02
+[2021-09-02 18:49:58,639] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R17-S02
+[2021-09-02 18:49:58,687] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R18-S02
+[2021-09-02 18:49:58,705] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R21-S02
+[2021-09-02 18:49:58,726] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: NGSDNA22-4_S76
+[2021-09-02 18:49:58,809] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: NGSDNA22-5_S77
+[2021-09-02 18:49:58,828] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: NGSDNA22-6_S78
+[2021-09-02 18:49:58,872] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R16-S10
+[2021-09-02 18:49:58,890] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: NGSDNA22-1_S73
+[2021-09-02 18:49:58,935] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R20-S10
+[2021-09-02 18:49:58,959] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R23-S07
+[2021-09-02 18:49:59,143] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R13-S02
+[2021-09-02 18:49:59,249] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R22-S02
+[2021-09-02 18:49:59,610] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB-PD-036-AMBR-R15-S10
+[2021-09-02 18:49:59,639] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: NGSDNA22-8_S80
+[2021-09-02 18:49:59,657] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 30 reports
+[2021-09-02 18:49:59,885] multiqc                                            [INFO   ]  Compressing plot data
+[2021-09-02 18:50:00,340] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2021-09-02 18:50:00,340] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2021-09-02 18:50:00,340] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmp9v4g2pgn/multiqc_data' to '/media/katherine/bb2/modulome/modulome/20210830_DDB/modulome-nextflow/work/c7/045e7f6765b3e0ac35d77495bb1e1a/multiqc_data'
+[2021-09-02 18:50:00,420] multiqc                                            [INFO   ]  MultiQC complete

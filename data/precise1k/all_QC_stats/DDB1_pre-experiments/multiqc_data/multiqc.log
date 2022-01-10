@@ -1,0 +1,174 @@
+[2020-07-20 22:24:08,163] multiqc                                            [DEBUG  ]  No MultiQC config found: /usr/src/multiqc/multiqc_config.yaml
+[2020-07-20 22:24:08,163] multiqc                                            [DEBUG  ]  No MultiQC config found: /root/.multiqc_config.yaml
+[2020-07-20 22:24:08,166] multiqc                                            [DEBUG  ]  Loading config settings from: multiqc_config.yaml
+[2020-07-20 22:24:08,166] multiqc                                            [DEBUG  ]  New config 'title': Modulome
+[2020-07-20 22:24:08,166] multiqc                                            [DEBUG  ]  New config 'subtitle': Analysis of DDB-I RNA-seq data
+[2020-07-20 22:24:08,166] multiqc                                            [DEBUG  ]  New config 'report_header_info': [{'Contact E-mail': 'kdecker@eng.ucsd.edu'}, {'Application Type': 'Microbial RNA-seq Analysis'}]
+[2020-07-20 22:24:08,166] multiqc                                            [DEBUG  ]  New config 'custom_logo': None
+[2020-07-20 22:24:08,166] multiqc                                            [DEBUG  ]  New config 'custom_logo_url': None
+[2020-07-20 22:24:08,166] multiqc                                            [DEBUG  ]  New config 'custom_logo_title': None
+[2020-07-20 22:24:08,166] multiqc                                            [DEBUG  ]  New config 'custom_content': {'order': []}
+[2020-07-20 22:24:08,167] multiqc                                            [DEBUG  ]  Added to filename clean extensions: ['val_1', '_val_2', '_1.fastq', '_2.fastq', '.infer_experiment']
+[2020-07-20 22:24:08,167] multiqc                                            [DEBUG  ]  New config 'rseqc_sections': ['infer_experiment']
+[2020-07-20 22:24:08,167] multiqc                                            [DEBUG  ]  New config 'fn_ignore_paths': ['*/rockhopper/*/genomeBrowserFiles', '*/rockhopper/*/intermediary']
+[2020-07-20 22:24:08,167] multiqc                                            [DEBUG  ]  New config 'run_modules': ['rockhopper', 'rseqc', 'cutadapt', 'fastqc']
+[2020-07-20 22:24:08,167] multiqc                                            [DEBUG  ]  New config 'top_modules': []
+[2020-07-20 22:24:08,167] multiqc                                            [DEBUG  ]  New config 'module_order': ['rockhopper', 'rseqc', 'cutadapt', 'fastqc']
+[2020-07-20 22:24:08,170] multiqc                                            [DEBUG  ]  Loading config settings from: multiqc_config.yaml
+[2020-07-20 22:24:08,170] multiqc                                            [DEBUG  ]  New config 'title': Modulome
+[2020-07-20 22:24:08,170] multiqc                                            [DEBUG  ]  New config 'subtitle': Analysis of DDB-I RNA-seq data
+[2020-07-20 22:24:08,170] multiqc                                            [DEBUG  ]  New config 'report_header_info': [{'Contact E-mail': 'kdecker@eng.ucsd.edu'}, {'Application Type': 'Microbial RNA-seq Analysis'}]
+[2020-07-20 22:24:08,170] multiqc                                            [DEBUG  ]  New config 'custom_logo': None
+[2020-07-20 22:24:08,170] multiqc                                            [DEBUG  ]  New config 'custom_logo_url': None
+[2020-07-20 22:24:08,170] multiqc                                            [DEBUG  ]  New config 'custom_logo_title': None
+[2020-07-20 22:24:08,170] multiqc                                            [DEBUG  ]  New config 'custom_content': {'order': []}
+[2020-07-20 22:24:08,170] multiqc                                            [DEBUG  ]  Added to filename clean extensions: ['val_1', '_val_2', '_1.fastq', '_2.fastq', '.infer_experiment']
+[2020-07-20 22:24:08,170] multiqc                                            [DEBUG  ]  New config 'rseqc_sections': ['infer_experiment']
+[2020-07-20 22:24:08,170] multiqc                                            [DEBUG  ]  New config 'fn_ignore_paths': ['*/rockhopper/*/genomeBrowserFiles', '*/rockhopper/*/intermediary']
+[2020-07-20 22:24:08,170] multiqc                                            [DEBUG  ]  New config 'run_modules': ['rockhopper', 'rseqc', 'cutadapt', 'fastqc']
+[2020-07-20 22:24:08,170] multiqc                                            [DEBUG  ]  New config 'top_modules': []
+[2020-07-20 22:24:08,170] multiqc                                            [DEBUG  ]  New config 'module_order': ['rockhopper', 'rseqc', 'cutadapt', 'fastqc']
+[2020-07-20 22:24:08,170] multiqc                                            [DEBUG  ]  Command used: /usr/local/bin/multiqc -f -c multiqc_config.yaml .
+[2020-07-20 22:24:09,191] multiqc                                            [DEBUG  ]  Latest MultiQC version is v1.9
+[2020-07-20 22:24:09,192] multiqc                                            [INFO   ]  This is MultiQC v1.9.dev0
+[2020-07-20 22:24:09,192] multiqc                                            [DEBUG  ]  Command     : /usr/local/bin/multiqc -f -c multiqc_config.yaml .
+[2020-07-20 22:24:09,192] multiqc                                            [DEBUG  ]  Working dir : /home/katherine/temp/Pre_experimental/modulome-nextflow/work/d4/276ee786503f3aa5ea9e791ba1a2f8
+[2020-07-20 22:24:09,192] multiqc                                            [INFO   ]  Template    : default
+[2020-07-20 22:24:09,192] multiqc                                            [DEBUG  ]  Running Python 3.8.2 (default, Mar 31 2020, 15:36:08)  [GCC 8.3.0]
+[2020-07-20 22:24:09,192] multiqc                                            [INFO   ]  Report title: Modulome
+[2020-07-20 22:24:09,192] multiqc                                            [INFO   ]  Searching   : /home/katherine/temp/Pre_experimental/modulome-nextflow/work/d4/276ee786503f3aa5ea9e791ba1a2f8
+[2020-07-20 22:24:09,192] multiqc                                            [INFO   ]  Only using modules rockhopper, rseqc, cutadapt, fastqc
+[2020-07-20 22:24:09,193] multiqc                                            [DEBUG  ]  Analysing modules: rockhopper, rseqc, cutadapt, fastqc
+[2020-07-20 22:24:09,193] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmpp4vp00ke
+[2020-07-20 22:24:09,200] multiqc                                            [DEBUG  ]  Ignored 215 search patterns as didn't match running modules.
+[2020-07-20 22:24:09,204] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3396_11_M1_5h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,204] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3396_11_M1_5h_fixedconc__1_results/intermediary, ./rockhopper/DDB1__HMP3396_11_M1_5h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,204] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3396_11_M2_16h_fixedVol__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,204] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3396_11_M2_16h_fixedVol__1_results/intermediary, ./rockhopper/DDB1__HMP3396_11_M2_16h_fixedVol__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,204] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3397_03_M2_72h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,204] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3397_03_M2_72h_fixedconc__1_results/intermediary, ./rockhopper/DDB1__HMP3397_03_M2_72h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,204] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3427_03_M1_5h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,204] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3427_03_M1_5h_fixedconc__1_results/intermediary, ./rockhopper/DDB1__HMP3427_03_M1_5h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,204] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3396_03_M1_5h_fixedVol__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,205] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3396_03_M1_5h_fixedVol__1_results/intermediary, ./rockhopper/DDB1__HMP3396_03_M1_5h_fixedVol__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,205] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3427_11_M1_5h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,205] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3427_11_M1_5h_fixedconc__1_results/intermediary, ./rockhopper/DDB1__HMP3427_11_M1_5h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,205] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3427_03_M2_72h_fixedVol__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,205] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3427_03_M2_72h_fixedVol__1_results/intermediary, ./rockhopper/DDB1__HMP3427_03_M2_72h_fixedVol__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,205] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3427_11_M2_16h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,205] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3427_11_M2_16h_fixedconc__1_results/intermediary, ./rockhopper/DDB1__HMP3427_11_M2_16h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,205] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3396_03_M1_5h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,205] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3396_03_M1_5h_fixedconc__1_results/intermediary, ./rockhopper/DDB1__HMP3396_03_M1_5h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,205] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3397_11_M2_16h_fixedVol__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,206] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3397_11_M2_16h_fixedVol__1_results/intermediary, ./rockhopper/DDB1__HMP3397_11_M2_16h_fixedVol__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,206] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3427_11_M1_5h_fixedVol__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,206] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3427_11_M1_5h_fixedVol__1_results/intermediary, ./rockhopper/DDB1__HMP3427_11_M1_5h_fixedVol__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,206] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3396_03_M2_72h_fixedVol__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,206] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3396_03_M2_72h_fixedVol__1_results/intermediary, ./rockhopper/DDB1__HMP3396_03_M2_72h_fixedVol__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,206] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3397_03_M2_72h_fixedVol__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,206] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3397_03_M2_72h_fixedVol__1_results/intermediary, ./rockhopper/DDB1__HMP3397_03_M2_72h_fixedVol__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,206] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3397_11_M2_16h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,207] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3397_11_M2_16h_fixedconc__1_results/intermediary, ./rockhopper/DDB1__HMP3397_11_M2_16h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,207] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3396_11_M2_16h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,207] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3396_11_M2_16h_fixedconc__1_results/intermediary, ./rockhopper/DDB1__HMP3396_11_M2_16h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,207] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3427_03_M2_72h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,207] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3427_03_M2_72h_fixedconc__1_results/intermediary, ./rockhopper/DDB1__HMP3427_03_M2_72h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,207] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3396_03_M2_72h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,207] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3396_03_M2_72h_fixedconc__1_results/intermediary, ./rockhopper/DDB1__HMP3396_03_M2_72h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,207] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3397_11_M1_5h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,207] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3397_11_M1_5h_fixedconc__1_results/intermediary, ./rockhopper/DDB1__HMP3397_11_M1_5h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,207] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3427_11_M2_16h_fixedVol__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,208] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3427_11_M2_16h_fixedVol__1_results/intermediary, ./rockhopper/DDB1__HMP3427_11_M2_16h_fixedVol__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,208] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3397_03_M1_5h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,208] multiqc                                            [DEBUG  ]  Ignoring directory as matched fn_ignore_paths: ./rockhopper/DDB1__HMP3397_03_M1_5h_fixedconc__1_results/intermediary, ./rockhopper/DDB1__HMP3397_03_M1_5h_fixedconc__1_results/genomeBrowserFiles
+[2020-07-20 22:24:09,272] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3396_11_M2_16h_fixedconc__1_val_1_fastqc.html
+[2020-07-20 22:24:09,272] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3427_11_M2_16h_fixedconc__1_val_1_fastqc.html
+[2020-07-20 22:24:09,272] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3427_11_M2_16h_fixedVol__1_val_1_fastqc.html
+[2020-07-20 22:24:09,273] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3397_03_M2_72h_fixedVol__1_val_2_fastqc.html
+[2020-07-20 22:24:09,273] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3396_03_M1_5h_fixedconc__1_val_1_fastqc.html
+[2020-07-20 22:24:09,273] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3397_11_M1_5h_fixedconc__1_val_1_fastqc.html
+[2020-07-20 22:24:09,273] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3396_03_M2_72h_fixedVol__1_val_1_fastqc.html
+[2020-07-20 22:24:09,273] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3397_03_M1_5h_fixedconc__1_val_1_fastqc.html
+[2020-07-20 22:24:09,273] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3427_11_M1_5h_fixedVol__1_val_1_fastqc.html
+[2020-07-20 22:24:09,274] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3427_03_M1_5h_fixedconc__1_val_2_fastqc.html
+[2020-07-20 22:24:09,274] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3396_03_M2_72h_fixedVol__1_val_2_fastqc.html
+[2020-07-20 22:24:09,274] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3427_03_M2_72h_fixedVol__1_val_2_fastqc.html
+[2020-07-20 22:24:09,274] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3396_03_M1_5h_fixedVol__1_val_2_fastqc.html
+[2020-07-20 22:24:09,274] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3397_11_M2_16h_fixedconc__1_val_1_fastqc.html
+[2020-07-20 22:24:09,274] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3396_11_M2_16h_fixedVol__1_val_2_fastqc.html
+[2020-07-20 22:24:09,275] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3427_11_M1_5h_fixedconc__1_val_1_fastqc.html
+[2020-07-20 22:24:09,275] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3397_11_M2_16h_fixedconc__1_val_2_fastqc.html
+[2020-07-20 22:24:09,275] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3427_03_M1_5h_fixedconc__1_val_1_fastqc.html
+[2020-07-20 22:24:09,275] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3427_03_M2_72h_fixedVol__1_val_1_fastqc.html
+[2020-07-20 22:24:09,275] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3427_11_M2_16h_fixedconc__1_val_2_fastqc.html
+[2020-07-20 22:24:09,275] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3396_11_M1_5h_fixedconc__1_val_1_fastqc.html
+[2020-07-20 22:24:09,275] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3397_03_M2_72h_fixedconc__1_val_1_fastqc.html
+[2020-07-20 22:24:09,275] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3396_03_M2_72h_fixedconc__1_val_1_fastqc.html
+[2020-07-20 22:24:09,276] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3427_11_M2_16h_fixedVol__1_val_2_fastqc.html
+[2020-07-20 22:24:09,276] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3427_11_M1_5h_fixedVol__1_val_2_fastqc.html
+[2020-07-20 22:24:09,276] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3396_03_M1_5h_fixedconc__1_val_2_fastqc.html
+[2020-07-20 22:24:09,276] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3396_03_M2_72h_fixedconc__1_val_2_fastqc.html
+[2020-07-20 22:24:09,276] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3427_11_M1_5h_fixedconc__1_val_2_fastqc.html
+[2020-07-20 22:24:09,276] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3396_03_M1_5h_fixedVol__1_val_1_fastqc.html
+[2020-07-20 22:24:09,276] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3396_11_M2_16h_fixedVol__1_val_1_fastqc.html
+[2020-07-20 22:24:09,276] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3427_03_M2_72h_fixedconc__1_val_1_fastqc.html
+[2020-07-20 22:24:09,277] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3396_11_M1_5h_fixedconc__1_val_2_fastqc.html
+[2020-07-20 22:24:09,277] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3397_03_M2_72h_fixedVol__1_val_1_fastqc.html
+[2020-07-20 22:24:09,277] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3396_11_M2_16h_fixedconc__1_val_2_fastqc.html
+[2020-07-20 22:24:09,277] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3397_11_M2_16h_fixedVol__1_val_1_fastqc.html
+[2020-07-20 22:24:09,277] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3397_03_M2_72h_fixedconc__1_val_2_fastqc.html
+[2020-07-20 22:24:09,277] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3427_03_M2_72h_fixedconc__1_val_2_fastqc.html
+[2020-07-20 22:24:09,277] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3397_11_M2_16h_fixedVol__1_val_2_fastqc.html
+[2020-07-20 22:24:09,277] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3397_11_M1_5h_fixedconc__1_val_2_fastqc.html
+[2020-07-20 22:24:09,277] multiqc                                            [DEBUG  ]  Ignoring file as matched an ignore pattern: DDB1__HMP3397_03_M1_5h_fixedconc__1_val_2_fastqc.html
+[2020-07-20 22:24:09,977] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.2.1
+[2020-07-20 22:24:10,030] multiqc.modules.rockhopper.rockhopper              [INFO   ]  Found 20 reports
+[2020-07-20 22:24:10,042] multiqc.modules.rseqc.rseqc                        [INFO   ]  Found 20 infer_experiment reports
+[2020-07-20 22:24:10,051] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.2.1
+[2020-07-20 22:24:10,058] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3427_03_M1_5h_fixedconc__1
+[2020-07-20 22:24:10,059] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3396_11_M2_16h_fixedconc__1
+[2020-07-20 22:24:10,062] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3397_11_M2_16h_fixedconc__1
+[2020-07-20 22:24:10,063] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3427_11_M2_16h_fixedVol__1
+[2020-07-20 22:24:10,070] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3397_11_M1_5h_fixedconc__1
+[2020-07-20 22:24:10,072] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3427_11_M1_5h_fixedVol__1
+[2020-07-20 22:24:10,073] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3396_03_M1_5h_fixedVol__1
+[2020-07-20 22:24:10,076] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3397_11_M2_16h_fixedVol__1
+[2020-07-20 22:24:10,078] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3397_03_M1_5h_fixedconc__1
+[2020-07-20 22:24:10,079] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3427_03_M2_72h_fixedconc__1
+[2020-07-20 22:24:10,080] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3427_11_M1_5h_fixedconc__1
+[2020-07-20 22:24:10,081] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3396_11_M1_5h_fixedconc__1
+[2020-07-20 22:24:10,082] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3397_03_M2_72h_fixedconc__1
+[2020-07-20 22:24:10,083] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3396_11_M2_16h_fixedVol__1
+[2020-07-20 22:24:10,084] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3396_03_M2_72h_fixedVol__1
+[2020-07-20 22:24:10,086] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3397_03_M2_72h_fixedVol__1
+[2020-07-20 22:24:10,087] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3396_03_M2_72h_fixedconc__1
+[2020-07-20 22:24:10,088] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3396_03_M1_5h_fixedconc__1
+[2020-07-20 22:24:10,089] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3427_11_M2_16h_fixedconc__1
+[2020-07-20 22:24:10,090] multiqc.modules.cutadapt.cutadapt                  [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3427_03_M2_72h_fixedVol__1
+[2020-07-20 22:24:10,091] multiqc.modules.cutadapt.cutadapt                  [INFO   ]  Found 20 reports
+[2020-07-20 22:24:10,273] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3397_11_M2_16h_fixedVol__1
+[2020-07-20 22:24:10,307] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3397_11_M1_5h_fixedconc__1
+[2020-07-20 22:24:10,356] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3396_03_M1_5h_fixedVol__1
+[2020-07-20 22:24:10,391] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3427_11_M1_5h_fixedVol__1
+[2020-07-20 22:24:10,408] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3396_11_M1_5h_fixedconc__1
+[2020-07-20 22:24:10,484] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3397_11_M2_16h_fixedconc__1
+[2020-07-20 22:24:10,537] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3427_03_M2_72h_fixedconc__1
+[2020-07-20 22:24:10,555] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3396_03_M2_72h_fixedVol__1
+[2020-07-20 22:24:10,573] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3397_03_M2_72h_fixedVol__1
+[2020-07-20 22:24:10,591] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3427_11_M2_16h_fixedVol__1
+[2020-07-20 22:24:10,609] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3427_11_M2_16h_fixedconc__1
+[2020-07-20 22:24:10,627] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3427_03_M2_72h_fixedVol__1
+[2020-07-20 22:24:10,645] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3396_11_M2_16h_fixedVol__1
+[2020-07-20 22:24:10,663] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3427_03_M1_5h_fixedconc__1
+[2020-07-20 22:24:10,698] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3397_03_M2_72h_fixedconc__1
+[2020-07-20 22:24:10,716] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3396_03_M2_72h_fixedconc__1
+[2020-07-20 22:24:10,733] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3396_11_M2_16h_fixedconc__1
+[2020-07-20 22:24:10,750] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3396_03_M1_5h_fixedconc__1
+[2020-07-20 22:24:10,767] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3427_11_M1_5h_fixedconc__1
+[2020-07-20 22:24:10,784] multiqc.modules.fastqc.fastqc                      [DEBUG  ]  Duplicate sample name found! Overwriting: DDB1__HMP3397_03_M1_5h_fixedconc__1
+[2020-07-20 22:24:10,798] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 20 reports
+[2020-07-20 22:24:10,944] multiqc                                            [INFO   ]  Compressing plot data
+[2020-07-20 22:24:11,298] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2020-07-20 22:24:11,298] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2020-07-20 22:24:11,298] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpp4vp00ke/multiqc_data' to '/home/katherine/temp/Pre_experimental/modulome-nextflow/work/d4/276ee786503f3aa5ea9e791ba1a2f8/multiqc_data'
+[2020-07-20 22:24:11,427] multiqc                                            [INFO   ]  MultiQC complete
